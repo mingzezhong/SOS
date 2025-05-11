@@ -10,6 +10,18 @@ import pyarrow as pa
 import pyarrow.parquet as pq
 from tqdm import tqdm
 
+import logging
+logging.getLogger("vllm").setLevel(logging.WARNING)
+
+from vllm import LLM, SamplingParams
+
+from sample import (
+    threshold_based_sampling,
+    threshold_based_stratified_sampling,
+    threshold_based_uniform_per_class_sampling,
+    sampling,
+)
+
 # 创建 ArgumentParser 对象
 parser = argparse.ArgumentParser(description="处理命令行参数")
 
@@ -24,14 +36,6 @@ parser.add_argument('--min_count', type=int, default=50, help="min_count")
 
 # 解析命令行参数
 args = parser.parse_args()
-
-from sample import (
-    threshold_based_sampling,
-    threshold_based_stratified_sampling,
-    threshold_based_uniform_per_class_sampling,
-    sampling,
-)
-from vllm import LLM, SamplingParams
 
 agents_input_path = f"{os.path.dirname(os.path.dirname(os.path.abspath(__file__)))}/data/persona/agents.json"
 movies_input_path = f"{os.path.dirname(os.path.dirname(os.path.abspath(__file__)))}/data/film/movies.json"
@@ -59,7 +63,7 @@ def call_vllm(prompt: str, fallback_rating: int = None) -> dict:
     使用 vLLM 生成并解析 JSON 输出。
     解析失败时，返回 {"rating": fallback_rating}。
     """
-    outputs = engine.generate([prompt], sampling_params, show_progress=False)
+    outputs = engine.generate([prompt], sampling_params)
     out = outputs[0]
     text = out.outputs[0].text.strip()
 
