@@ -29,8 +29,8 @@ parser = argparse.ArgumentParser(description="处理命令行参数")
 # 添加命令行参数
 parser.add_argument('--hf_model_name', type=str, default='deepseek-ai/DeepSeek-V2-Lite-Chat', help="hf_model_name")
 parser.add_argument('--sample_type', type=str, default='base', help="base, stratified, uniform")
-parser.add_argument('--num_movies', type=int, default=100, help="num_movies")
-parser.add_argument('--agents_per_movie', type=int, default=100, help="agents_per_movie")
+parser.add_argument('--num_movies', type=int, default=3, help="num_movies")
+parser.add_argument('--agents_per_movie', type=int, default=10, help="agents_per_movie")
 parser.add_argument('--rate_num', type=int, default=3, help="rate_num")
 parser.add_argument('--min_count', type=int, default=50, help="min_count")
 
@@ -277,7 +277,7 @@ def rate_movie_both(movie, agents, n):
 
         #### 无 persona (no_psn) ####
         # no_hist
-        prompt3 = prompt_c(agent["persona"], movie_no_psn)
+        prompt3 = prompt_c(movie_no_psn)
         fallback3 = round(total_score_no_psn / total_raters_no_psn)
         resp3 = aggregate_responses(
             [call_vllm(prompt3, fallback3) for _ in range(n)]
@@ -290,7 +290,7 @@ def rate_movie_both(movie, agents, n):
 
         # with_hist
         avg_no_psn = total_score_no_psn / total_raters_no_psn
-        prompt4 = prompt_d(agent["persona"], movie_no_psn, avg_no_psn)
+        prompt4 = prompt_d(movie_no_psn, avg_no_psn)
         fallback4 = round(avg_no_psn)
         resp4 = aggregate_responses(
             [call_vllm(prompt4, fallback4) for _ in range(3)]
