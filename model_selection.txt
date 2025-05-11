@@ -15,7 +15,7 @@ google/gemma-2-27b-it
 
 DeepSeek:
 
-deepseek-ai/DeepSeek-V2-Lite-Chat
+deepseek-ai/DeepSeek-V2-Lite-Chat (runing)
 
 mistralai:
 
