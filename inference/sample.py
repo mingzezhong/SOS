@@ -47,7 +47,7 @@ def threshold_based_sampling(persona_data, sample_size=100, min_count=50):
     else:
         sampled_data = random.sample(filtered_data, sample_size)
     
-    print(f"阈值采样完成，采样数量: {len(sampled_data)}")
+    # print(f"阈值采样完成，采样数量: {len(sampled_data)}")
     return sampled_data
 
 def threshold_based_stratified_sampling(persona_data, sample_size=100, min_count=50):
@@ -109,7 +109,7 @@ def threshold_based_stratified_sampling(persona_data, sample_size=100, min_count
         domain_samples = random.sample(domain_items, count)
         sampled_data.extend(domain_samples)
     
-    print(f"分层采样完成，采样数量: {len(sampled_data)}")
+    # print(f"分层采样完成，采样数量: {len(sampled_data)}")
     return sampled_data
 
 def threshold_based_uniform_per_class_sampling(persona_data, sample_size=100, min_count=50, samples_per_class=2):
@@ -164,7 +164,7 @@ def threshold_based_uniform_per_class_sampling(persona_data, sample_size=100, mi
         )
         sampled_data.extend(additional_samples)
     
-    print(f"均匀采样完成，采样数量: {len(sampled_data)}，使用的domain数量: {len(domains)}")
+    # print(f"均匀采样完成，采样数量: {len(sampled_data)}，使用的domain数量: {len(domains)}")
     return sampled_data
 
 def sampling(data, sample_size=100):
@@ -181,5 +181,5 @@ def sampling(data, sample_size=100):
 
     sampled_data = random.sample(data, sample_size)
     
-    print(f"阈值采样完成，采样数量: {len(sampled_data)}")
+    # print(f"采样完成，采样数量: {len(sampled_data)}")
     return sampled_data
