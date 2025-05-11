@@ -23,7 +23,7 @@ def filter_domains_by_count(persona_data, min_count=50):
     # 筛选出属于valid_domains的persona
     filtered_data = [item for item in persona_data if item["domain"] in valid_domains]
     
-    print(f"筛选后的domain数量: {len(valid_domains)}，数据总量: {len(filtered_data)}")
+    # print(f"筛选后的domain数量: {len(valid_domains)}，数据总量: {len(filtered_data)}")
     return filtered_data
 
 def threshold_based_sampling(persona_data, sample_size=100, min_count=50):
