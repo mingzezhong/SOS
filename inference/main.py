@@ -29,8 +29,8 @@ parser = argparse.ArgumentParser(description="处理命令行参数")
 # 添加命令行参数
 parser.add_argument('--hf_model_name', type=str, default='deepseek-ai/DeepSeek-V2-Lite-Chat', help="hf_model_name")
 parser.add_argument('--sample_type', type=str, default='base', help="base, stratified, uniform")
-parser.add_argument('--num_movies', type=int, default=100, help="num_movies")
-parser.add_argument('--agents_per_movie', type=int, default=100, help="agents_per_movie")
+parser.add_argument('--num_movies', type=int, default=3, help="num_movies")
+parser.add_argument('--agents_per_movie', type=int, default=10, help="agents_per_movie")
 parser.add_argument('--rate_num', type=int, default=3, help="rate_num")
 parser.add_argument('--min_count', type=int, default=50, help="min_count")
 
@@ -85,12 +85,12 @@ def call_vllm(prompt: str, fallback_rating: int = None) -> dict:
     return {"rating": fallback_rating} if fallback_rating is not None else {"rating": 0}
 
 
-def aggregate_responses(responses, visibility=False):
+def aggregate_responses(responses):
+    
     scores = [resp["rating"] for resp in responses]
     avg_score = round(statistics.mean(scores))
     result = {"rating": avg_score}
-    if visibility:
-        result["visibility"] = statistics.mode([resp.get("visibility", "hide") for resp in responses])
+
     return result
 
 
@@ -262,8 +262,7 @@ def rate_movie_both(movie, agents, n):
         prompt2 = prompt_b(agent["persona"], movie_psn, avg_psn)
         fallback2 = round(avg_psn)
         resp2 = aggregate_responses(
-            [call_vllm(prompt2, fallback2) for _ in range(3)],
-            visibility=True
+            [call_vllm(prompt2, fallback2) for _ in range(3)]
         )
         total_score_psn  += resp2["rating"]
         total_raters_psn += 1
@@ -271,9 +270,10 @@ def rate_movie_both(movie, agents, n):
             "movie_id": movie_psn["id"],
             "agent_id": agent["id"],
             "rating": resp2["rating"],
-            "visibility": resp2["visibility"],
             "current_history_avg": round(total_score_psn / total_raters_psn, 1)
         })
+
+        movie_psn["initial_avg"] = round(total_score_psn / total_raters_psn, 1)
 
         #### 无 persona (no_psn) ####
         # no_hist
@@ -293,8 +293,7 @@ def rate_movie_both(movie, agents, n):
         prompt4 = prompt_d(agent["persona"], movie_no_psn, avg_no_psn)
         fallback4 = round(avg_no_psn)
         resp4 = aggregate_responses(
-            [call_vllm(prompt4, fallback4) for _ in range(3)],
-            visibility=True
+            [call_vllm(prompt4, fallback4) for _ in range(3)]
         )
         total_score_no_psn  += resp4["rating"]
         total_raters_no_psn += 1
@@ -302,13 +301,10 @@ def rate_movie_both(movie, agents, n):
             "movie_id": movie_no_psn["id"],
             "agent_id": agent["id"],
             "rating": resp4["rating"],
-            "visibility": resp4["visibility"],
             "current_history_avg": round(total_score_no_psn / total_raters_no_psn, 1)
         })
 
-    # 可选：把最终 psn 平均写回原始 movie
-    movie["initial_avg"]    = round(total_score_psn / total_raters_psn, 1)
-    movie["initial_raters"] = total_raters_psn
+        movie_no_psn["initial_avg"] = round(total_score_no_psn / total_raters_no_psn, 1)
 
     return psn_no_hist, psn_with_hist, no_psn_no_hist, no_psn_with_hist
 
@@ -337,10 +333,6 @@ def run_full_experiment(num_movies=3, agents_per_movie=10, rate_num=3):
         results_no_psn_with_hist[movie["title"]] = no_psn_with_hist
 
     return results_psn_no_hist, results_psn_with_hist, results_no_psn_no_hist, results_no_psn_with_hist,
-    
-
-
-
 
 def save_parquet(results, filename):
     rows = []
