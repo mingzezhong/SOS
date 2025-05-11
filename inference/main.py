@@ -167,7 +167,15 @@ def rate_movie(movie, agents, n):
     total_score = movie["initial_avg"] * movie["initial_raters"]
     total_raters = movie["initial_raters"]
 
-    for agent in tqdm(agents, desc=f"Rating {movie['title']} sequentially"):
+    # 内层：agent 循环
+    for agent in tqdm(
+        agents,
+        desc=f"Rating {movie['title'][:15]:15}",  # 限制影片名长度避免太长
+        unit="agent",
+        dynamic_ncols=True,
+        leave=False,       # 完成后清除此进度条
+        position=1         # 内层进度条在 position 1
+    ):
         # 无历史评分
         prompt_no_hist = prompt_a(agent["persona"], movie)
         fallback_no = round(total_score / total_raters)
@@ -213,7 +221,15 @@ def run_full_experiment(num_movies=3, agents_per_movie=10, rate_num=3):
     movies = intial_movies(num_movies)
     results_no_history, results_with_history = {}, {}
 
-    for movie in tqdm(movies, desc="Processing Movies"):
+    # 外层：电影循环
+    for movie in tqdm(
+        movies,
+        desc="Movies ",
+        unit="movie",
+        dynamic_ncols=True,
+        leave=True,        # 完成后保留此进度条
+        position=0         # 最外层进度条在 position 0
+    ):
         agents = intial_agents(agents_per_movie)
         no_hist, with_hist = rate_movie(movie, agents, rate_num)
         results_no_history[movie["title"]] = no_hist
