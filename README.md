@@ -1,6 +1,6 @@
-1. conda env create -f environment.yml
+1. bash run: conda env create -f environment.yml
 2. enter the path: /SOS/your-usernam/inference
-3. select a huggingface model name from file "model_selection.text"
+3. select a Huggingface model name from the file "model_selection.text"
 4. bash run: python main.py --hf_model_name slected_hf_model_name
 
 example:
@@ -23,7 +23,9 @@ default:
 --rate_num 5: To avoid randomness, each agent rates each movie 3 times
 --min_count 100: Exclude agents whose number in the corresponding domain is less than 50
 
-Here is the translation:
+note: 
+1. only run example a now
+2. if you are running a model, please add "(running)" behind the slected_hf_model_name in the file "model_selection.text"
 
 
 
