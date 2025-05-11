@@ -59,7 +59,7 @@ def call_vllm(prompt: str, fallback_rating: int = None) -> dict:
     使用 vLLM 生成并解析 JSON 输出。
     解析失败时，返回 {"rating": fallback_rating}。
     """
-    outputs = engine.generate([prompt], sampling_params)
+    outputs = engine.generate([prompt], sampling_params, show_progress=False)
     out = outputs[0]
     text = out.outputs[0].text.strip()
 
