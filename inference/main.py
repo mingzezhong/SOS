@@ -5,6 +5,8 @@ import re
 import os
 import argparse
 import copy
+import io, sys
+
 
 import pandas as pd
 import pyarrow as pa
@@ -15,6 +17,7 @@ import logging
 logging.getLogger("vllm").setLevel(logging.WARNING)
 
 from vllm import LLM, SamplingParams
+from contextlib import redirect_stderr
 
 from sample import (
     threshold_based_sampling,
@@ -64,7 +67,10 @@ def call_vllm(prompt: str, fallback_rating: int = None) -> dict:
     使用 vLLM 生成并解析 JSON 输出。
     解析失败时，返回 {"rating": fallback_rating}。
     """
-    outputs = engine.generate([prompt], sampling_params)
+
+    buf_err = io.StringIO()
+    with redirect_stderr(buf_err):
+        outputs = engine.generate([prompt], sampling_params)
     out = outputs[0]
     text = out.outputs[0].text.strip()
 
