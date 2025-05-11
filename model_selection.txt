@@ -1,0 +1,23 @@
+Llama:
+
+meta-llama/Meta-Llama-3-8B-Instruct ok
+meta-llama/Meta-Llama-3-70B-Instruct
+
+Qwen:
+
+Qwen/Qwen2.5-14B-Instruct
+Qwen/Qwen2.5-32B-Instruct
+
+Gemma:
+
+google/gemma-2-9b-it
+google/gemma-2-27b-it
+
+DeepSeek:
+
+deepseek-ai/DeepSeek-V2-Lite-Chat
+
+mistralai:
+
+mistralai/Ministral-8B-Instruct-2410
+

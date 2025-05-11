@@ -1,0 +1,695 @@
+medicine: 975
+biology: 806
+history: 699
+Environmental Science: 358
+Computer Science: 322
+engineering: 321
+Engineering: 307
+education: 307
+History: 294
+physics: 228
+psychology: 206
+mathematics: 196
+Biology: 188
+computer science: 162
+geology: 153
+healthcare: 152
+public health: 150
+economics: 146
+science: 130
+law: 129
+astronomy: 124
+environmental science: 113
+chemistry: 110
+sociology: 101
+Politics: 99
+Education: 84
+anthropology: 76
+neuroscience: 73
+Materials Science: 71
+linguistics: 63
+Social Sciences: 63
+philosophy: 62
+Public Health: 60
+social sciences: 53
+music: 50
+electronics: 50
+finance: 45
+International Relations: 40
+health and wellness: 39
+urban planning: 38
+Agriculture: 37
+Business: 35
+ecology: 35
+Technology: 35
+Psychology: 34
+politics: 31
+Philosophy: 30
+Geography: 29
+Finance: 28
+statistics: 28
+Political Science: 27
+meteorology: 26
+sustainability: 25
+literature: 24
+Geology: 24
+Biotechnology: 23
+Physics: 23
+Anthropology: 22
+materials science: 20
+Business/Management: 20
+aviation: 20
+Software Development: 20
+health: 19
+space exploration: 19
+Art: 19
+climate science: 18
+cybersecurity: 17
+science and technology: 17
+Politics/International Relations: 17
+Military Strategy: 17
+biotechnology: 16
+Architecture: 16
+business: 16
+technology: 16
+nutrition: 16
+computer security: 15
+Art History: 15
+Electrical Engineering: 15
+art: 15
+aerospace engineering: 15
+International Development: 14
+epidemiology: 14
+environmental conservation: 13
+accounting: 13
+Earth Sciences: 13
+Management: 13
+Computer Security: 13
+architecture: 13
+geography: 12
+Communication: 12
+Biomedical Research: 12
+software development: 12
+transportation: 11
+Linguistics: 11
+genetics: 11
+health sciences: 10
+Law: 10
+energy: 10
+biochemistry: 10
+Astronomy: 9
+geophysics: 9
+Music: 9
+Environmental Science/Policy: 9
+journalism: 9
+Business Management: 9
+public administration: 9
+marine biology: 9
+Energy: 8
+Veterinary Medicine: 8
+psychology/neuroscience: 8
+operations management: 8
+communication: 8
+electrical engineering: 8
+Physics/Astronomy: 8
+Environmental Policy: 8
+photography: 7
+arts and entertainment: 7
+education policy: 7
+Social Work: 7
+electronics engineering: 7
+programming: 7
+construction: 7
+healthcare policy: 7
+Language and Linguistics: 6
+emergency management: 6
+Exploration: 6
+Literature: 6
+Astronomy/Astrophysics: 6
+design: 6
+astrophysics: 6
+Computer Science/Engineering: 6
+Computer Graphics: 6
+Business Leadership: 6
+Diplomacy: 6
+literary criticism: 6
+Classics: 6
+Oceanography: 6
+pharmacology: 6
+Biblical studies: 6
+management: 6
+archaeology: 6
+political science: 6
+Business/Finance: 6
+oceanography: 5
+biomedical research: 5
+leadership: 5
+writing: 5
+paleontology: 5
+Information Technology: 5
+Literary Studies: 5
+development: 5
+Language and Literature: 5
+Leadership: 5
+environmental policy: 5
+Sociology: 5
+entrepreneurship: 5
+marketing: 5
+Business/Entrepreneurship: 5
+Environmental Science/Engineering: 5
+Materials Science and Engineering: 5
+Physics/Engineering: 5
+horticulture: 5
+social justice: 5
+literary studies: 5
+Information Science: 5
+business management: 5
+Operations Management: 5
+Policy Analysis: 4
+hydrology: 4
+human rights: 4
+Energy Policy: 4
+security: 4
+cognitive science: 4
+astrobiology: 4
+Politics/Policy: 4
+arts: 4
+energy policy: 4
+sports: 4
+Emergency Management: 4
+Traditional Chinese Medicine: 4
+athletics: 4
+military strategy: 4
+public policy: 4
+data analysis: 4
+Computer Science/Software Engineering: 4
+global health: 4
+Audio Engineering: 4
+IT: 4
+physics/engineering: 4
+Environmental Conservation: 4
+virology: 4
+Paleontology: 4
+ethics: 3
+education technology: 3
+Geology/Earth Sciences: 3
+Computer Science/Software Development: 3
+Politics/Politics and Governance: 3
+Politics/Leadership: 3
+Agriculture/Environmental Science: 3
+web development: 3
+Creative Writing: 3
+Neuroscience: 3
+computer programming: 3
+research: 3
+Urban Planning: 3
+construction management: 3
+software engineering: 3
+communications: 3
+social work: 3
+Geographic Information Systems (GIS): 3
+computer science/technology: 3
+health research: 3
+creative writing: 3
+Fine Arts: 3
+agriculture: 3
+biomechanics: 3
+Film Studies: 3
+medicine/healthcare: 3
+data science: 3
+Writing: 3
+botany: 3
+Environmental Science or Conservation Biology: 3
+logistics: 3
+transportation planning: 3
+Environmental Science/Climate Change: 3
+Mechanical Engineering: 3
+language and linguistics: 3
+Environmental Science/Conservation: 3
+arts and humanities: 3
+Business/Industry: 3
+Business Strategy: 3
+science/engineering: 3
+Computer-Aided Design (CAD): 3
+Social Justice: 3
+Healthcare: 3
+Environmental science: 3
+Artificial Intelligence: 3
+Database Administration: 3
+Military Leadership: 3
+speech therapy: 2
+International Trade: 2
+Language Translation: 2
+materials science and engineering: 2
+business administration: 2
+optics: 2
+Statistics: 2
+Planetary Science: 2
+healthcare research: 2
+genealogy: 2
+Environmental Science or Sustainability: 2
+computer networking: 2
+Materials Science/Engineering: 2
+Environmental Management: 2
+game design: 2
+aviation/aerospace: 2
+global development: 2
+Energy/Environmental Policy: 2
+Politics/Politics and Government: 2
+science/technology: 2
+Film/Video Production: 2
+Information Security: 2
+Marketing: 2
+environmental engineering: 2
+cryptography: 2
+Computer Science/AI: 2
+Education Technology: 2
+physics and engineering: 2
+Policy-making: 2
+International Law: 2
+Public Administration: 2
+regulatory affairs: 2
+social science: 2
+space science: 2
+Judaism: 2
+computing: 2
+Politics/Political Science: 2
+biomedical engineering: 2
+veterinary medicine: 2
+digital marketing: 2
+Transportation Engineering: 2
+Chemical Engineering: 2
+Global Health: 2
+Software Engineering: 2
+Literary Analysis: 2
+Programming: 2
+Human Rights: 2
+audio engineering: 2
+Music Composition: 2
+renewable energy: 2
+bioethics: 2
+earth sciences: 2
+natural sciences: 2
+Public Health Policy: 2
+sustainable development: 2
+Language: 2
+science/research: 2
+history of science: 2
+Policy: 2
+musicology: 2
+Environmental Science or Public Health: 2
+Natural Sciences: 2
+Social sciences: 2
+Theology: 2
+Computer Networking: 2
+Biblical Studies: 2
+Environmental Science/Climate Science: 2
+life sciences: 2
+Military Operations: 2
+Environmental Science/Conservation Biology: 2
+Geosciences: 2
+digital art: 2
+Politics/Diplomacy: 2
+ornithology: 2
+Astronautics: 2
+artificial intelligence: 2
+productivity: 2
+Computer Hardware: 2
+telecommunications: 2
+sports science: 2
+Management/Leadership: 2
+Manufacturing: 2
+social activism: 2
+Data Science: 2
+International Business: 2
+space exploration and technology: 2
+diplomacy: 2
+Computer Science/Networking: 2
+Physics/Astrophysics: 2
+Conflict Resolution: 2
+chemical engineering: 2
+Earth sciences: 2
+Education Administration: 2
+healthcare administration: 2
+Language and Writing: 2
+Energy Economics: 2
+science journalism: 2
+atmospheric science: 2
+Environmental Science or Toxicology: 2
+Accounting: 2
+literary appreciation: 2
+Biomedical Engineering: 2
+Social Science: 2
+landscape architecture: 2
+Environmental Science or Hydrology: 2
+health and medicine: 2
+Visual Arts: 2
+IT security: 1
+biological sciences: 1
+Energy/Resource Economics: 1
+Energy or Power Systems Engineering: 1
+mineralogy: 1
+Government Policy: 1
+Politics and Leadership: 1
+education/career development: 1
+Biomechanics: 1
+Civil Engineering: 1
+health studies: 1
+Architecture/Construction: 1
+Computational Biology: 1
+space technology: 1
+storytelling: 1
+entertainment industry: 1
+Robotics: 1
+Politics/Social Activism: 1
+pharmacy: 1
+environmental management: 1
+safety and risk management: 1
+technology innovation: 1
+venture capital: 1
+Military/Defense: 1
+civil engineering: 1
+Business Valuation: 1
+history/archaeology: 1
+Engineering or Physics: 1
+environmental sciences: 1
+nanotechnology: 1
+Astrophysics: 1
+Ancient History: 1
+Environmental Science/Management: 1
+Office Software: 1
+museum administration: 1
+cancer research: 1
+public health policy: 1
+Construction/Building Management: 1
+information management: 1
+Electronics Engineering: 1
+education/teaching: 1
+military operations: 1
+blockchain: 1
+Asian history or Southeast Asian studies: 1
+computer science/engineering: 1
+Computing: 1
+geospatial information sciences: 1
+American History: 1
+literary analysis: 1
+physical therapy: 1
+computer science/physics: 1
+space operations: 1
+Personal Development: 1
+Astronomy/Planetary Science: 1
+Social Justice/Activism: 1
+Military/Aviation: 1
+Government: 1
+music production: 1
+planning: 1
+advanced technologies: 1
+science and engineering: 1
+Meteorology/Climate Science: 1
+Emergency Response and Disaster Management: 1
+Construction/Building Industry: 1
+astronomy/astrophysics: 1
+environmental protection: 1
+Energy and/or Technology: 1
+Veterinary medicine: 1
+Computer-Aided Design (CAD) or Computer Graphics: 1
+adventure and exploration: 1
+astronautics: 1
+Fashion Design: 1
+Environmental Science/ Sustainability: 1
+Construction Management: 1
+Entertainment Industry: 1
+history/ archaeology: 1
+climate change: 1
+occupational health and safety: 1
+language learning: 1
+International Policy: 1
+Entomology: 1
+business/management: 1
+Occupational Health: 1
+Film/Entertainment Industry: 1
+Social Justice and Equity: 1
+space research and exploration: 1
+acting: 1
+Quality Assurance/Regulatory Compliance: 1
+information technology: 1
+Development: 1
+human development: 1
+Travel and Safety: 1
+spirituality: 1
+IT/Technology: 1
+Space Exploration/Planetary Science: 1
+infectious disease research: 1
+Exploration/Adventure: 1
+Environmental Science/Environmental Engineering: 1
+sociolinguistics: 1
+Computer Graphics/Visual Effects: 1
+energy efficiency: 1
+Education/Management: 1
+problem-solving: 1
+Environmental Science/Toxicology: 1
+Social Services: 1
+physics/astronomy: 1
+construction/infrastructure: 1
+forestry: 1
+Physical Performance: 1
+digital media: 1
+Traditional Medicine: 1
+Government Policy/Regulation: 1
+quantum computing: 1
+sustainability/energy: 1
+food science: 1
+energy and sustainability: 1
+Data Analysis: 1
+Digital Communication: 1
+Computer Science/Technology: 1
+Computer Science/Information Technology: 1
+Management Consulting: 1
+policy analysis: 1
+film history: 1
+biology and psychology: 1
+military strategy and tactics: 1
+biophysics: 1
+Engineering/Infrastructure Development: 1
+materials engineering: 1
+Design: 1
+Social Entrepreneurship: 1
+engineering or computer science: 1
+Data Science, Environmental Science, Economics, Public Health: 1
+neurology: 1
+Aviation: 1
+research funding: 1
+Military History: 1
+Business and Finance: 1
+sailing: 1
+Music/Voice (singing): 1
+conflict resolution: 1
+Literary Criticism: 1
+Rhetoric and Communication: 1
+computational science: 1
+Education Policy/Leadership: 1
+computer graphics: 1
+urban studies: 1
+Environmental Science/Regulation Enforcement: 1
+Politics/Lawmaking: 1
+Science Communication: 1
+entertainment: 1
+geopolitics: 1
+science communication: 1
+bioinformatics: 1
+Business and Management: 1
+event planning: 1
+Aerospace Engineering: 1
+Communication Studies: 1
+Psychology/Neuroscience: 1
+Animal Welfare: 1
+Geospatial Technology: 1
+biomedical sciences: 1
+automotive industry: 1
+geoscience: 1
+Social Activism: 1
+cognitive science/neuroscience: 1
+Computer Science and Engineering: 1
+historical analysis: 1
+digital electronics: 1
+Science: 1
+social entrepreneurship: 1
+Art/Visual Arts: 1
+Communication Sciences: 1
+zoology: 1
+environmental health and safety: 1
+ecology/environmental science: 1
+Environmental law: 1
+Computer Science/Information Security: 1
+health education: 1
+architecture and design: 1
+Music Technology: 1
+Writing/Communication: 1
+entomology: 1
+Politics/Environmental Policy: 1
+Geography/Environmental Science: 1
+engineering and technology: 1
+evaluation: 1
+psychiatry: 1
+Politics/Government: 1
+animal behavior: 1
+fashion: 1
+Environmental Health: 1
+environmental science or policy: 1
+space science and engineering: 1
+Emergency Response: 1
+artificial intelligence and machine learning: 1
+industrial design: 1
+Law Enforcement/Justice System: 1
+IT/Computer Science: 1
+Public Health Research: 1
+film: 1
+space science/astronomy: 1
+water industry: 1
+leadership and management: 1
+risk management: 1
+disaster management: 1
+business strategy: 1
+Education Policy/Management: 1
+space exploration and space science: 1
+energy industry: 1
+finance/trading: 1
+Computer Science or Engineering: 1
+evolutionary biology: 1
+Space Technology/Space Exploration: 1
+English Language and Literature: 1
+Materials Science or Metallurgy: 1
+Public Policy: 1
+Gemology: 1
+Meteorology/Atmospheric Science: 1
+Politics/History: 1
+Film Industry: 1
+Alternative Medicine: 1
+physics and astronomy: 1
+Environmental Science/Environmental Management: 1
+adventure sports: 1
+military strategy and engineering: 1
+Space exploration: 1
+Education/Teaching: 1
+cooking: 1
+information security: 1
+Politics/Economics: 1
+innovation and entrepreneurship: 1
+Literature/Writing: 1
+Music Production: 1
+Business/Industry Analysis: 1
+Physics/Computer Science: 1
+anthropology/archaeology: 1
+neuroscience/biology: 1
+Business Leadership/Management: 1
+crime and law enforcement: 1
+Occupational Health and Safety: 1
+Military Aviation: 1
+Critical Thinking: 1
+Art and Design: 1
+Language and Rhetoric: 1
+Social Impact: 1
+history or social science: 1
+environmental law: 1
+military leadership: 1
+energy technology: 1
+Language and linguistics: 1
+investigative journalism: 1
+film industry: 1
+social sciences/humanities: 1
+Education Policy: 1
+Neuroscience/Biology: 1
+STEM fields: 1
+Government/Disaster Response: 1
+transportation engineering: 1
+Sports: 1
+Environmental Science/Health: 1
+social justice/human rights: 1
+Science and Technology: 1
+Biology/Environmental Science: 1
+space engineering: 1
+Intelligence and Espionage: 1
+Spirituality: 1
+Colonial History: 1
+computer programming and software development: 1
+Environmental Policy/Regulation: 1
+games: 1
+Business Development: 1
+arts and design: 1
+Disaster Risk Management: 1
+Social Justice and Activism: 1
+machine learning: 1
+performance arts: 1
+intelligence analysis: 1
+business and finance: 1
+Decision-making: 1
+personal development: 1
+computational biology: 1
+Sociolinguistics: 1
+Environmental Science or Ecology: 1
+Military/Intelligence: 1
+Environmentalism: 1
+business/entrepreneurship: 1
+health care: 1
+Environmental Science or Atmospheric Science: 1
+environmental studies: 1
+Industrial Design: 1
+American literature: 1
+International Trade and Standardization: 1
+numismatics: 1
+Healthcare Policy: 1
+Humanities: 1
+magic: 1
+robotics and spacecraft engineering: 1
+arts/education: 1
+Computer Engineering: 1
+energy engineering: 1
+arts education: 1
+environmental issues: 1
+Geography/Geospatial Science: 1
+Energy Technology: 1
+Government and Public Administration: 1
+animation: 1
+Environmental/Health Safety: 1
+Performance Arts: 1
+Audio Technology: 1
+astrophysics/astronomy: 1
+Energy/Geopolitics: 1
+psychopharmacology: 1
+cognitive abilities: 1
+management consulting: 1
+Bioscience: 1
+geographic information systems (GIS): 1
+Social Work or Social Services: 1
+Construction: 1
+Environmental Science or Natural Resource Management: 1
+library science: 1
+technology strategy: 1
+digital art/design: 1
+business leadership: 1
+critical thinking: 1
+energy management: 1
+Space exploration/Astronautics: 1
+space and astronomy: 1
+environmental sustainability: 1
+meteorology/weather forecasting: 1
+product design: 1
+Space Exploration/Astronautics: 1
+computer science/data science: 1
+IT Administration: 1
+Personal Finance: 1
+computer science/data management: 1
+Space Exploration/Space Science: 1
+meteorology/climatology: 1
+Materials Science or Engineering: 1
+historical research: 1
+cognitive psychology/neuroscience: 1
+Environmental Health/Toxicology: 1
+Geophysics: 1
+geography/geographic sciences: 1
+philanthropy: 1
+conservation biology: 1
+religion: 1
+health and science: 1
+Rhetoric: 1
+exercise science: 1

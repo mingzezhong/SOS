@@ -1,0 +1,702 @@
+[
+    {
+        "persona": "A tech-savvy individual who is interested in exploring the internet and using various protocols to access different websites. They are likely to be a web developer, a cybersecurity analyst, or someone who frequently uses the internet for work or personal purposes. They are aware of the advantages and disadvantages of different protocols and are looking for the best solution to their specific needs. They are tech-savvy and are familiar with the latest technologies and protocols, including HTTP, SOCKS, and HTTPS.",
+        "general domain (top 1 percent)": "Computer Science",
+        "specific domain (top 1 percent)": "Networking",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A tech enthusiast who is interested in learning new programming languages and tools. They are looking for resources to help them learn Python and are open to exploring different YouTube channels and channels on platforms like YouTube. They are not a beginner but have some experience with programming and are looking for a comprehensive learning experience that covers the basics of Python as well as more advanced topics like web development with Flask and machine learning with Scikit-learn. They are open to trying out different channels and are willing to explore a few before settling on one that's right for them.",
+        "general domain (top 1 percent)": "Computer Science",
+        "specific domain (top 1 percent)": "Python programming",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A software engineer who specializes in the design, development, and programming of microprocessor-based computers and microcontrollers. He has a strong background in microprocessor architecture, operation, flow of digital signals, assembly programming, instruction sets, formats and addressing modes, input-output concepts, microprocessor arithmetic, and laboratory experience programming the Texas Instruments MSP430 16-bit microcontroller in assembly and in C. He is likely to be highly skilled in programming languages such as C and has a deep understanding of the Texas Instruments MSP430 microcontroller. He is likely to have a passion for technology and a strong interest in the design and development of microprocessors.",
+        "general domain (top 1 percent)": "Computer Science",
+        "specific domain (top 1 percent)": "Embedded Systems",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A tech-savvy individual who is concerned about password security and privacy. They are interested in creating complex and secure passwords that are memorable and unique to themselves. They are aware of the risks associated with sharing passwords and prefer to use passphrases or combinations of words and numbers. They are also aware of the importance of using unique and secure passwords for different accounts and avoiding common passwords. They may use a password manager to store their passwords and avoid remembering them.",
+        "general domain (top 1 percent)": "Computer Science",
+        "specific domain (top 1 percent)": "Password Security",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A history professor who is interested in the history of the Cold War and the struggle for freedom in Eastern Europe. He or she is knowledgeable about the events of 1956 in Hungary and the role of the United States in supporting the Hungarian revolution. The persona is also interested in the internal dynamics of the Soviet Union and its policies towards Eastern Europe.",
+        "general domain (top 1 percent)": "history",
+        "specific domain (top 1 percent)": "cold war history",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A historian who specializes in the study of epidemics and their impact on history, particularly in India. They have conducted research on the role of epidemics in shaping socio-political and cultural developments in India and the world. They are interested in understanding the exacerbation of prejudices and power dynamics during times of crises and the potential for pandemics to open new worlds. They are also interested in the impact of pandemics on the lives of ordinary people, particularly those who are marginalized or have limited resources.",
+        "general domain (top 1 percent)": "history",
+        "specific domain (top 1 percent)": "historical epidemiology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A historian and biographer who is particularly interested in the life and career of Frances Perkins, the first female Cabinet member and the driving force behind the creation and design of the Social Security Act, the Fair Labor Standards Act, and the National Recovery Act. The reader is likely to be someone who appreciates and values the contributions of women in history and is interested in learning about the complex and challenging life of Perkins, as well as the impact she had on shaping American history.",
+        "general domain (top 1 percent)": "history",
+        "specific domain (top 1 percent)": "historical biography",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A historian who is interested in the history of Ledbury, England, particularly the town's development from a rural manor to a medieval town and then to a town with significant growth during the late 19th and early 20th centuries. They are interested in the town's street names, the town's history, and the impact of major events such as the opening of the canal and railway. They are knowledgeable about the town's development and its impact on the surrounding area.",
+        "general domain (top 1 percent)": "history",
+        "specific domain (top 1 percent)": "local history",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A history buff who enjoys exploring obscure and unusual historical landmarks, particularly those that have been forgotten or are located in remote areas. This individual is fascinated by the strange and peculiar, and is drawn to places like the Tilts uz nekurienis Bridge to Nowhere in the Latvian countryside.",
+        "general domain (top 1 percent)": "history",
+        "specific domain (top 1 percent)": "None",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "An environmental historian who specializes in the study of the United States' \"vanishing wilderness\", particularly in relation to the early 1800s. His research interests include, but are not limited to, the impact of the natural environment on American culture, the role of literary vehicles in communicating about the environment, and the influence of New England and New York intellectuals on environmental thought. He is also interested in the works of Thomas Cole, Francis Parkman, and Washington Irving, and the impact of their environmental writings on modern environmental thought.",
+        "general domain (top 1 percent)": "history",
+        "specific domain (top 1 percent)": "environmental history",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A materials scientist who specializes in the properties and applications of Portland cement, particularly in the areas of early strength, heat of hydration, and sulfate resistance. She is knowledgeable about the different types of Portland cement and their physical properties, and is interested in understanding how these properties can be modified to meet specific requirements in construction projects. She is also interested in the environmental impact of Portland cement and its potential for sustainable development.",
+        "general domain (top 1 percent)": "Materials Science",
+        "specific domain (top 1 percent)": "Cement Science",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A metallurgist or someone with a deep understanding of the chemical and metallurgical processes involved in the production and use of steel and other metals. They are interested in the specifics of quenching, hardening, and the effects of different liquids and materials on the properties of steel. They are also knowledgeable about the history of steel production and development, including the differences in quality and processing between Japan and other regions, and the factors that led to the development of Japanese steels. They are likely to have a strong interest in the use of mercury or dragons blood in steel production, and are familiar with the advantages and disadvantages of different types of oils and liquids for quenching and hardening.",
+        "general domain (top 1 percent)": "Materials Science",
+        "specific domain (top 1 percent)": "Metallurgy",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A Finale user who frequently encounters and struggles with placing fermatas over empty measures of rests in their music files, seeking a streamlined and efficient method to resolve this issue. They are skilled in music engraving, editing, and composition, and appreciate the importance of accuracy and precision in their work. They are also detail-oriented and seek solutions that minimize manual adjustments and time spent on manual adjustments. They are likely to have a strong understanding of Finale's features and workflow, and are willing to explore alternative methods to achieve the desired result.",
+        "general domain (top 1 percent)": "music",
+        "specific domain (top 1 percent)": "music engraving",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A scientist who studies genetics and developmental biology, specifically focusing on stillbirth and its causes. They are interested in using microarray analysis to detect genetic abnormalities in stillbirths, which could potentially lead to improved management of future pregnancies. They are also interested in the potential impact of these abnormalities on the parents and their health.",
+        "general domain (top 1 percent)": "biology",
+        "specific domain (top 1 percent)": "genetic analysis",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "stillbirth genetics"
+    },
+    {
+        "persona": "A conservation biologist who specializes in the study of the flora and fauna in Kerinci Seblat National Park, particularly the Sumatran tiger and Sumatran rhino. He is passionate about the conservation of these species and is dedicated to their protection through research, education, and advocacy. He has conducted extensive fieldwork in the park and has published numerous articles and papers on the ecology and conservation of these species. He is also involved in community outreach programs to raise awareness about the importance of conservation and the need for sustainable management of natural resources.",
+        "general domain (top 1 percent)": "biology",
+        "specific domain (top 1 percent)": "conservation biology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A scientist who specializes in the study of protein production and its applications in medicine. This scientist has a background in molecular biology and has worked with various antibiotics to understand their mechanism of action. They have made significant contributions to the field of antibiotic resistance and have published several papers on the topic. The scientist is interested in the role of translocators in bacterial protein synthesis and has discovered a new way to protect them from being attacked by antibiotics. They are also interested in the potential use of translocators in cancer research.",
+        "general domain (top 1 percent)": "biology",
+        "specific domain (top 1 percent)": "protein production and its applications in medicine",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A taxonomist or entomologist who is interested in the study of butterflies, specifically focusing on the Heliconiinae subfamily. They are likely to be involved in the research and analysis of the relationships and diversity within this group of butterflies. They may have expertise in phylogenetics, morphology, and the evolution of host plant use, and are likely to be involved in the development of new taxonomic classifications and understanding the relationships between different butterfly species. They may also have a keen interest in the conservation and management of butterfly populations, and may be involved in the development of conservation strategies for these species.",
+        "general domain (top 1 percent)": "biology",
+        "specific domain (top 1 percent)": "entomology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A scientist or researcher who is interested in paleontology, evolutionary biology, and the study of hominins. They are particularly intrigued by the discovery of new species, particularly those that have never been seen before. They are also interested in the development of antivirals to combat diseases, and the study of the evolution of birds and other animals. They are fascinated by the discovery of ancient feces and the study of the Neanderthals, and they are interested in the study of the mouth and skin microbiomes. They are also interested in the study of insects and the development of flight-stabilizing sensors. They are interested in the study of hominin facial bones and the evolution of combat.",
+        "general domain (top 1 percent)": "biology",
+        "specific domain (top 1 percent)": "paleontology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A biologist who is interested in the process of passive transport and diffusion in cells and tissues, particularly focusing on the role of membrane lipids and their ability to control the movement of water and fat-soluble substances. They are interested in the Fluid Mosaic Model and its implications for the understanding of cellular processes.",
+        "general domain (top 1 percent)": "biology",
+        "specific domain (top 1 percent)": "cell membrane biology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A botanist who studies the reproductive biology of flowering plants, particularly those that protect their flowers during the day. They are knowledgeable about the various solutions and methods used by plants to protect their flowers, including closing them at night, and are interested in the evolution of these adaptations. They may also be interested in the ecological and evolutionary implications of these adaptations.",
+        "general domain (top 1 percent)": "biology",
+        "specific domain (top 1 percent)": "plant biology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A person interested in environmental issues, particularly in the field of mercury pollution and its impacts on human health and the environment. This person is likely to have a deep understanding of the Minamata Convention on Mercury and its provisions, as well as its potential to protect people and improve standards of living. They are also likely to be knowledgeable about the impacts of mercury on the human nervous system, and the need for global action on mercury. This person is passionate about the importance of adhering to the obligations of the new treaty and working towards a safer, more sustainable and healthier planet for all.",
+        "general domain (top 1 percent)": "Environmental Science",
+        "specific domain (top 1 percent)": "Environmental Toxicology or Pollution Science",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A Florida environmentalist and activist who is passionate about preserving the natural resources of Florida's Everglades and advocating for sustainable practices to prevent further pollution and damage. They are knowledgeable about the complex issues surrounding the pollution of Lake Okeechobee and the Caloosahatchee and St. Lucie rivers, and are committed to finding solutions that protect the health of the environment and the ecosystem. They are also likely to be aware of the historical and political context of the pollution problem and the role of government and business in its perpetuation.",
+        "general domain (top 1 percent)": "Environmental Science",
+        "specific domain (top 1 percent)": "None",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A researcher who specializes in the study of environmental data collected from sites in the northern foothills of Alaska's Brooks Range, particularly in the field of tundra plant communities and productivity. They are interested in monitoring and predicting biotic responses to climatic change and have been involved in the NSF LTER project since 1975. They have collected diverse environmental data, including climate, tundra plant communities, soils, thaw depth, stream flow, chemistry, and temperature of streams and lakes, as well as lake productivity and nutrient cycling. Their data collection was supported by NSF LTER award #9810222.",
+        "general domain (top 1 percent)": "Environmental Science",
+        "specific domain (top 1 percent)": "Ecological Research (Tundra Ecosystems)",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A climate change activist who is deeply concerned about the impact of climate change and is actively seeking solutions to mitigate its effects. This persona is knowledgeable about the science of climate change and its effects, and is actively involved in campaigns to reduce carbon emissions and promote sustainable practices. They are also aware of the limitations of current approaches to climate change mitigation and are open to alternative solutions.",
+        "general domain (top 1 percent)": "Environmental Science",
+        "specific domain (top 1 percent)": "Climate Change Mitigation",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A historian who specializes in the study of ancient Indian philosophy, particularly the texts and traditions related to yoga and its various forms. His research interests include, but are not limited to, the development and evolution of yoga as a philosophy and practice, its connections to other ancient Indian traditions, and the impact of yoga on the development of modern yoga practices. He is also interested in the historical and cultural context in which yoga emerged and its role in the broader development of Indian philosophy and culture.",
+        "general domain (top 1 percent)": "History",
+        "specific domain (top 1 percent)": "Ancient Indian Philosophy",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A historian and political analyst who specializes in Southeast Asian history and geopolitics, with a particular focus on the Paracel and Spratly Islands disputes between China and its neighbors, Vietnam, the Philippines, and Malaysia. The persona is knowledgeable about the history of the region, the diplomatic and military strategies involved in territorial disputes, and the geopolitical implications of these disputes. They have a deep understanding of the complex relationships between China, Vietnam, the Philippines, Malaysia, and other countries in the region, and how these relationships have evolved over time. They are also skilled at analyzing and interpreting historical and contemporary documents, as well as conducting research and analysis on geopolitical issues.",
+        "general domain (top 1 percent)": "History",
+        "specific domain (top 1 percent)": "Geopolitics",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A historian of martial arts and weaponry, with a particular interest in the use and evolution of traditional Japanese weapons such as the Nata. This person has a deep understanding of the historical context and cultural significance of these tools, and is knowledgeable about the various ways they have been used and adapted throughout history. They have a keen eye for detail and a strong interest in the nuances of martial arts and weaponry, and are fascinated by the ways in which these tools have been used by different cultures and in different historical periods. They are also likely to have a strong appreciation for the aesthetic and functional qualities of these weapons, and are interested in the ways in which they have been used in modern times.",
+        "general domain (top 1 percent)": "History",
+        "specific domain (top 1 percent)": "Martial Arts History",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A historian or military analyst interested in the history of the First World War, particularly the role of the British government in managing the war effort and the strategic decisions made during the Dardanelles and Gallipoli campaigns. This individual would be familiar with the workings of the War Council, Dardanelles Committee, and War Committee, as well as the broader context of the war and the political and military strategies employed by the British government. They would have a deep understanding of the complex and interconnected issues faced by the British military during this period, including issues related to production, manpower, food supply, shipping, and diplomatic relations with allies and neutral countries. They would also have a keen interest in the development of the British military and the role of the government in shaping the war effort.",
+        "general domain (top 1 percent)": "History",
+        "specific domain (top 1 percent)": "Military History",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A statistician who is interested in understanding how to design and conduct effective surveys and experiments. They have a strong background in statistics, including proficiency in statistical software, and are familiar with the principles of sampling theory. They are particularly interested in the unique challenges and complexities that arise when sampling human populations, and are eager to learn how to apply sampling methods to solve these problems. They are also interested in the mathematical and algebraic aspects of sampling theory, and are looking for a course that will provide a solid foundation in these areas.",
+        "general domain (top 1 percent)": "mathematics",
+        "specific domain (top 1 percent)": "statistical mathematics",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A teacher who specializes in teaching Calculus, particularly the concepts of higher order derivatives. She/He has a strong background in algebra and uses step-by-step examples and worked-out problems to explain and demonstrate the theories. The teacher is familiar with a variety of real-world applications of higher order derivatives, such as in physics, engineering, and economics. The teacher uses recommended books and calculus websites to provide additional resources and support for students.",
+        "general domain (top 1 percent)": "mathematics",
+        "specific domain (top 1 percent)": "calculus",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A mathematician who specializes in matrix theory, particularly the concepts and theorems related to determinants, inverses, and the properties of identity matrices. His research interests include, but are not limited to, the structure of square matrices, matrix operations, and the theory of matrix equations. He is skilled in proving properties of matrices and applying them to solve problems in various fields such as engineering, physics, and economics.",
+        "general domain (top 1 percent)": "mathematics",
+        "specific domain (top 1 percent)": "statistical mathematics",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A geneticist or anthropologist who is interested in studying the distribution of genetic haplogroups and their migration patterns. They are particularly curious about the history of the Iceman and his likely relatives, and are eager to expand their research to neighboring countries to confirm the lineage of the 19 men who share a genetic lineage with the Iceman. They are also interested in the topography of the Alps and how it affected the movement of peoples.",
+        "general domain (top 1 percent)": "anthropology",
+        "specific domain (top 1 percent)": "genetic anthropology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A musicologist and ethnomusicologist who specializes in the study of traditional musical instruments from Afghanistan and the Central Asian region. He is known for his extensive fieldwork in Afghanistan and his work on the cultural practices and musical traditions of the region. His research has been documented in his book \"Music in the Culture of Northern Afghanistan\" and his donation of his collection of Afghani musical instruments to The Metropolitan Museum of Art. He has also written about his experiences in Afghanistan and the challenges faced by local musicians in the country.",
+        "general domain (top 1 percent)": "anthropology",
+        "specific domain (top 1 percent)": "ethnomusicology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A NASA administrator who oversees the development and operation of the Antares rocket launch vehicle and the Cygnus capsule for the International Space Station. The persona is responsible for ensuring the success of the launch and the delivery of essential cargo to the ISS. The persona is also responsible for the management and oversight of the Antares program, including the development and testing of the rocket and the Cygnus capsule. The persona has a deep understanding of the strategic space exploration plan and the importance of the launch to the success of the ISS program.",
+        "general domain (top 1 percent)": "engineering",
+        "specific domain (top 1 percent)": "aerospace engineering",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "aerospace engineering"
+    },
+    {
+        "persona": "A team of scientists in Switzerland who are working on developing new methods to deliver drugs to diseased tissue using a miniature robot inspired by nature's microorganisms. They are focused on developing physics that describe the changes in shape and movement of the robot as it navigates through fluid and tissue environments, and are working on improving the robot's ability to swim through fluids. Their research is being conducted at leading science and technology research institutes such as the Ecole Polytechnique Federale de Lausanne (EPFL) and ETH Zurich.",
+        "general domain (top 1 percent)": "engineering",
+        "specific domain (top 1 percent)": "biomedical engineering",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A NASA official responsible for overseeing the Commercial Crew Program, specifically SpaceX's Commercial Crew Transportation Capability (CCtCap) contract. The official is responsible for ensuring that SpaceX meets the certification requirements outlined in the contract and that the Commercial Crew Program meets its goal of returning astronauts into space from U.S. soil by 2017 or so. The official is knowledgeable about the Commercial Crew Program, the development of private American spacecraft, and the space shuttle fleet. The official is also responsible for ensuring that the CCtCap contract is completed successfully and that the SpaceX spacecraft and rocket are ready to carry astronauts into space.",
+        "general domain (top 1 percent)": "engineering",
+        "specific domain (top 1 percent)": "aerospace engineering",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A researcher at the University of East Anglia who specializes in the development of patient-specific virtual birth simulators. The researcher has expertise in 3D graphics, ultrasound data analysis, and the simulation of labor and delivery. The researcher's work aims to improve the preparation and outcomes of births by creating realistic and accurate simulations of labor and delivery. The researcher is known for pioneering the use of patient-specific data in the development of virtual birth simulators and has presented their research at international conferences.",
+        "general domain (top 1 percent)": "engineering",
+        "specific domain (top 1 percent)": "medical simulation",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A medical professional, particularly a physiotherapist or osteoporosis specialist, who is interested in the prevention and treatment of osteoporosis-related conditions such as hyperkyphosis, vertebra fractures, and the dowager's hump. This persona is knowledgeable about the effects of osteoporosis on the spine, the importance of maintaining a good posture, and the potential risks associated with hyperkyphosis. They are interested in the latest research on osteoporosis and the role of exercise in preventing and reversing hyperkyphosis. This persona is also interested in the potential benefits of yoga for treating hyperkyphosis and the benefits of attending weekly yoga classes for improving the hyperkyphotic curve of the spine.",
+        "general domain (top 1 percent)": "medicine",
+        "specific domain (top 1 percent)": "osteoporosis treatment",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A healthcare professional who is interested in the treatment options for thoracic aortic arch aneurysms (TAAs). This person is likely to have expertise in cardiovascular surgery and has conducted research on the safety and effectiveness of hybrid repair compared to open surgical repair in treating TAAs. They are looking for high-quality RCTs and CCTs to evaluate the effectiveness and safety of HR compared to OSR in treating TAAs.",
+        "general domain (top 1 percent)": "medicine",
+        "specific domain (top 1 percent)": "cardiovascular surgery",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "cardiovascular surgery"
+    },
+    {
+        "persona": "A healthcare professional who specializes in the diagnosis and treatment of parasitic infections, particularly those caused by tapeworms. They are knowledgeable in the use of anthelmintic medications and have experience in differentiating between other intestinal infections and other specified taeniasis. They are also aware of the prognosis and treatment outcomes for this condition.",
+        "general domain (top 1 percent)": "medicine",
+        "specific domain (top 1 percent)": "parasitology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A researcher at the University of Michigan School of Dentistry who specializes in the study of bone metastasis, specifically the bone marrow niche and the role of cancer cells in this niche. The researcher has published several studies on this topic and has identified a potential drug target for cancer cells that may help prevent their recurrence in the bone. The researcher's work has implications for the development of new treatments for bone metastasis.",
+        "general domain (top 1 percent)": "medicine",
+        "specific domain (top 1 percent)": "oncology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "bone metastasis"
+    },
+    {
+        "persona": "A medical researcher who is interested in exploring the therapeutic potential of psychedelics, particularly psilocybin, and is conducting preliminary clinical trials to investigate its effects on those facing the limits of their mortality. They are also considering the potential therapeutic benefits of these drugs for those who are experiencing existential distress due to their impending death. They are aware of the challenges associated with the use of psychedelics, such as cultural stigmas and legal restraints, but are dedicated to conducting research to overcome these obstacles and to further understand the brain mechanisms involved in the effects of these drugs.",
+        "general domain (top 1 percent)": "medicine",
+        "specific domain (top 1 percent)": "psychedelic medicine",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "psychedelic medicine"
+    },
+    {
+        "persona": "A patient or healthcare provider who is interested in understanding the symptoms, diagnosis, and treatment options for postherpetic neuralgia (PHN) after having shingles, as well as the risks and factors associated with developing PHN. This persona may be seeking information on medications, treatments, and prevention strategies for managing chronic pain associated with permanent nerve damage.",
+        "general domain (top 1 percent)": "medicine",
+        "specific domain (top 1 percent)": "pain management",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A healthcare professional who specializes in infectious diseases, particularly hand foot and mouth disease and its transmission through coughing and sneezing. They are knowledgeable about the virus's contagious nature, the modes of transmission, and the potential impact on vulnerable populations, including children, college students, and the elderly. They are also aware of the sharing of food and drink among college students and the potential for outbreaks in nursing homes.",
+        "general domain (top 1 percent)": "medicine",
+        "specific domain (top 1 percent)": "infectious disease epidemiology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A pediatrician who specializes in treating children with chronic illnesses, has a keen interest in alternative and conventional medicine, and is committed to educating parents about the potential risks and benefits of blending these therapies.",
+        "general domain (top 1 percent)": "medicine",
+        "specific domain (top 1 percent)": "pediatrics",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A structural engineer with expertise in soil analysis and foundation repair, specifically focused on dealing with black cotton soil and distressed slab on grade foundations. They have a deep understanding of the destructive properties of black cotton soil and its affinity to moisture, which allows them to provide effective repair methods for such foundations. They have experience in designing and constructing structural slabs to ensure the foundation is serviceable and resistant to the effects of black cotton soil.",
+        "general domain (top 1 percent)": "Engineering",
+        "specific domain (top 1 percent)": "Soil Mechanics",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "Distressed Slab on Grade Foundations"
+    },
+    {
+        "persona": "A mineral resource manager and industry expert who specializes in the analysis and management of mineral resources, particularly those related to zircon, rutile, ilmenite, and titanium minerals. They are knowledgeable in the extraction, processing, and marketing of these minerals, as well as their applications in the construction, automotive, and electronics industries. They are skilled in data analysis and interpretation, and have a deep understanding of the global mineral resources market. They are also well-versed in the environmental and social impacts of mining and mineral processing operations.",
+        "general domain (top 1 percent)": "Engineering",
+        "specific domain (top 1 percent)": "Mineral Resource Management",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A design engineer who is a professional in the field of engineering design, particularly in the context of product development and innovation. They are skilled in the use of design briefs and the development of ideas through iterative modelling and testing. They are familiar with the concepts and methodologies of conceptual design and have experience in working with incomplete information, making quick estimates, and being ready to change course. They are adept at drawing on professional knowledge, diversifying inputs by invoking outside interests, and stimulating new connections. They are able to work with the client to resolve any paradoxes in the brief and develop ideas that are responsive to the design criteria and tests.",
+        "general domain (top 1 percent)": "Engineering",
+        "specific domain (top 1 percent)": "Product Development",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A colonist who is dedicated to the advancement of technology and scientific research on the planet Beyond Earth. This individual is skilled in using advanced computer components made from firaxite, which is a strategic resource for Supremacy players. They are also knowledgeable about the properties and applications of firaxite, including its hyperconductivity and use in quantum computing, smart grids, power storage devices, magnetic levitation motors, and fault current inhibitors. Additionally, this colonist is aware of the importance of the electromagnets produced at near-normal temperatures with firaxite in mass spectrometers, SQUID microscopes, bolometers, and particle accelerators, which are vital for scientific research on Beyond Earth.",
+        "general domain (top 1 percent)": "Engineering",
+        "specific domain (top 1 percent)": "Materials Science",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A neuroscientist who specializes in the study of the retina, specifically the processing of light-sensitive tissue and the functioning of retinal microcircuits. Her work focuses on unraveling the function and organization of retinal microcircuits, studying the mechanisms that implement these microcircuits during development and how microcircuits change in retinal degeneration. She uses a combination of electrical and optical recording techniques to study retinal processing and has published several articles in reputable journals such as Current Biology, Nature Reviews Neuroscience, and Annual Review of Neuroscience.",
+        "general domain (top 1 percent)": "neuroscience",
+        "specific domain (top 1 percent)": "retinal neuroscience or retinal physiology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A neuroscientist who specializes in the study of mirror neurons and their role in human emotions and empathy. They are interested in how mirror neurons are activated in the brain during various forms of non-verbal communication, including facial expressions, hand gestures, and lip movements. They also explore the relationship between mirror neurons and human behavior, such as the ability to interpret facial expressions, emotions, attitudes, and intentions. They are curious about how mirror neurons grow and develop over time, and how this relates to the ability to practice empathy and emotional intelligence. They are passionate about the implications of mirror neuron research for understanding the human mind and emotions.",
+        "general domain (top 1 percent)": "neuroscience",
+        "specific domain (top 1 percent)": "neuroscience of social cognition",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "This text is likely written by a teacher who has experience teaching 3rd, 4th, and 5th grade students in a classroom setting. The teacher is experienced and knowledgeable about the Six Traits of Writing and the conventions of writing, and is looking to create a comprehensive lesson plan for their students. The teacher is looking for a way to engage their students in writing and improve their writing skills. The teacher is also looking for a way to make the teaching process more efficient and effective, and is seeking out resources that can help them achieve this goal.",
+        "general domain (top 1 percent)": "education",
+        "specific domain (top 1 percent)": "elementary education",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A professor who specializes in the study of educational psychology and is particularly interested in the effects of stereotype threat on minority students in standardized examinations. She has conducted extensive research on the topic and has developed simple and effective strategies to mitigate the impact of stereotype threat on minority students. She is passionate about creating a level playing field for all students and believes that standardized testing is an important indicator of academic performance, but it is not a necessary or sufficient tool to bridge the achievement gap between minority and majority students. She is a strong advocate for overhauling an unequal system and believes that public education has the potential to make a significant difference in addressing the race-based achievement gap.",
+        "general domain (top 1 percent)": "education",
+        "specific domain (top 1 percent)": "educational psychology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "This text is likely written by a professional literacy expert who is interested in sharing their knowledge and expertise on teaching writing through family involvement and persuasive writing. They are passionate about the power of writing to serve students' needs and motivated to share their insights and strategies with other literacy professionals. They are knowledgeable about the multifaceted nature of writing and the centrality of writing for an audience, and they are skilled in designing writing curricula that highlight the importance of authentic writing experiences for students.",
+        "general domain (top 1 percent)": "education",
+        "specific domain (top 1 percent)": "literacy education or writing instruction",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A dedicated and committed educator who values truth and integrity in all aspects of their work. They are passionate about the development of critical thinking and questioning skills in students, and believe that truth is a key value that shapes the way they lead and guide their students. They are grateful for the opportunities provided by Trinity and are committed to investing in their students' potential and development. They are knowledgeable and experienced in the field of education, with a focus on developing informed, aware, and active citizens through the pursuit of understanding, wisdom, and integrity in all areas of school life.",
+        "general domain (top 1 percent)": "education",
+        "specific domain (top 1 percent)": "education leadership",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A politician who is passionate about the development and implementation of a state lottery in North Carolina, particularly in funding education improvements. This persona is known for their strong advocacy for the use of lotteries to support educational institutions and community projects, and their efforts to overcome opposition from various groups and concerns. They are also known for their ability to navigate complex political landscapes and for their dedication to the cause of education reform.",
+        "general domain (top 1 percent)": "Politics",
+        "specific domain (top 1 percent)": "Public Policy",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A state legislator who is passionate about climate change and renewable energy, and has introduced legislation to address the looming energy storage crisis in California. They understand the importance of balancing energy supply and demand across a massive grid and are committed to developing new clean energy solutions to meet California's climate goals. They are knowledgeable about the CPUC process and have a clear vision for the future of energy storage in California.",
+        "general domain (top 1 percent)": "Politics",
+        "specific domain (top 1 percent)": "Energy Policy",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A geologist who specializes in the study of metamorphism and the formation of metamorphic rocks, particularly quartzites, metabasic and -acid volcanics. They are familiar with the bandak group, the Telemark suite, and the process of deformation and metamorphism. Their expertise includes the study of the steeply plunging folds and the formation of sulphide-bearing quartz veins. They have experience with X-ray diffraction data and the alteration of molybdenite. They are also knowledgeable about the formation of metamorphic rocks and the processes of deformation and metamorphism.",
+        "general domain (top 1 percent)": "geology",
+        "specific domain (top 1 percent)": "metamorphic petrology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A geologist who specializes in the study of continental ice sheets, specifically the bedrock beneath Greenland. The geologist has extensive experience in analyzing and interpreting data from airborne science missions, such as those conducted by NASA's Operation IceBridge. They have a keen interest in discovering new features and patterns beneath the surface, and are particularly interested in the role of subglacial meltwater in transporting water from the interior of Greenland to the coast. They are likely to be interested in the discovery of a massive canyon buried under the Greenland ice sheet and its potential impact on the movement of water and the environment.",
+        "general domain (top 1 percent)": "geology",
+        "specific domain (top 1 percent)": "continental geology/glaciology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A linguistics professor who studies the effects of digital communication on written language, specifically focusing on the impact of texting on grammar and spelling. She is particularly interested in the differences between texting and formal writing, and how young people adapt their language style to fit the casual format of texting. Her research interests include the development of language skills in adolescents and young adults, as well as the role of technology in shaping language use. She is also interested in the potential benefits of texting for language development, as long as students can maintain a clear distinction between their casual language style and formal writing.",
+        "general domain (top 1 percent)": "linguistics",
+        "specific domain (top 1 percent)": "language acquisition and language development",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A researcher or scholar who specializes in the British National Corpus (BNC), a 100 million word collection of written and spoken language samples from a wide range of sources, designed to represent a wide cross-section of British English from the later part of the 20th century, both spoken and written. The BNC contains examples of both spoken and written language, and is not limited to any particular subject field, genre or register. The BNC is designed to provide a comprehensive and representative corpus for the study of British English, and is used for research in fields such as linguistics, English language and literature, and cultural studies. The BNC is a valuable resource for scholars and researchers who are interested in studying the evolution and variation of British English over time.",
+        "general domain (top 1 percent)": "linguistics",
+        "specific domain (top 1 percent)": "corpus linguistics",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A Canadian man who is passionate about health and wellness, particularly in relation to prostate cancer and lung cancer. He is dedicated to raising awareness about these diseases and advocating for increased funding for cancer research and treatment. He is also interested in the impact of smoking on health and the stigmatization of lung cancer. He is likely to be involved in health organizations, social media campaigns, and community events.",
+        "general domain (top 1 percent)": "healthcare",
+        "specific domain (top 1 percent)": "cancer research and advocacy",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A healthcare professional who is interested in telemedicine and remote patient monitoring, particularly in rural areas. This person is knowledgeable about the challenges of implementing technology-assisted services in underserved communities and the need for high-speed broadband coverage. They are aware of the importance of connected care technology in improving medical outcomes and are interested in the potential of new tools and technologies to address these challenges. This person is also aware of the challenges and concerns related to public and private health insurance coverage, reimbursement, and the need for investment in rural areas.",
+        "general domain (top 1 percent)": "healthcare",
+        "specific domain (top 1 percent)": "telemedicine",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A constitutional scholar with a deep understanding of the Bill of Rights and its importance in protecting individual rights and liberties. The individual is knowledgeable about the various amendments and their significance, and is passionate about preserving the principles of freedom and equality enshrined in the Constitution. They are also concerned about issues such as civil liberties, due process, and the separation of powers, and are dedicated to advocating for the rights of marginalized communities.",
+        "general domain (top 1 percent)": "law",
+        "specific domain (top 1 percent)": "Constitutional law",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A constitutional scholar who is deeply concerned about the preservation of the Constitution and the rights of the individual. He is a strong advocate for strict constructionism and the Bill of Rights, and he played a key role in the drafting of the Virginia Declaration of Rights. He is also a strong opponent of nullification and the idea that a single state could nullify a federal law. He is a skilled negotiator and is skilled at working behind the scenes to undermine political opponents. He is a master of the Constitution and its interpretation, and he is a strong advocate for the rights of the individual. He is a Virginia native and is deeply committed to the principles of the state. He is also a skilled writer and has a gift for explaining complex legal concepts in simple terms. He is a man of strong character and is committed to upholding the principles of the Constitution.",
+        "general domain (top 1 percent)": "law",
+        "specific domain (top 1 percent)": "constitutional law",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A computer programmer who specializes in the field of hashing and cryptography, particularly the use of MD5 hashing for secure data storage and transmission. They are skilled in the creation and manipulation of MD5 hashes, as well as in the analysis and interpretation of hash output to ensure the integrity and authenticity of data. They are proficient in using MD5 hashing to encode strings of up to 256 characters in duration, and they are also familiar with the use of MD5 hashes for ensuring the statistical integrity of files.",
+        "general domain (top 1 percent)": "computer science",
+        "specific domain (top 1 percent)": "cryptography",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A MySQL and MariaDB administrator who is interested in understanding the concepts and features of both databases, particularly in setting up GTIDs, using virtual columns, building Sphinx tables, and setting up GTIDs in both databases. She is also interested in understanding the differences between MariaDB and MySQL, and comparing their features.",
+        "general domain (top 1 percent)": "computer science",
+        "specific domain (top 1 percent)": "database administration",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A researcher or health professional who is interested in the ethical implications of incentive-based systems in public health programs, particularly those related to immunization. They are familiar with behavioral psychology and medical ethics, and are looking for ways to improve the implementation of Seva Mandir's immunization program in rural Udaipur.",
+        "general domain (top 1 percent)": "public health",
+        "specific domain (top 1 percent)": "health behavior change",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A researcher and scientist in the field of environmental health, particularly focusing on the impact of lead exposure on children's sleep patterns and overall health. The individual is likely to be interested in studying the long-term effects of lead pollution on children and the development of sleep disorders, as well as the use of sleep-related symptoms as a diagnostic tool for lead exposure. They may also be interested in the potential long-term consequences of lead exposure, such as cognitive and behavioral effects, and the development of sleep disorders in children.",
+        "general domain (top 1 percent)": "public health",
+        "specific domain (top 1 percent)": "environmental health",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A dermatologist who specializes in the study of the skin, its layers, and the functions they perform. They are knowledgeable about the dermis, hypodermis, and epidermis and how they work together to maintain the skin's elasticity, strength, and firmness. They are also familiar with the bone structure, including the living and non-living components, and the process of bone formation and ossification. They are interested in understanding how the bone structure affects the body's overall health and function.",
+        "general domain (top 1 percent)": "Biology",
+        "specific domain (top 1 percent)": "Dermatology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A person who is interested in bats and their behavior, particularly in the context of rabies and disease transmission. This person may have a background in biology or veterinary medicine and is interested in understanding how bats spread diseases and how to prevent them. They may also be concerned about the health and safety of bat colonies and are looking for ways to manage and control them. This person is likely to be interested in reading about bat behavior, disease transmission, and control measures, and may have a particular interest in the Mexican free-tailed bat, which is known to carry rabies.",
+        "general domain (top 1 percent)": "Biology",
+        "specific domain (top 1 percent)": "Bat biology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "Bat rabies research"
+    },
+    {
+        "persona": "A scientist who is interested in understanding the mechanisms of evolution and the role of genes in shaping the diversity of species. They are particularly fascinated by the concept of the \"selfish gene\" and the idea of how mutations can lead to the spread of genes through populations. They are also likely to be familiar with the term \"meiotic drive\" and its implications for population genetics.",
+        "general domain (top 1 percent)": "Biology",
+        "specific domain (top 1 percent)": "Population Genetics",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A physics enthusiast who is interested in the physics behind the functioning of metal and the physics behind the sound produced by metal. This person is likely to be curious about the physical properties of metals and their sound, and may have a background in physics or engineering. They may also be interested in the physics behind the brakes on British Rail InterCity trains and how they affect the sound produced by the trains.",
+        "general domain (top 1 percent)": "physics",
+        "specific domain (top 1 percent)": "acoustics",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A physics enthusiast who is fascinated by the concept of curvature and the forces that can make an object curve. They are curious about the mechanics of bullets and how they can be controlled to move in a curved path. They have a keen interest in the physics behind the motion of objects and how forces can affect their motion. They are open-minded and willing to explore unconventional ideas and solutions. They enjoy solving puzzles and finding patterns in the world around them. They are not afraid to experiment and try new things, even if it means going against the grain.",
+        "general domain (top 1 percent)": "physics",
+        "specific domain (top 1 percent)": "None",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A scientist who is deeply interested in the work of Albert Einstein, and is particularly interested in his contributions to the field of physics. This persona is likely to be a scholar or researcher who is passionate about the study of science and the history of science. They are likely to be knowledgeable about Einstein's landmark findings and his philosophical essays on Zionism and other important issues of the 20th Century. This persona is likely to be interested in the broad range of Einstein's work, from his groundbreaking theory of relativity to his later musings on his landmark findings and his philosophical essays on Zionism and other important issues of the 20th Century.",
+        "general domain (top 1 percent)": "physics",
+        "specific domain (top 1 percent)": "None",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A team of scientists who are conducting a study on the effects of loneliness and social isolation on the brain and cognitive performance of people who have spent extended periods of time in remote or isolated environments. They are particularly interested in the prefrontal cortex and the levels of brain-derived neurotrophic factor in the brains of these individuals. Their findings have implications for understanding the physiological and psychological effects of loneliness and the potential for interventions to address this condition.",
+        "general domain (top 1 percent)": "psychology",
+        "specific domain (top 1 percent)": "neuroscience",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A researcher in the field of cognitive neuroscience, particularly interested in the study of semantic categorization and its application to the categorization of food items. They are interested in the relationship between the sensory and functional aspects of food items and how these factors influence our understanding and perception of food. They are also interested in the development of experimental stimuli for food categorization research and the use of embodied cognition theories to explain the categorization process.",
+        "general domain (top 1 percent)": "psychology",
+        "specific domain (top 1 percent)": "cognitive neuroscience",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A psychologist who specializes in Erikson's theory of psychosocial development and Jean Piaget's theory of cognitive development. They are interested in the impact of biological and social factors on personality development and how conflicts and crises are resolved through acceptance and adaptation. They have a deep understanding of the stages of development and the solutions that are used to resolve conflicts. They are knowledgeable about the theories and how they can be applied in real-life situations.",
+        "general domain (top 1 percent)": "psychology",
+        "specific domain (top 1 percent)": "developmental psychology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A chemist who is interested in understanding the behavior of enols and their intermediates in various organic reactions, and is particularly interested in the stereochemistry of these intermediates. They are also interested in the control of these reactions through kinetic or thermodynamic factors, and are familiar with the work of Charles E. Zimmerman and other researchers in the field. They have a strong background in organic chemistry and are proficient in using computer programs to simulate and predict the behavior of enols and their intermediates.",
+        "general domain (top 1 percent)": "chemistry",
+        "specific domain (top 1 percent)": "organic chemistry",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A researcher in the field of dendrimer chemistry, specifically focused on the development of new applications and technologies based on these complex molecules. They are interested in the potential of dendrimer films for signal amplification in fiber-optic communication technology, as well as their use in extracting chemical compounds between two phases. Additionally, they are exploring the potential of dendrimer-based catalysts for enhancing reaction rates and reaction selectivities. Their research interests also include the use of dendrimer films as anti-corrosive coatings on metal surfaces, as well as the potential of dendrimer films for enantioselective catalysis in aqueous media.",
+        "general domain (top 1 percent)": "chemistry",
+        "specific domain (top 1 percent)": "dendrimer chemistry",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "An astronomer or space scientist who is interested in the study of space exploration and the Kuiper Belt object (KBO) 2014 MU69. They are particularly curious about the shape and orbit of MU69, and the possibility of it being a binary object. They are also knowledgeable about occultation observations and the use of space satellites in mission planning.",
+        "general domain (top 1 percent)": "astronomy",
+        "specific domain (top 1 percent)": "Kuiper Belt object research",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A science enthusiast who is fascinated by the study of celestial bodies and their movements. They are particularly interested in the motion of moons and their shadows on the rings of Saturn, and are fascinated by the unique and rare conditions that allow this to happen. They are also interested in the Cassini Equinox Mission, which involves studying the rings of Saturn and the movements of its moons. They are likely to be a student or a researcher who is passionate about space exploration and has a deep curiosity about the mysteries of the universe.",
+        "general domain (top 1 percent)": "astronomy",
+        "specific domain (top 1 percent)": "Saturnian ring dynamics",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A food safety expert with a focus on the regulation and analysis of foodborne illnesses, particularly those related to raw tomatoes. They are knowledgeable about the potential health risks associated with consuming raw tomatoes, including the risk of Salmonella infection. They are also familiar with the distribution and handling practices of raw tomatoes and are aware of the potential for outbreaks to occur due to contaminated tomatoes. They have experience with the Centers for Disease Control and FDA's recommendations for handling and consuming raw tomatoes.",
+        "general domain (top 1 percent)": "Public Health",
+        "specific domain (top 1 percent)": "Food Safety",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A public health advocate and expert in tobacco control policies, with a background in epidemiology and public health. This individual is knowledgeable about the global burden of tobacco-related disease, the complex dynamics of tobacco companies lobbying against health measures, and the potential for tobacco control to be a collaborative effort between governments, civil society, and the scientific community. This person is likely to be interested in developing evidence-based strategies to reduce tobacco consumption, advocating for stronger government regulations, and collaborating with international organizations to address global tobacco epidemics.",
+        "general domain (top 1 percent)": "Public Health",
+        "specific domain (top 1 percent)": "Tobacco Control",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A Chinese economist who is critical of the zero-case strategy and advocates for the importance of economic recovery and the well-being of the Chinese people. They are concerned about the negative impacts of the zero-case approach on the Chinese economy and believe that the risks of opening up are substantial. The persona is also interested in the experiences of people during lockdowns and the potential economic downturns that accompany them. They are active on Chinese social media and search for evidence from other countries to support reopening.",
+        "general domain (top 1 percent)": "economics",
+        "specific domain (top 1 percent)": "None",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A financial manager of a multinational company who is responsible for monitoring exchange rates to ensure the value of their company's cash flows remains stable. This person is highly aware of the impact of inflation rates, interest rates, relative income levels, and government controls on exchange rates, and is skilled in interpreting and applying these factors to make informed decisions. They are also knowledgeable about the political and economic factors that can influence exchange rates and are able to identify which countries are most attractive for investment due to their stable government and economy.",
+        "general domain (top 1 percent)": "economics",
+        "specific domain (top 1 percent)": "international finance or exchange rate management",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A digital system designer who is interested in understanding the principles and applications of digital input and output modules. This individual is likely to be familiar with the concepts of current sources and sinks, and the importance of matching the type of digital input or output module with the type of circuit it is intended to control. This persona may also be interested in learning about the different components required to create a simple circuit, such as a voltage source, ground, and load, and how these components work together to create a functioning digital system.",
+        "general domain (top 1 percent)": "electronics",
+        "specific domain (top 1 percent)": "digital electronics",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A creative instructor who is interested in utilizing research and technological tools to enhance their teaching and learning experience. They are open to exploring the benefits and limitations of various technological tools, such as software, digital platforms, and online tools, and are committed to understanding the legal and ethical implications of their use. They are also interested in the future use of these technological tools and are looking for ways to protect themselves and their place of employment from potential misuse.",
+        "general domain (top 1 percent)": "Education",
+        "specific domain (top 1 percent)": "Educational Technology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A technology integration specialist with a passion for using technology to enhance learning and teaching. They are familiar with the Padagogy Wheel and are excited about the new updates. They appreciate the visual representation of technology integration and are eager to explore the SAMR Model and Bloom’s Digital Taxonomy. They are open to feedback and suggestions to improve the new version of the Padagogy Wheel.",
+        "general domain (top 1 percent)": "Education",
+        "specific domain (top 1 percent)": "Technology Integration in Education",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A renowned scientist, educator, and conservationist who dedicated his life to protecting nature and its ecosystems. He was known for his passion, wisdom, and expertise in the field of conservation, particularly in the preservation of natural places. Hub Vogelmann's work had a profound impact on the Vermont conservation ethic and the movement to protect the state's natural resources. He was a founding member of The Nature Conservancy and played a significant role in the passage of Act 250, which protected Vermont's natural areas from commercial development. His contributions to the field of conservation were recognized with numerous awards and honors, including the prestigious National Medal of Science. Hub Vogelmann's legacy lives on through his work and his passion for nature, inspiring a generation of conservationists and educators to protect the planet's precious natural resources.",
+        "general domain (top 1 percent)": "environmental science",
+        "specific domain (top 1 percent)": "conservation biology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A person who is passionate about environmental issues and is deeply concerned about the sustainability of the planet. They are actively involved in advocating for population control measures and are dedicated to reducing global population growth and size. They are aware of the interconnected nature of environmental issues and are interested in finding solutions that address the problems of population growth and sustainability without making other problems worse. They are likely to be involved in activism and advocacy work and are interested in learning about the latest research and ideas on population control and sustainability.",
+        "general domain (top 1 percent)": "environmental science",
+        "specific domain (top 1 percent)": "None",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A researcher and advocate for homelessness in Canada, with a particular focus on understanding the causes and effects of homelessness among young people. They have a deep interest in exploring the structural and social determinants that contribute to homelessness, and are committed to finding effective solutions to address the issue. They may have expertise in conducting research, policy analysis, and advocacy, and are passionate about making a positive impact on the lives of individuals and communities affected by homelessness.",
+        "general domain (top 1 percent)": "Social Sciences",
+        "specific domain (top 1 percent)": "Homelessness Research",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A social scientist who is passionate about urban regeneration and community empowerment, and has expertise in cultural heritage preservation and memory studies. She is dedicated to creating a more inclusive and participatory society, and believes in the power of culture as a tool for social change. She is skilled in community organizing, participatory research, and dialogue facilitation, and has a deep understanding of the role of memory in shaping identity and social cohesion. She is a leader in the field of cultural heritage management and has a proven track record of success in promoting social justice and equity through cultural revitalization projects.",
+        "general domain (top 1 percent)": "Social Sciences",
+        "specific domain (top 1 percent)": "Cultural Heritage Preservation",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A researcher and advocate for the rights of Gypsies, Travellers, and Roma, focusing on the social, economic, and health disparities they face in the UK and across Europe. This person is knowledgeable about the experiences and challenges of these communities, including issues such as racial discrimination, poor housing conditions, and lack of access to services and employment opportunities. They are passionate about advocating for policies and strategies that address these issues and work towards creating a more inclusive and equitable society for these communities.",
+        "general domain (top 1 percent)": "sociology",
+        "specific domain (top 1 percent)": "Roma rights and social justice",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A functionalist who is interested in the positive functions and roles of the family, particularly those related to sexual, reproductive, economic, and educational functions. They are likely to be a sociologist or anthropologist who studies the family in a functionalist perspective, focusing on the role of marriage, cohabitation, divorce, and family diversity. They may also be a feminist who argues that women suffer injustices in society because of their gender and supports the emergence of new family types such as single-parent and gay families. They may also be a social worker or psychologist who works with families to promote positive socialization and provide support for families in need.",
+        "general domain (top 1 percent)": "sociology",
+        "specific domain (top 1 percent)": "family sociology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A woman who is passionate about empowering girls and young women to stand up against bullying and relational aggression. She is a leader in the field of girls empowerment and has dedicated her career to teaching kids how to be confident and assertive in their interactions with others. She is well-versed in the latest research on bullying and relational aggression, and has developed programs and workshops to help girls develop the skills they need to handle these challenges. She is also a strong advocate for raising awareness about the issue of bullying and the importance of standing up for oneself.",
+        "general domain (top 1 percent)": "social sciences",
+        "specific domain (top 1 percent)": "bullying prevention",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A scientist or astronomer who is interested in studying celestial phenomena, particularly asteroids and meteor showers. They are likely to have a strong background in physics, astronomy, and mathematics, and have a deep interest in understanding the behavior and trajectory of celestial bodies. They may have expertise in analyzing data from telescopes and space missions, and may have a particular interest in the study of asteroids and their impact on Earth. They may also have a strong interest in understanding the impact of natural disasters and their potential effects on human populations.",
+        "general domain (top 1 percent)": "science",
+        "specific domain (top 1 percent)": "astronomy",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A scientist who specializes in the study of artificial objects in space, particularly those that have been discovered and characterized by NASA. Their research interests include the identification and characterization of artificial objects in space, the analysis of their orbits and movements, and the potential implications of their discovery for our understanding of the universe. They are skilled in using telescopes and other instruments to detect and track artificial objects in space, and are knowledgeable in the use of mathematical and scientific concepts to analyze and interpret their data.",
+        "general domain (top 1 percent)": "science",
+        "specific domain (top 1 percent)": "artificial objects in space",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A philosopher who specializes in the study of early Greek philosophy, particularly the works of Anaximenes and Anaxagoras. He is interested in the philosophical theories and practices of the ancient Greeks, and is particularly interested in the concepts of materialism, the origin and accounting of phenomena, and the simplicity of physical science. He is also interested in the philosophical ideas of Anaximenes and Anaxagoras, and is knowledgeable about their works and the context in which they were written.",
+        "general domain (top 1 percent)": "philosophy",
+        "specific domain (top 1 percent)": "early Greek philosophy",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    },
+    {
+        "persona": "A scientist or a philosopher who is fascinated with the origins of the universe and the concept of creation. They are curious about the Big Bang theory and the origins of the universe, and they are open to the possibility of a divine cause for all this. They appreciate the complexity of the concept and the mathematical proofs that support the theory, but they also recognize the philosophical and existential questions that it raises. They are skeptical about the idea of a divine cause, but they are open to the possibility of an act of Creation that defies the natural rules we live by. They are interested in the digital account of Creation presented in the text and they find it compelling. They have a lot more data than did the author of Genesis and they are not sure they have more answers.",
+        "general domain (top 1 percent)": "philosophy",
+        "specific domain (top 1 percent)": "cosmology",
+        "general domain (top 0.1 percent)": "None",
+        "specific domain (top 0.1 percent)": "None"
+    }
+]
