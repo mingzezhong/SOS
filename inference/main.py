@@ -4,6 +4,7 @@ import statistics
 import re
 import os
 import argparse
+import copy
 
 import pandas as pd
 import pyarrow as pa
@@ -212,141 +213,132 @@ def intial_movies(n):
         m["initial_raters"] = int(m["initial_raters"])
     return sampling(movies, n)
 
+def rate_movie_both(movie, agents, n):
+    """
+    对每个 agent，同步做：
+     - psn: 有 persona 的评分 (no_hist + with_hist)
+     - no_psn: 无 persona 的评分 (no_hist + with_hist)
 
-def rate_movie(movie, agents, n):
-    no_hist_results, with_hist_results = [], []
-    total_score = movie["initial_avg"] * movie["initial_raters"]
-    total_raters = movie["initial_raters"]
+    给两者各自 clone 一份状态，互不影响。
+    """
+    # 深拷贝两份状态
+    movie_psn   = copy.deepcopy(movie)
+    movie_no_psn = copy.deepcopy(movie)
 
-    # 内层：agent 循环
-    for agent in tqdm(
+    # 结果列表
+    psn_no_hist, psn_with_hist = [], []
+    no_psn_no_hist, no_psn_with_hist = [], []
+
+    # 初始化历史分数
+    total_score_psn   = movie_psn["initial_avg"]    * movie_psn["initial_raters"]
+    total_raters_psn  = movie_psn["initial_raters"]
+    total_score_no_psn  = movie_no_psn["initial_avg"]   * movie_no_psn["initial_raters"]
+    total_raters_no_psn = movie_no_psn["initial_raters"]
+
+    bar = tqdm(
         agents,
-        desc=f"Rating {movie['title'][:15]:15}",  # 限制影片名长度避免太长
+        desc=f"Rating {movie['title'][:15]:15}",
         unit="agent",
         dynamic_ncols=True,
-        leave=False,       # 完成后清除此进度条
-        position=1         # 内层进度条在 position 1
-    ):
-        # 无历史评分
-        prompt_no_hist = prompt_a(agent["persona"], movie)
-        fallback_no = round(total_score / total_raters)
-        responses_no_hist = [
-            call_vllm(prompt_no_hist, fallback_rating=fallback_no)
-            for _ in range(n)
-        ]
-        agg_no_hist = aggregate_responses(responses_no_hist)
-
-        # 有历史评分
-        current_avg = total_score / total_raters
-        prompt_with_hist = prompt_b(agent["persona"], movie, current_avg)
-        fallback_with = round(current_avg)
-        responses_with_hist = [
-            call_vllm(prompt_with_hist, fallback_rating=fallback_with)
-            for _ in range(3)
-        ]
-        agg_with_hist = aggregate_responses(responses_with_hist, visibility=True)
-
-        # 更新历史
-        total_score += agg_with_hist["rating"]
-        total_raters += 1
-
-        no_hist_results.append({
-            "movie_id": movie["id"],
+        leave=True,
+        position=1
+    )
+    for agent in bar:
+        #### 有 persona (psn) ####
+        # no_hist
+        prompt1 = prompt_a(agent["persona"], movie_psn)
+        fallback1 = round(total_score_psn / total_raters_psn)
+        resp1 = aggregate_responses(
+            [call_vllm(prompt1, fallback1) for _ in range(n)]
+        )
+        psn_no_hist.append({
+            "movie_id": movie_psn["id"],
             "agent_id": agent["id"],
-            "rating": agg_no_hist["rating"],
-        })
-        with_hist_results.append({
-            "movie_id": movie["id"],
-            "agent_id": agent["id"],
-            "rating": agg_with_hist["rating"],
-            "visibility": agg_with_hist["visibility"],
-            "current_history_avg": round(total_score / total_raters, 1),
+            "rating": resp1["rating"],
         })
 
-        movie["initial_avg"] = round(total_score / total_raters, 1)
-
-    return no_hist_results, with_hist_results
-
-# 
-def no_psn_rate_movie(movie, agents, n):
-    no_hist_results, with_hist_results = [], []
-    total_score = movie["initial_avg"] * movie["initial_raters"]
-    total_raters = movie["initial_raters"]
-
-    # 内层：agent 循环
-    for agent in tqdm(
-        agents,
-        desc=f"Rating {movie['title'][:15]:15}",  # 限制影片名长度避免太长
-        unit="agent",
-        dynamic_ncols=True,
-        leave=False,       # 完成后清除此进度条
-        position=1         # 内层进度条在 position 1
-    ):
-        # 无历史评分
-        prompt_no_hist = prompt_c(agent["persona"], movie)
-        fallback_no = round(total_score / total_raters)
-        responses_no_hist = [
-            call_vllm(prompt_no_hist, fallback_rating=fallback_no)
-            for _ in range(n)
-        ]
-        agg_no_hist = aggregate_responses(responses_no_hist)
-
-        # 有历史评分
-        current_avg = total_score / total_raters
-        prompt_with_hist = prompt_d(agent["persona"], movie, current_avg)
-        fallback_with = round(current_avg)
-        responses_with_hist = [
-            call_vllm(prompt_with_hist, fallback_rating=fallback_with)
-            for _ in range(3)
-        ]
-        agg_with_hist = aggregate_responses(responses_with_hist, visibility=True)
-
-        # 更新历史
-        total_score += agg_with_hist["rating"]
-        total_raters += 1
-
-        no_hist_results.append({
-            "movie_id": movie["id"],
+        # with_hist
+        avg_psn = total_score_psn / total_raters_psn
+        prompt2 = prompt_b(agent["persona"], movie_psn, avg_psn)
+        fallback2 = round(avg_psn)
+        resp2 = aggregate_responses(
+            [call_vllm(prompt2, fallback2) for _ in range(3)],
+            visibility=True
+        )
+        total_score_psn  += resp2["rating"]
+        total_raters_psn += 1
+        psn_with_hist.append({
+            "movie_id": movie_psn["id"],
             "agent_id": agent["id"],
-            "rating": agg_no_hist["rating"],
-        })
-        with_hist_results.append({
-            "movie_id": movie["id"],
-            "agent_id": agent["id"],
-            "rating": agg_with_hist["rating"],
-            "visibility": agg_with_hist["visibility"],
-            "current_history_avg": round(total_score / total_raters, 1),
+            "rating": resp2["rating"],
+            "visibility": resp2["visibility"],
+            "current_history_avg": round(total_score_psn / total_raters_psn, 1)
         })
 
-        movie["initial_avg"] = round(total_score / total_raters, 1)
+        #### 无 persona (no_psn) ####
+        # no_hist
+        prompt3 = prompt_c(agent["persona"], movie_no_psn)
+        fallback3 = round(total_score_no_psn / total_raters_no_psn)
+        resp3 = aggregate_responses(
+            [call_vllm(prompt3, fallback3) for _ in range(n)]
+        )
+        no_psn_no_hist.append({
+            "movie_id": movie_no_psn["id"],
+            "agent_id": agent["id"],
+            "rating": resp3["rating"],
+        })
 
-    return no_hist_results, with_hist_results
+        # with_hist
+        avg_no_psn = total_score_no_psn / total_raters_no_psn
+        prompt4 = prompt_d(agent["persona"], movie_no_psn, avg_no_psn)
+        fallback4 = round(avg_no_psn)
+        resp4 = aggregate_responses(
+            [call_vllm(prompt4, fallback4) for _ in range(3)],
+            visibility=True
+        )
+        total_score_no_psn  += resp4["rating"]
+        total_raters_no_psn += 1
+        no_psn_with_hist.append({
+            "movie_id": movie_no_psn["id"],
+            "agent_id": agent["id"],
+            "rating": resp4["rating"],
+            "visibility": resp4["visibility"],
+            "current_history_avg": round(total_score_no_psn / total_raters_no_psn, 1)
+        })
+
+    # 可选：把最终 psn 平均写回原始 movie
+    movie["initial_avg"]    = round(total_score_psn / total_raters_psn, 1)
+    movie["initial_raters"] = total_raters_psn
+
+    return psn_no_hist, psn_with_hist, no_psn_no_hist, no_psn_with_hist
 
 
 def run_full_experiment(num_movies=3, agents_per_movie=10, rate_num=3):
     movies = intial_movies(num_movies)
-    results_no_history, results_with_history = {}, {}
-    no_psn_results_no_history, no_psn_results_with_history = {}, {}
 
-    # 外层：电影循环
+    results_psn_no_hist, results_psn_with_hist = {}, {}
+    results_no_psn_no_hist, results_no_psn_with_hist = {}, {}
+
     for movie in tqdm(
         movies,
-        desc="Movies ",
+        desc="Movies     ",
         unit="movie",
         dynamic_ncols=True,
-        leave=True,        # 完成后保留此进度条
-        position=0         # 最外层进度条在 position 0
+        leave=True,
+        position=0
     ):
         agents = intial_agents(agents_per_movie)
-        no_hist, with_hist = rate_movie(movie, agents, rate_num)
-        results_no_history[movie["title"]] = no_hist
-        results_with_history[movie["title"]] = with_hist
+        psn_no_hist, psn_with_hist, no_psn_no_hist, no_psn_with_hist = \
+            rate_movie_both(movie, agents, rate_num)
 
-        no_psn_no_hist, no_psn_with_hist = no_psn_rate_movie(movie, agents, rate_num)
-        no_psn_results_no_history[movie["title"]] = no_psn_no_hist
-        no_psn_results_with_history[movie["title"]] = no_psn_with_hist
+        results_psn_no_hist[movie["title"]]     = psn_no_hist
+        results_psn_with_hist[movie["title"]]   = psn_with_hist
+        results_no_psn_no_hist[movie["title"]]  = no_psn_no_hist
+        results_no_psn_with_hist[movie["title"]] = no_psn_with_hist
 
-    return results_no_history, results_with_history, no_psn_results_no_history, no_psn_results_with_history,
+    return results_psn_no_hist, results_psn_with_hist, results_no_psn_no_hist, results_no_psn_with_hist,
+    
+
 
 
 
