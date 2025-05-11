@@ -90,7 +90,7 @@ def aggregate_responses(responses, visibility=False):
 
 
 def prompt_a(persona, movie):
-    return f"""Based on your character profile and the movie information, please provide your rating for the movie.
+    return f"""Please provide your rating for the movie.
 
 # Your Character Profile:    
 You are {persona}
@@ -102,8 +102,10 @@ Overview: {movie['overview']}
 
 # Rating Principle
 Now, please you rate the above movie on an integer rating R scale from 1 to 10, where:
-- 10 means you found the movie outstanding in all aspects.
-- 1 means you found the movie poor in every aspect.
+- 1 = Awful/Abysmal (unwatchable)
+- 5 = Mediocre/Unsure (forgettable)
+- 10 = Perfect/Masterpiece (flawless)
+
 
 # Output Principle
 Now, you have rated the above movie with rating R, and please fill in the value R into the JSON object below.
@@ -115,7 +117,7 @@ Only output this JSON object—no extra explanation or content:
 
 
 def prompt_b(persona, movie, avg_rating):
-    return f"""Based on your character profile and the movie information, please provide your rating for the movie.
+    return f"""Please provide your rating for the movie.
 
 # Your Character Profile:    
 You are {persona}
@@ -128,8 +130,9 @@ Movie average rating: {avg_rating:.2f} (1-10)
 
 # Rating Principle
 Now, please you rate the above movie on an integer rating R scale from 1 to 10, where:
-- 10 means you found the movie outstanding in all aspects.
-- 1 means you found the movie poor in every aspect.
+- 1 = Awful/Abysmal (unwatchable)
+- 5 = Mediocre/Unsure (forgettable)
+- 10 = Perfect/Masterpiece (flawless)
 
 # Output Principle
 Now, you have rated the above movie with rating R, and please fill in the value R into the JSON object below.

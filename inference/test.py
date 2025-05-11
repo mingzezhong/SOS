@@ -62,7 +62,7 @@ def call_vllm(prompt: str) -> dict:
 
 
 def prompt_a():
-    return """Based on your character profile and the movie information, please provide your rating for the movie.
+    return """Please provide your rating for the movie.
 
 # Your Character Profile: 
 You are A software developer who is looking for a way to simplify the integration of GPRS technology 
@@ -95,7 +95,7 @@ Only output this JSON object—no extra explanation or content:
 
 
 def prompt_b():
-    return """Based on your character profile and the movie information, please provide your rating for the movie.
+    return """Please provide your rating for the movie.
 
 # Your Character Profile: 
 You are A software developer who is looking for a way to simplify the integration of GPRS technology 

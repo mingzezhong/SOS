@@ -5,10 +5,12 @@ meta-llama/Meta-Llama-3-70B-Instruct
 
 Qwen:
 
+Qwen/Qwen2.5-1.5B-Instruct
 Qwen/Qwen2.5-14B-Instruct
 Qwen/Qwen2.5-32B-Instruct
 
 Gemma:
+
 
 google/gemma-2-9b-it
 google/gemma-2-27b-it
