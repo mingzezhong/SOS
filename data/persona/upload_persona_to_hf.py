@@ -47,4 +47,4 @@ api.upload_file(
     token=token,
 )
 
-print("✅ 数据集上传完成，请前往 https://huggingface.co/datasets/your-username/persona-domain 查看")
+print("数据集上传完成，请前往 https://huggingface.co/datasets/your-username/persona-domain 查看")

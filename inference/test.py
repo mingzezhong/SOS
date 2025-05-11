@@ -54,9 +54,9 @@ def call_vllm(prompt: str) -> dict:
         try:
             return json.loads(json_match.group())
         except json.JSONDecodeError as e:
-            print("⚠️ JSON decode error:", e)
+            print("JSON decode error:", e)
     else:
-        print("⚠️ No JSON structure found in model output:", text)
+        print("No JSON structure found in model output:", text)
 
     
 

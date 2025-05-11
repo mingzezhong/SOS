@@ -29,4 +29,4 @@ os.makedirs(os.path.dirname(output_path), exist_ok=True)
 with open(output_path, "w", encoding="utf-8") as f:
     json.dump(movies, f, ensure_ascii=False, indent=2)
 
-print(f"✅ 已保存到 {output_path}")
+print(f"已保存到 {output_path}")

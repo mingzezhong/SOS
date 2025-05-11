@@ -72,9 +72,9 @@ def call_vllm(prompt: str, fallback_rating: int = None) -> dict:
         try:
             return json.loads(m.group())
         except json.JSONDecodeError as e:
-            print("⚠️ JSON decode error:", e)
+            print("JSON decode error:", e)
     else:
-        print("⚠️ No JSON structure found in model output.")
+        print("No JSON structure found in model output.")
 
     # 解析失败时返回 fallback
     return {"rating": fallback_rating} if fallback_rating is not None else {"rating": 0}
