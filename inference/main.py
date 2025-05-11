@@ -146,6 +146,53 @@ Only output this JSON object—no extra explanation or content:
 {{"rating": <integer between 1 and 10>}}
 """
 
+def prompt_c(movie):
+    return f"""Please provide your rating for the movie.
+
+# Movie Information
+Title: {movie['title']}
+Genres: {', '.join(movie['genres'])}
+Overview: {movie['overview']}
+
+# Rating Principle
+Now, please you rate the above movie on an integer rating R scale from 1 to 10, where:
+- 1 = Awful/Abysmal (unwatchable)
+- 5 = Mediocre/Unsure (forgettable)
+- 10 = Perfect/Masterpiece (flawless)
+
+
+# Output Principle
+Now, you have rated the above movie with rating R, and please fill in the value R into the JSON object below.
+Only output this JSON object—no extra explanation or content:
+
+# Output
+{{"rating": <integer between 1 and 10>}}
+"""
+
+
+def prompt_d(movie, avg_rating):
+    return f"""Please provide your rating for the movie.
+
+# Movie Information
+Title: {movie['title']}
+Genres: {', '.join(movie['genres'])}
+Overview: {movie['overview']}
+Movie average rating: {avg_rating:.2f} (1-10)
+
+# Rating Principle
+Now, please you rate the above movie on an integer rating R scale from 1 to 10, where:
+- 1 = Awful/Abysmal (unwatchable)
+- 5 = Mediocre/Unsure (forgettable)
+- 10 = Perfect/Masterpiece (flawless)
+
+# Output Principle
+Now, you have rated the above movie with rating R, and please fill in the value R into the JSON object below.
+Only output this JSON object—no extra explanation or content:
+
+# Output
+{{"rating": <integer between 1 and 10>}}
+"""
+
 def intial_agents(n):
     with open(agents_input_path, "r", encoding="utf-8") as f:
         agents = json.load(f)
@@ -220,10 +267,66 @@ def rate_movie(movie, agents, n):
 
     return no_hist_results, with_hist_results
 
+# 
+def no_psn_rate_movie(movie, agents, n):
+    no_hist_results, with_hist_results = [], []
+    total_score = movie["initial_avg"] * movie["initial_raters"]
+    total_raters = movie["initial_raters"]
+
+    # 内层：agent 循环
+    for agent in tqdm(
+        agents,
+        desc=f"Rating {movie['title'][:15]:15}",  # 限制影片名长度避免太长
+        unit="agent",
+        dynamic_ncols=True,
+        leave=False,       # 完成后清除此进度条
+        position=1         # 内层进度条在 position 1
+    ):
+        # 无历史评分
+        prompt_no_hist = prompt_c(agent["persona"], movie)
+        fallback_no = round(total_score / total_raters)
+        responses_no_hist = [
+            call_vllm(prompt_no_hist, fallback_rating=fallback_no)
+            for _ in range(n)
+        ]
+        agg_no_hist = aggregate_responses(responses_no_hist)
+
+        # 有历史评分
+        current_avg = total_score / total_raters
+        prompt_with_hist = prompt_d(agent["persona"], movie, current_avg)
+        fallback_with = round(current_avg)
+        responses_with_hist = [
+            call_vllm(prompt_with_hist, fallback_rating=fallback_with)
+            for _ in range(3)
+        ]
+        agg_with_hist = aggregate_responses(responses_with_hist, visibility=True)
+
+        # 更新历史
+        total_score += agg_with_hist["rating"]
+        total_raters += 1
+
+        no_hist_results.append({
+            "movie_id": movie["id"],
+            "agent_id": agent["id"],
+            "rating": agg_no_hist["rating"],
+        })
+        with_hist_results.append({
+            "movie_id": movie["id"],
+            "agent_id": agent["id"],
+            "rating": agg_with_hist["rating"],
+            "visibility": agg_with_hist["visibility"],
+            "current_history_avg": round(total_score / total_raters, 1),
+        })
+
+        movie["initial_avg"] = round(total_score / total_raters, 1)
+
+    return no_hist_results, with_hist_results
+
 
 def run_full_experiment(num_movies=3, agents_per_movie=10, rate_num=3):
     movies = intial_movies(num_movies)
     results_no_history, results_with_history = {}, {}
+    no_psn_results_no_history, no_psn_results_with_history = {}, {}
 
     # 外层：电影循环
     for movie in tqdm(
@@ -239,7 +342,12 @@ def run_full_experiment(num_movies=3, agents_per_movie=10, rate_num=3):
         results_no_history[movie["title"]] = no_hist
         results_with_history[movie["title"]] = with_hist
 
-    return results_no_history, results_with_history
+        no_psn_no_hist, no_psn_with_hist = no_psn_rate_movie(movie, agents, rate_num)
+        no_psn_results_no_history[movie["title"]] = no_psn_no_hist
+        no_psn_results_with_history[movie["title"]] = no_psn_with_hist
+
+    return results_no_history, results_with_history, no_psn_results_no_history, no_psn_results_with_history,
+
 
 
 def save_parquet(results, filename):
@@ -260,11 +368,14 @@ if __name__ == "__main__":
     print(save_path)
     os.makedirs(save_path, exist_ok=True)
 
-    res_no_hist, res_with_hist = run_full_experiment(
+    res_no_hist, res_with_hist, res_no_psn_no_hist, res_no_psn_with_hist = run_full_experiment(
         num_movies=args.num_movies, agents_per_movie=args.agents_per_movie, rate_num=args.rate_num
     )
 
     save_parquet(res_no_hist, os.path.join(save_path, "ratings_no_history.parquet"))
     save_parquet(res_with_hist, os.path.join(save_path, "ratings_with_history.parquet"))
+
+    save_parquet(res_no_psn_no_hist, os.path.join(save_path, "ratings_no_persona_no_history.parquet"))
+    save_parquet(res_no_psn_with_hist, os.path.join(save_path, "ratings_no_persona_with_history.parquet"))
 
     print("实验完成，结果已保存为 Parquet 文件。")
