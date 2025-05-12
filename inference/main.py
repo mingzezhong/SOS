@@ -53,6 +53,10 @@ engine = LLM(
     dtype="auto",
     max_num_seqs=8,
     max_num_batched_tokens=4096,
+    # 并行配置：
+    tensor_parallel_size=2,        # 张量并行 2-way
+    pipeline_parallel_size=1,      # 流水线并行 1-way（可调大）
+    data_parallel_size=1,          # 数据并行 1-way（可调大）
 )
 
 sampling_params = SamplingParams(
