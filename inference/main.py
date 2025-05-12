@@ -206,11 +206,17 @@ def intial_agents(n):
 
     # 采样，并打乱顺序
     if args.sample_type == 'base':
-        return random.shuffle(threshold_based_sampling(agents, n, min_count=args.min_count))
+        _agents = threshold_based_sampling(agents, n, min_count=args.min_count)
+        _agents = random.shuffle(_agents)
+        return _agents
     elif args.sample_type == 'stratified':
-        return random.shuffle(threshold_based_stratified_sampling(agents, n, min_count=args.min_count))
+        _agents = threshold_based_stratified_sampling(agents, n, min_count=args.min_count)
+        _agents = random.shuffle(_agents)
+        return _agents
     elif args.sample_type == 'uniform':
-        return random.shuffle(threshold_based_uniform_per_class_sampling(agents, n, min_count=args.min_count))
+        _agents = threshold_based_uniform_per_class_sampling(agents, n, min_count=args.min_count)
+        _agents = random.shuffle(_agents)
+        return _agents
 
 def intial_movies(n):
     with open(movies_input_path, "r", encoding="utf-8") as f:
@@ -220,7 +226,10 @@ def intial_movies(n):
         m["initial_avg"] = float(m["initial_avg"])
         m["initial_raters"] = int(m["initial_raters"])
     # 打乱顺序
-    return random.shuffle(sampling(movies, n))
+    movies = sampling(movies, n)
+    random.shuffle(movies)
+
+    return movies
 
 def rate_movie_both(movie, agents, n):
     """
