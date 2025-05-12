@@ -5,7 +5,7 @@ meta-llama/Meta-Llama-3-70B-Instruct (yuxuan)
 
 Qwen:
 
-Qwen/Qwen2.5-1.5B-Instruct (mingze)
+Qwen/Qwen2.5-1.5B-Instruct (runing)
 Qwen/Qwen2.5-14B-Instruct (yuxuan)
 Qwen/Qwen2.5-32B-Instruct (yuxuan)
 
