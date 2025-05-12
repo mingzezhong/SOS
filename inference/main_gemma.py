@@ -6,6 +6,7 @@ import os
 import argparse
 import copy
 import io, sys
+import time
 
 
 import pandas as pd
@@ -25,9 +26,6 @@ from sample import (
     threshold_based_uniform_per_class_sampling,
     sampling,
 )
-
-import os
-os.environ["HF_HOME"] = f'{os.path.dirname(os.path.abspath(__file__)).split("SOS")[0]}.cache/huggingface/'
 
 # 创建 ArgumentParser 对象
 parser = argparse.ArgumentParser(description="处理命令行参数")
@@ -81,19 +79,21 @@ def call_vllm(prompt: str, fallback_rating: int = None) -> dict:
     out = outputs[0]
     text = out.outputs[0].text.strip()
 
-    # print("\n===== Raw model output =====")
-    # print(text)
-    # print("===== End of model output =====\n")
+    print("\n===== Raw model output =====")
+    print(text)
+    print("===== End of model output =====\n")
 
-    m = re.search(r"\{.*?\}", text, re.DOTALL)
-    if m:
-        try:
-            return json.loads(m.group())
-        except json.JSONDecodeError as e:
-            print("JSON decode error:", e)
-    else:
-        print("No JSON structure found in model output." , text)
-        print(m)
+    # m = re.search(r"\{.*?\}", text, re.DOTALL)
+    # if m:
+    #     try:
+    #         return json.loads(m.group())
+    #     except json.JSONDecodeError as e:
+    #         print("JSON decode error:", e)
+    # else:
+    #     print("No JSON structure found in model output." , text)
+    #     print(m)
+
+    time.sleep(1)
 
     # 解析失败时返回 fallback
     return {"rating": fallback_rating} if fallback_rating is not None else {"rating": 0}
@@ -126,12 +126,7 @@ Now, please you rate the above movie on an integer rating R scale from 1 to 10, 
 - 10 = Perfect/Masterpiece (flawless)
 
 
-# Output Principle
-Now, you have rated the above movie with rating R, and please fill in the value R into the JSON object below.
-Only output this JSON object—no extra explanation or content:
-
-# Output
-{{"rating": <integer between 1 and 10>}}
+Please provide a single integer score (1-10) for the movie. Output only the integer.
 """
 
 
@@ -153,12 +148,7 @@ Now, please you rate the above movie on an integer rating R scale from 1 to 10, 
 - 5 = Mediocre/Unsure (forgettable)
 - 10 = Perfect/Masterpiece (flawless)
 
-# Output Principle
-Now, you have rated the above movie with rating R, and please fill in the value R into the JSON object below.
-Only output this JSON object—no extra explanation or content:
-
-# Output
-{{"rating": <integer between 1 and 10>}}
+Please provide a single integer score (1-10) for the movie. Output only the integer.
 """
 
 def prompt_c(movie):
@@ -176,12 +166,7 @@ Now, please you rate the above movie on an integer rating R scale from 1 to 10, 
 - 10 = Perfect/Masterpiece (flawless)
 
 
-# Output Principle
-Now, you have rated the above movie with rating R, and please fill in the value R into the JSON object below.
-Only output this JSON object—no extra explanation or content:
-
-# Output
-{{"rating": <integer between 1 and 10>}}
+Please provide a single integer score (1-10) for the movie. Output only the integer.
 """
 
 
@@ -200,12 +185,7 @@ Now, please you rate the above movie on an integer rating R scale from 1 to 10, 
 - 5 = Mediocre/Unsure (forgettable)
 - 10 = Perfect/Masterpiece (flawless)
 
-# Output Principle
-Now, you have rated the above movie with rating R, and please fill in the value R into the JSON object below.
-Only output this JSON object—no extra explanation or content:
-
-# Output
-{{"rating": <integer between 1 and 10>}}
+Please provide a single integer score (1-10) for the movie. Output only the integer.
 """
 
 def intial_agents(n):
