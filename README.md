@@ -1,7 +1,8 @@
 1. bash run: conda env create -f environment.yml
-2. enter the path: /SOS/your-usernam/inference
-3. select a Huggingface model name from the file "model_selection.text"
-4. bash run: python main.py --hf_model_name slected_hf_model_name
+2. enter the path: /home/your-username/SOS/inference
+3. bash run: export CUDA_VISIBLE_DEVICES=0,1 # if you have 4 GPUs: export CUDA_VISIBLE_DEVICES=0,1,2,3
+4. select a Huggingface model name from the file "model_selection.text"
+5. bash run: python main.py --hf_model_name slected_hf_model_name
 
 example:
 
