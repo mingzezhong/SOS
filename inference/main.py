@@ -68,34 +68,56 @@ sampling_params = SamplingParams(
     repetition_penalty=1.0,
 )
 
+import io
+import re
+import json
+from contextlib import redirect_stderr
+
 def call_vllm(prompt: str, fallback_rating: int = None) -> dict:
     """
     使用 vLLM 生成并解析 JSON 输出。
-    解析失败时，返回 {"rating": fallback_rating}。
+    保证返回格式为 {"rating": int} 的字典，哪怕模型输出异常。
     """
 
-    buf_err = io.StringIO()
-    with redirect_stderr(buf_err):
-        outputs = engine.generate([prompt], sampling_params)
-    out = outputs[0]
-    text = out.outputs[0].text.strip()
+    try:
+        # 捕获模型调用过程中 stderr 输出
+        buf_err = io.StringIO()
+        with redirect_stderr(buf_err):
+            outputs = engine.generate([prompt], sampling_params)
 
-    # print("\n===== Raw model output =====")
-    # print(text)
-    # print("===== End of model output =====\n")
+        # 抽取模型输出文本
+        out = outputs[0]
+        if not out.outputs:
+            raise ValueError("Model returned no outputs.")
+        
+        text = out.outputs[0].text.strip()
 
-    m = re.search(r"\{.*?\}", text, re.DOTALL)
-    if m:
-        try:
-            return json.loads(m.group())
-        except json.JSONDecodeError as e:
-            print("JSON decode error:", e)
-    else:
-        print("No JSON structure found in model output." , text)
-        print(m)
+        # 正则提取 JSON 结构（宽松匹配最外层大括号）
+        m = re.search(r"\{.*?\}", text, re.DOTALL)
+        if m:
+            json_str = m.group()
+            try:
+                parsed = json.loads(json_str)
 
-    # 解析失败时返回 fallback
-    return {"rating": fallback_rating} if fallback_rating is not None else {"rating": 0}
+                # 强制补全 rating 字段
+                if "rating" not in parsed:
+                    parsed["rating"] = fallback_rating or 0
+
+                return parsed
+
+            except json.JSONDecodeError as e:
+                print("JSON decode error:", e)
+                print("Raw matched string:", json_str)
+
+        else:
+            print("No JSON structure found in model output:\n", text)
+
+    except Exception as e:
+        print("Exception during vLLM call:", e)
+
+    # fallback：无论发生什么问题，都保证返回含 rating 的 dict
+    return {"rating": fallback_rating or 0}
+
 
 
 def aggregate_responses(responses):

@@ -24,4 +24,4 @@ mistralai/Ministral-8B-Instruct-2410 (runing)
 
 export CUDA_VISIBLE_DEVICES=0,1
 
-python main.py --hf_model_name model --sample_type base
+python main.py --hf_model_name model --sample_type [base stratified uniform]
