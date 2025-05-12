@@ -12,9 +12,9 @@ b. python main.py --hf_model_name deepseek-ai/DeepSeek-V2-Lite-Chat --sample_typ
 
 default: --sample_type base
 
---base: Random sampling of agents excluding rare professions
---stratified: Stratified sampling of agents excluding rare professions
---uniform: Uniform sampling of agents excluding rare professions
+-- base: Random sampling of agents excluding rare professions
+-- stratified: Stratified sampling of agents excluding rare professions
+-- uniform: Uniform sampling of agents excluding rare professions
 
 c. python main.py --hf_model_name deepseek-ai/DeepSeek-V2-Lite --sample_type stratified --num_movies 5 --agents_per_movie 15 --rate_num 5 --min_count 100
 
