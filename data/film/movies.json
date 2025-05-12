@@ -8,7 +8,7 @@
       "Drama"
     ],
     "release_date": "January 12, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 32,
     "id": 0
   },
@@ -23,7 +23,7 @@
       "Thriller"
     ],
     "release_date": "May 27, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 877,
     "id": 1
   },
@@ -37,7 +37,7 @@
       "Comedy"
     ],
     "release_date": "January 14, 2025",
-    "initial_avg": "6.2",
+    "initial_avg": 6.2,
     "initial_raters": 33,
     "id": 2
   },
@@ -49,7 +49,7 @@
       "Documentary"
     ],
     "release_date": "January 13, 2025",
-    "initial_avg": "4.6",
+    "initial_avg": 4.6,
     "initial_raters": 53,
     "id": 3
   },
@@ -62,7 +62,7 @@
       "Sci-Fi"
     ],
     "release_date": "January 15, 2025",
-    "initial_avg": "2.8",
+    "initial_avg": 2.8,
     "initial_raters": 199,
     "id": 4
   },
@@ -75,7 +75,7 @@
       "Drama"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 56,
     "id": 5
   },
@@ -87,7 +87,7 @@
       "Documentary"
     ],
     "release_date": "January 13, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 82,
     "id": 6
   },
@@ -101,7 +101,7 @@
       "Thriller"
     ],
     "release_date": "January 14, 2025",
-    "initial_avg": "4.1",
+    "initial_avg": 4.1,
     "initial_raters": 384,
     "id": 7
   },
@@ -115,7 +115,7 @@
       "Drama"
     ],
     "release_date": "January 14, 2025",
-    "initial_avg": "4.3",
+    "initial_avg": 4.3,
     "initial_raters": 506,
     "id": 8
   },
@@ -128,7 +128,7 @@
       "Drama"
     ],
     "release_date": "April 17, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 145,
     "id": 9
   },
@@ -145,7 +145,7 @@
       "Music"
     ],
     "release_date": "January 14, 2025",
-    "initial_avg": "5.3",
+    "initial_avg": 5.3,
     "initial_raters": 609,
     "id": 10
   },
@@ -157,7 +157,7 @@
       "Thriller"
     ],
     "release_date": "January 14, 2025",
-    "initial_avg": "3.5",
+    "initial_avg": 3.5,
     "initial_raters": 68,
     "id": 11
   },
@@ -171,7 +171,7 @@
       "Thriller"
     ],
     "release_date": "January 14, 2025",
-    "initial_avg": "4.5",
+    "initial_avg": 4.5,
     "initial_raters": 64,
     "id": 12
   },
@@ -185,7 +185,7 @@
       "Documentary"
     ],
     "release_date": "January 14, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 520,
     "id": 13
   },
@@ -197,7 +197,7 @@
       "Crime"
     ],
     "release_date": "January 14, 2025",
-    "initial_avg": "7.7",
+    "initial_avg": 7.7,
     "initial_raters": 50,
     "id": 14
   },
@@ -218,7 +218,7 @@
       "Fantasy"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "6.3",
+    "initial_avg": 6.3,
     "initial_raters": 94,
     "id": 15
   },
@@ -232,7 +232,7 @@
       "Comedy"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "5.9",
+    "initial_avg": 5.9,
     "initial_raters": 55,
     "id": 16
   },
@@ -245,7 +245,7 @@
       "Romance"
     ],
     "release_date": "January 15, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 855,
     "id": 17
   },
@@ -258,7 +258,7 @@
       "Thriller"
     ],
     "release_date": "January 15, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 122,
     "id": 18
   },
@@ -271,7 +271,7 @@
       "Drama"
     ],
     "release_date": "February 19, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 184,
     "id": 19
   },
@@ -284,7 +284,7 @@
       "Drama"
     ],
     "release_date": "January 15, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 41,
     "id": 20
   },
@@ -296,7 +296,7 @@
       "Thriller"
     ],
     "release_date": "January 15, 2025",
-    "initial_avg": "8.1",
+    "initial_avg": 8.1,
     "initial_raters": 30,
     "id": 21
   },
@@ -312,7 +312,7 @@
       "Thriller"
     ],
     "release_date": "January 15, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 132,
     "id": 22
   },
@@ -328,7 +328,7 @@
       "War"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "6.2",
+    "initial_avg": 6.2,
     "initial_raters": 791,
     "id": 23
   },
@@ -342,7 +342,7 @@
       "Thriller"
     ],
     "release_date": "January 16, 2025",
-    "initial_avg": "5.4",
+    "initial_avg": 5.4,
     "initial_raters": 384,
     "id": 24
   },
@@ -356,7 +356,7 @@
       "History"
     ],
     "release_date": "January 16, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 391,
     "id": 25
   },
@@ -369,7 +369,7 @@
       "Romance"
     ],
     "release_date": "January 16, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 562,
     "id": 26
   },
@@ -382,7 +382,7 @@
       "Thriller"
     ],
     "release_date": "January 16, 2025",
-    "initial_avg": "6.3",
+    "initial_avg": 6.3,
     "initial_raters": 115,
     "id": 27
   },
@@ -398,7 +398,7 @@
       "Horror"
     ],
     "release_date": "January 16, 2025",
-    "initial_avg": "4.9",
+    "initial_avg": 4.9,
     "initial_raters": 30,
     "id": 28
   },
@@ -413,7 +413,7 @@
       "Sport"
     ],
     "release_date": "January 16, 2025",
-    "initial_avg": "4.0",
+    "initial_avg": 4.0,
     "initial_raters": 187,
     "id": 29
   },
@@ -426,7 +426,7 @@
       "Romance"
     ],
     "release_date": "January 16, 2025",
-    "initial_avg": "6.3",
+    "initial_avg": 6.3,
     "initial_raters": 42,
     "id": 30
   },
@@ -438,7 +438,7 @@
       "Biography"
     ],
     "release_date": "January 16, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 45,
     "id": 31
   },
@@ -453,7 +453,7 @@
       "Drama"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "4.8",
+    "initial_avg": 4.8,
     "initial_raters": 31,
     "id": 32
   },
@@ -468,7 +468,7 @@
       "Music"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 907,
     "id": 33
   },
@@ -480,7 +480,7 @@
       "Thriller"
     ],
     "release_date": "April 1, 2025",
-    "initial_avg": "5.0",
+    "initial_avg": 5.0,
     "initial_raters": 189,
     "id": 34
   },
@@ -492,7 +492,7 @@
       "Romance"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "4.7",
+    "initial_avg": 4.7,
     "initial_raters": 494,
     "id": 35
   },
@@ -511,7 +511,7 @@
       "Sci-Fi"
     ],
     "release_date": "April 4, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 516,
     "id": 36
   },
@@ -523,7 +523,7 @@
       "Comedy"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "1.9",
+    "initial_avg": 1.9,
     "initial_raters": 364,
     "id": 37
   },
@@ -535,7 +535,7 @@
       "Thriller"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "3.6",
+    "initial_avg": 3.6,
     "initial_raters": 163,
     "id": 38
   },
@@ -547,7 +547,7 @@
       "History"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 47,
     "id": 39
   },
@@ -561,7 +561,7 @@
       "Sci-Fi"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 191,
     "id": 40
   },
@@ -575,7 +575,7 @@
       "Thriller"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 445,
     "id": 41
   },
@@ -588,7 +588,7 @@
       "Comedy"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "4.7",
+    "initial_avg": 4.7,
     "initial_raters": 187,
     "id": 42
   },
@@ -600,7 +600,7 @@
       "Romance"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "8.9",
+    "initial_avg": 8.9,
     "initial_raters": 63,
     "id": 43
   },
@@ -612,7 +612,7 @@
       "Thriller"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 44,
     "id": 44
   },
@@ -625,7 +625,7 @@
       "Drama"
     ],
     "release_date": "March 12, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 200,
     "id": 45
   },
@@ -637,7 +637,7 @@
       "Romance"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "8.5",
+    "initial_avg": 8.5,
     "initial_raters": 43,
     "id": 46
   },
@@ -649,7 +649,7 @@
       "Romance"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "9.4",
+    "initial_avg": 9.4,
     "initial_raters": 241,
     "id": 47
   },
@@ -661,7 +661,7 @@
       "Drama"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "4.7",
+    "initial_avg": 4.7,
     "initial_raters": 125,
     "id": 48
   },
@@ -673,7 +673,7 @@
       "Drama"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "9.5",
+    "initial_avg": 9.5,
     "initial_raters": 476,
     "id": 49
   },
@@ -685,7 +685,7 @@
       "Drama"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "8.4",
+    "initial_avg": 8.4,
     "initial_raters": 48,
     "id": 50
   },
@@ -697,7 +697,7 @@
       "Drama"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 167,
     "id": 51
   },
@@ -711,7 +711,7 @@
       "Horror"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 785,
     "id": 52
   },
@@ -723,7 +723,7 @@
       "Horror"
     ],
     "release_date": "January 17, 2025",
-    "initial_avg": "9.3",
+    "initial_avg": 9.3,
     "initial_raters": 230,
     "id": 53
   },
@@ -735,7 +735,7 @@
       "Drama"
     ],
     "release_date": "January 18, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 142,
     "id": 54
   },
@@ -748,7 +748,7 @@
       "Drama"
     ],
     "release_date": "January 18, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 43,
     "id": 55
   },
@@ -760,7 +760,7 @@
       "Drama"
     ],
     "release_date": "January 18, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 131,
     "id": 56
   },
@@ -776,7 +776,7 @@
       "Thriller"
     ],
     "release_date": "January 18, 2025",
-    "initial_avg": "4.2",
+    "initial_avg": 4.2,
     "initial_raters": 138,
     "id": 57
   },
@@ -793,7 +793,7 @@
       "Western"
     ],
     "release_date": "January 18, 2025",
-    "initial_avg": "7.9",
+    "initial_avg": 7.9,
     "initial_raters": 32,
     "id": 58
   },
@@ -805,7 +805,7 @@
       "Comedy"
     ],
     "release_date": "January 18, 2025",
-    "initial_avg": "5.9",
+    "initial_avg": 5.9,
     "initial_raters": 30,
     "id": 59
   },
@@ -817,7 +817,7 @@
       "Drama"
     ],
     "release_date": "January 19, 2025",
-    "initial_avg": "8.1",
+    "initial_avg": 8.1,
     "initial_raters": 139,
     "id": 60
   },
@@ -829,7 +829,7 @@
       "Drama"
     ],
     "release_date": "January 19, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 113,
     "id": 61
   },
@@ -843,7 +843,7 @@
       "Thriller"
     ],
     "release_date": "January 21, 2025",
-    "initial_avg": "4.6",
+    "initial_avg": 4.6,
     "initial_raters": 301,
     "id": 62
   },
@@ -855,7 +855,7 @@
       "Drama"
     ],
     "release_date": "January 20, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 193,
     "id": 63
   },
@@ -867,7 +867,7 @@
       "Drama"
     ],
     "release_date": "January 20, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 120,
     "id": 64
   },
@@ -879,7 +879,7 @@
       "Drama"
     ],
     "release_date": "January 20, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 117,
     "id": 65
   },
@@ -891,7 +891,7 @@
       "Action"
     ],
     "release_date": "January 21, 2025",
-    "initial_avg": "4.6",
+    "initial_avg": 4.6,
     "initial_raters": 950,
     "id": 66
   },
@@ -905,7 +905,7 @@
       "Thriller"
     ],
     "release_date": "March 30, 2025",
-    "initial_avg": "3.4",
+    "initial_avg": 3.4,
     "initial_raters": 897,
     "id": 67
   },
@@ -917,7 +917,7 @@
       "Horror"
     ],
     "release_date": "January 21, 2025",
-    "initial_avg": "3.1",
+    "initial_avg": 3.1,
     "initial_raters": 45,
     "id": 68
   },
@@ -930,7 +930,7 @@
       "History"
     ],
     "release_date": "January 21, 2025",
-    "initial_avg": "6.2",
+    "initial_avg": 6.2,
     "initial_raters": 125,
     "id": 69
   },
@@ -942,7 +942,7 @@
       "Romance"
     ],
     "release_date": "January 21, 2025",
-    "initial_avg": "8.7",
+    "initial_avg": 8.7,
     "initial_raters": 41,
     "id": 70
   },
@@ -955,7 +955,7 @@
       "Comedy"
     ],
     "release_date": "January 22, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 163,
     "id": 71
   },
@@ -967,7 +967,7 @@
       "Documentary"
     ],
     "release_date": "March 30, 2025",
-    "initial_avg": "6.2",
+    "initial_avg": 6.2,
     "initial_raters": 143,
     "id": 72
   },
@@ -980,7 +980,7 @@
       "Drama"
     ],
     "release_date": "January 22, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 62,
     "id": 73
   },
@@ -992,7 +992,7 @@
       "Comedy"
     ],
     "release_date": "September 5, 2025",
-    "initial_avg": "8.3",
+    "initial_avg": 8.3,
     "initial_raters": 254,
     "id": 74
   },
@@ -1006,7 +1006,7 @@
       "Sci-Fi"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 101,
     "id": 75
   },
@@ -1018,7 +1018,7 @@
       "Drama"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 108,
     "id": 76
   },
@@ -1030,7 +1030,7 @@
       "Drama"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 164,
     "id": 77
   },
@@ -1043,7 +1043,7 @@
       "Documentary"
     ],
     "release_date": "June 20, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 58,
     "id": 78
   },
@@ -1057,7 +1057,7 @@
       "Thriller"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 94,
     "id": 79
   },
@@ -1070,7 +1070,7 @@
       "Music"
     ],
     "release_date": "February 13, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 980,
     "id": 80
   },
@@ -1083,7 +1083,7 @@
       "War"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "8.1",
+    "initial_avg": 8.1,
     "initial_raters": 113,
     "id": 81
   },
@@ -1098,7 +1098,7 @@
       "Sport"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "8.4",
+    "initial_avg": 8.4,
     "initial_raters": 242,
     "id": 82
   },
@@ -1110,7 +1110,7 @@
       "Drama"
     ],
     "release_date": "October 31, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 104,
     "id": 83
   },
@@ -1123,7 +1123,7 @@
       "Thriller"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 470,
     "id": 84
   },
@@ -1135,7 +1135,7 @@
       "Documentary"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "8.6",
+    "initial_avg": 8.6,
     "initial_raters": 53,
     "id": 85
   },
@@ -1147,7 +1147,7 @@
       "Drama"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 44,
     "id": 86
   },
@@ -1159,7 +1159,7 @@
       "Documentary"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "7.7",
+    "initial_avg": 7.7,
     "initial_raters": 87,
     "id": 87
   },
@@ -1171,7 +1171,7 @@
       "Documentary"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "8.4",
+    "initial_avg": 8.4,
     "initial_raters": 54,
     "id": 88
   },
@@ -1183,7 +1183,7 @@
       "Adventure"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 430,
     "id": 89
   },
@@ -1195,7 +1195,7 @@
       "Comedy"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "5.9",
+    "initial_avg": 5.9,
     "initial_raters": 81,
     "id": 90
   },
@@ -1210,7 +1210,7 @@
       "Drama"
     ],
     "release_date": "January 28, 2025",
-    "initial_avg": "5.9",
+    "initial_avg": 5.9,
     "initial_raters": 232,
     "id": 91
   },
@@ -1223,7 +1223,7 @@
       "History"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "8.6",
+    "initial_avg": 8.6,
     "initial_raters": 105,
     "id": 92
   },
@@ -1235,7 +1235,7 @@
       "Comedy"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "4.9",
+    "initial_avg": 4.9,
     "initial_raters": 174,
     "id": 93
   },
@@ -1248,7 +1248,7 @@
       "Crime"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 140,
     "id": 94
   },
@@ -1262,7 +1262,7 @@
       "Romance"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "4.7",
+    "initial_avg": 4.7,
     "initial_raters": 125,
     "id": 95
   },
@@ -1275,7 +1275,7 @@
       "Horror"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 196,
     "id": 96
   },
@@ -1287,7 +1287,7 @@
       "Comedy"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "5.6",
+    "initial_avg": 5.6,
     "initial_raters": 39,
     "id": 97
   },
@@ -1299,7 +1299,7 @@
       "Horror"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "5.2",
+    "initial_avg": 5.2,
     "initial_raters": 78,
     "id": 98
   },
@@ -1313,7 +1313,7 @@
       "Drama"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "8.7",
+    "initial_avg": 8.7,
     "initial_raters": 30,
     "id": 99
   },
@@ -1325,7 +1325,7 @@
       "Comedy"
     ],
     "release_date": "January 23, 2025",
-    "initial_avg": "6.0",
+    "initial_avg": 6.0,
     "initial_raters": 106,
     "id": 100
   },
@@ -1337,7 +1337,7 @@
       "Horror"
     ],
     "release_date": "April 25, 2025",
-    "initial_avg": "5.2",
+    "initial_avg": 5.2,
     "initial_raters": 49,
     "id": 101
   },
@@ -1352,7 +1352,7 @@
       "Drama"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 252,
     "id": 102
   },
@@ -1366,7 +1366,7 @@
       "Music"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 196,
     "id": 103
   },
@@ -1380,7 +1380,7 @@
       "Sci-Fi"
     ],
     "release_date": "January 29, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 464,
     "id": 104
   },
@@ -1392,7 +1392,7 @@
       "Thriller"
     ],
     "release_date": "April 25, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 318,
     "id": 105
   },
@@ -1408,7 +1408,7 @@
       "Thriller"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 83,
     "id": 106
   },
@@ -1420,7 +1420,7 @@
       "Documentary"
     ],
     "release_date": "June 13, 2025",
-    "initial_avg": "4.8",
+    "initial_avg": 4.8,
     "initial_raters": 990,
     "id": 107
   },
@@ -1432,7 +1432,7 @@
       "Comedy"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "7.7",
+    "initial_avg": 7.7,
     "initial_raters": 186,
     "id": 108
   },
@@ -1444,7 +1444,7 @@
       "Drama"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 150,
     "id": 109
   },
@@ -1457,7 +1457,7 @@
       "Comedy"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 116,
     "id": 110
   },
@@ -1471,7 +1471,7 @@
       "Mystery"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "9.2",
+    "initial_avg": 9.2,
     "initial_raters": 71,
     "id": 111
   },
@@ -1486,7 +1486,7 @@
       "History"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "8.6",
+    "initial_avg": 8.6,
     "initial_raters": 39,
     "id": 112
   },
@@ -1498,7 +1498,7 @@
       "Documentary"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 35,
     "id": 113
   },
@@ -1510,7 +1510,7 @@
       "Drama"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "7.9",
+    "initial_avg": 7.9,
     "initial_raters": 53,
     "id": 114
   },
@@ -1522,7 +1522,7 @@
       "Drama"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "7.4",
+    "initial_avg": 7.4,
     "initial_raters": 82,
     "id": 115
   },
@@ -1534,7 +1534,7 @@
       "Comedy"
     ],
     "release_date": "April 23, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 70,
     "id": 116
   },
@@ -1546,7 +1546,7 @@
       "Drama"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 47,
     "id": 117
   },
@@ -1561,7 +1561,7 @@
       "Thriller"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "8.4",
+    "initial_avg": 8.4,
     "initial_raters": 75,
     "id": 118
   },
@@ -1573,7 +1573,7 @@
       "Romance"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 246,
     "id": 119
   },
@@ -1585,7 +1585,7 @@
       "Comedy"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "6.2",
+    "initial_avg": 6.2,
     "initial_raters": 515,
     "id": 120
   },
@@ -1600,7 +1600,7 @@
       "Thriller"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 850,
     "id": 121
   },
@@ -1614,7 +1614,7 @@
       "Documentary"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "8.3",
+    "initial_avg": 8.3,
     "initial_raters": 71,
     "id": 122
   },
@@ -1630,7 +1630,7 @@
       "Thriller"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "6.0",
+    "initial_avg": 6.0,
     "initial_raters": 83,
     "id": 123
   },
@@ -1643,7 +1643,7 @@
       "Adventure"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "6.0",
+    "initial_avg": 6.0,
     "initial_raters": 42,
     "id": 124
   },
@@ -1656,7 +1656,7 @@
       "Thriller"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 222,
     "id": 125
   },
@@ -1669,7 +1669,7 @@
       "Drama"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "8.5",
+    "initial_avg": 8.5,
     "initial_raters": 880,
     "id": 126
   },
@@ -1682,7 +1682,7 @@
       "Thriller"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "8.8",
+    "initial_avg": 8.8,
     "initial_raters": 188,
     "id": 127
   },
@@ -1694,7 +1694,7 @@
       "Drama"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 48,
     "id": 128
   },
@@ -1706,7 +1706,7 @@
       "Drama"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "7.4",
+    "initial_avg": 7.4,
     "initial_raters": 44,
     "id": 129
   },
@@ -1719,7 +1719,7 @@
       "History"
     ],
     "release_date": "February 26, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 58,
     "id": 130
   },
@@ -1732,7 +1732,7 @@
       "Thriller"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "5.4",
+    "initial_avg": 5.4,
     "initial_raters": 143,
     "id": 131
   },
@@ -1744,7 +1744,7 @@
       "Romance"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "5.6",
+    "initial_avg": 5.6,
     "initial_raters": 291,
     "id": 132
   },
@@ -1758,7 +1758,7 @@
       "Fantasy"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 80,
     "id": 133
   },
@@ -1770,7 +1770,7 @@
       "Drama"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "5.1",
+    "initial_avg": 5.1,
     "initial_raters": 266,
     "id": 134
   },
@@ -1783,7 +1783,7 @@
       "Music"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "8.4",
+    "initial_avg": 8.4,
     "initial_raters": 92,
     "id": 135
   },
@@ -1796,7 +1796,7 @@
       "Comedy"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "5.0",
+    "initial_avg": 5.0,
     "initial_raters": 184,
     "id": 136
   },
@@ -1810,7 +1810,7 @@
       "Sci-Fi"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "4.0",
+    "initial_avg": 4.0,
     "initial_raters": 32,
     "id": 137
   },
@@ -1820,7 +1820,7 @@
     "overview": "Revolves around a couple who are divorced due to misunderstandings and a friend who comes to assist them",
     "genres": [],
     "release_date": "January 24, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 231,
     "id": 138
   },
@@ -1832,7 +1832,7 @@
       "Drama"
     ],
     "release_date": "January 24, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 42,
     "id": 139
   },
@@ -1848,7 +1848,7 @@
       "Thriller"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 101,
     "id": 140
   },
@@ -1862,7 +1862,7 @@
       "War"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 198,
     "id": 141
   },
@@ -1874,7 +1874,7 @@
       "Documentary"
     ],
     "release_date": "June 6, 2025",
-    "initial_avg": "8.1",
+    "initial_avg": 8.1,
     "initial_raters": 243,
     "id": 142
   },
@@ -1888,7 +1888,7 @@
       "Drama"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 182,
     "id": 143
   },
@@ -1902,7 +1902,7 @@
       "Horror"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "2.6",
+    "initial_avg": 2.6,
     "initial_raters": 360,
     "id": 144
   },
@@ -1916,7 +1916,7 @@
       "Horror"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "2.7",
+    "initial_avg": 2.7,
     "initial_raters": 510,
     "id": 145
   },
@@ -1928,7 +1928,7 @@
       "Documentary"
     ],
     "release_date": "2025",
-    "initial_avg": "9.3",
+    "initial_avg": 9.3,
     "initial_raters": 49,
     "id": 146
   },
@@ -1941,7 +1941,7 @@
       "Thriller"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "7.9",
+    "initial_avg": 7.9,
     "initial_raters": 62,
     "id": 147
   },
@@ -1953,7 +1953,7 @@
       "Drama"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "8.5",
+    "initial_avg": 8.5,
     "initial_raters": 156,
     "id": 148
   },
@@ -1965,7 +1965,7 @@
       "Comedy"
     ],
     "release_date": "May 30, 2025",
-    "initial_avg": "7.4",
+    "initial_avg": 7.4,
     "initial_raters": 75,
     "id": 149
   },
@@ -1978,7 +1978,7 @@
       "Thriller"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 40,
     "id": 150
   },
@@ -1990,7 +1990,7 @@
       "Comedy"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "6.2",
+    "initial_avg": 6.2,
     "initial_raters": 32,
     "id": 151
   },
@@ -2004,7 +2004,7 @@
       "Thriller"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 93,
     "id": 152
   },
@@ -2016,7 +2016,7 @@
       "Drama"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 97,
     "id": 153
   },
@@ -2028,7 +2028,7 @@
       "Drama"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 138,
     "id": 154
   },
@@ -2040,7 +2040,7 @@
       "Sci-Fi"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 54,
     "id": 155
   },
@@ -2052,7 +2052,7 @@
       "Drama"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 146,
     "id": 156
   },
@@ -2064,7 +2064,7 @@
       "Drama"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "8.5",
+    "initial_avg": 8.5,
     "initial_raters": 156,
     "id": 157
   },
@@ -2077,7 +2077,7 @@
       "Romance"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "8.8",
+    "initial_avg": 8.8,
     "initial_raters": 69,
     "id": 158
   },
@@ -2089,7 +2089,7 @@
       "Thriller"
     ],
     "release_date": "April 25, 2025",
-    "initial_avg": "6.2",
+    "initial_avg": 6.2,
     "initial_raters": 81,
     "id": 159
   },
@@ -2101,7 +2101,7 @@
       "Drama"
     ],
     "release_date": "September 24, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 57,
     "id": 160
   },
@@ -2113,7 +2113,7 @@
       "Documentary"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 40,
     "id": 161
   },
@@ -2125,7 +2125,7 @@
       "Drama"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "8.5",
+    "initial_avg": 8.5,
     "initial_raters": 160,
     "id": 162
   },
@@ -2137,7 +2137,7 @@
       "Documentary"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 64,
     "id": 163
   },
@@ -2150,7 +2150,7 @@
       "Documentary"
     ],
     "release_date": "January 25, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 30,
     "id": 164
   },
@@ -2162,7 +2162,7 @@
       "Drama"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "7.9",
+    "initial_avg": 7.9,
     "initial_raters": 46,
     "id": 165
   },
@@ -2179,7 +2179,7 @@
       "Sci-Fi"
     ],
     "release_date": "July 30, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 351,
     "id": 166
   },
@@ -2194,7 +2194,7 @@
       "Musical"
     ],
     "release_date": "October 10, 2025",
-    "initial_avg": "6.2",
+    "initial_avg": 6.2,
     "initial_raters": 233,
     "id": 167
   },
@@ -2206,7 +2206,7 @@
       "Comedy"
     ],
     "release_date": "January 26, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 65,
     "id": 168
   },
@@ -2221,7 +2221,7 @@
       "Thriller"
     ],
     "release_date": "January 26, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 353,
     "id": 169
   },
@@ -2233,7 +2233,7 @@
       "Drama"
     ],
     "release_date": "January 26, 2025",
-    "initial_avg": "7.9",
+    "initial_avg": 7.9,
     "initial_raters": 74,
     "id": 170
   },
@@ -2245,7 +2245,7 @@
       "Drama"
     ],
     "release_date": "January 26, 2025",
-    "initial_avg": "8.3",
+    "initial_avg": 8.3,
     "initial_raters": 63,
     "id": 171
   },
@@ -2257,7 +2257,7 @@
       "Drama"
     ],
     "release_date": "January 26, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 113,
     "id": 172
   },
@@ -2269,7 +2269,7 @@
       "Documentary"
     ],
     "release_date": "January 26, 2025",
-    "initial_avg": "8.4",
+    "initial_avg": 8.4,
     "initial_raters": 60,
     "id": 173
   },
@@ -2281,7 +2281,7 @@
       "Drama"
     ],
     "release_date": "January 26, 2025",
-    "initial_avg": "8.3",
+    "initial_avg": 8.3,
     "initial_raters": 81,
     "id": 174
   },
@@ -2296,7 +2296,7 @@
       "Music"
     ],
     "release_date": "January 26, 2025",
-    "initial_avg": "8.7",
+    "initial_avg": 8.7,
     "initial_raters": 46,
     "id": 175
   },
@@ -2309,7 +2309,7 @@
       "Sci-Fi"
     ],
     "release_date": "January 26, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 64,
     "id": 176
   },
@@ -2322,7 +2322,7 @@
       "Drama"
     ],
     "release_date": "January 26, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 90,
     "id": 177
   },
@@ -2336,7 +2336,7 @@
       "Music"
     ],
     "release_date": "January 26, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 40,
     "id": 178
   },
@@ -2348,7 +2348,7 @@
       "Documentary"
     ],
     "release_date": "January 26, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 32,
     "id": 179
   },
@@ -2362,7 +2362,7 @@
       "History"
     ],
     "release_date": "January 26, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 33,
     "id": 180
   },
@@ -2378,7 +2378,7 @@
       "Sci-Fi"
     ],
     "release_date": "January 26, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 86,
     "id": 181
   },
@@ -2390,7 +2390,7 @@
       "Documentary"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "7.9",
+    "initial_avg": 7.9,
     "initial_raters": 48,
     "id": 182
   },
@@ -2403,7 +2403,7 @@
       "Drama"
     ],
     "release_date": "January 29, 2025",
-    "initial_avg": "5.3",
+    "initial_avg": 5.3,
     "initial_raters": 138,
     "id": 183
   },
@@ -2417,7 +2417,7 @@
       "Music"
     ],
     "release_date": "March 20, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 46,
     "id": 184
   },
@@ -2429,7 +2429,7 @@
       "Drama"
     ],
     "release_date": "January 26, 2025",
-    "initial_avg": "9.5",
+    "initial_avg": 9.5,
     "initial_raters": 36,
     "id": 185
   },
@@ -2441,7 +2441,7 @@
       "Drama"
     ],
     "release_date": "July 17, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 184,
     "id": 186
   },
@@ -2457,7 +2457,7 @@
       "Thriller"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 48,
     "id": 187
   },
@@ -2469,7 +2469,7 @@
       "Drama"
     ],
     "release_date": "April 24, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 109,
     "id": 188
   },
@@ -2481,7 +2481,7 @@
       "Drama"
     ],
     "release_date": "January 27, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 73,
     "id": 189
   },
@@ -2493,7 +2493,7 @@
       "Horror"
     ],
     "release_date": "January 27, 2025",
-    "initial_avg": "3.7",
+    "initial_avg": 3.7,
     "initial_raters": 38,
     "id": 190
   },
@@ -2509,7 +2509,7 @@
       "History"
     ],
     "release_date": "January 27, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 66,
     "id": 191
   },
@@ -2521,7 +2521,7 @@
       "Sci-Fi"
     ],
     "release_date": "January 27, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 51,
     "id": 192
   },
@@ -2534,7 +2534,7 @@
       "Drama"
     ],
     "release_date": "January 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 151,
     "id": 193
   },
@@ -2547,7 +2547,7 @@
       "Documentary"
     ],
     "release_date": "January 27, 2025",
-    "initial_avg": "8.3",
+    "initial_avg": 8.3,
     "initial_raters": 50,
     "id": 194
   },
@@ -2560,7 +2560,7 @@
       "Thriller"
     ],
     "release_date": "January 27, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 86,
     "id": 195
   },
@@ -2574,7 +2574,7 @@
       "Mystery"
     ],
     "release_date": "January 27, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 70,
     "id": 196
   },
@@ -2586,7 +2586,7 @@
       "Documentary"
     ],
     "release_date": "January 27, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 39,
     "id": 197
   },
@@ -2598,7 +2598,7 @@
       "Documentary"
     ],
     "release_date": "January 27, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 36,
     "id": 198
   },
@@ -2610,7 +2610,7 @@
       "Comedy"
     ],
     "release_date": "January 27, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 98,
     "id": 199
   },
@@ -2622,7 +2622,7 @@
       "Comedy"
     ],
     "release_date": "January 27, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 31,
     "id": 200
   },
@@ -2635,7 +2635,7 @@
       "Drama"
     ],
     "release_date": "May 16, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 118,
     "id": 201
   },
@@ -2650,7 +2650,7 @@
       "Sci-Fi"
     ],
     "release_date": "January 28, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 86,
     "id": 202
   },
@@ -2662,7 +2662,7 @@
       "Documentary"
     ],
     "release_date": "May 16, 2025",
-    "initial_avg": "8.3",
+    "initial_avg": 8.3,
     "initial_raters": 50,
     "id": 203
   },
@@ -2677,7 +2677,7 @@
       "Thriller"
     ],
     "release_date": "August 22, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 139,
     "id": 204
   },
@@ -2692,7 +2692,7 @@
       "Romance"
     ],
     "release_date": "June 17, 2025",
-    "initial_avg": "8.3",
+    "initial_avg": 8.3,
     "initial_raters": 62,
     "id": 205
   },
@@ -2707,7 +2707,7 @@
       "Drama"
     ],
     "release_date": "January 28, 2025",
-    "initial_avg": "7.4",
+    "initial_avg": 7.4,
     "initial_raters": 47,
     "id": 206
   },
@@ -2724,7 +2724,7 @@
       "War"
     ],
     "release_date": "January 29, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 993,
     "id": 207
   },
@@ -2738,7 +2738,7 @@
       "Thriller"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "5.3",
+    "initial_avg": 5.3,
     "initial_raters": 127,
     "id": 208
   },
@@ -2752,7 +2752,7 @@
       "Horror"
     ],
     "release_date": "January 28, 2025",
-    "initial_avg": "5.1",
+    "initial_avg": 5.1,
     "initial_raters": 39,
     "id": 209
   },
@@ -2764,7 +2764,7 @@
       "Documentary"
     ],
     "release_date": "January 28, 2025",
-    "initial_avg": "8.6",
+    "initial_avg": 8.6,
     "initial_raters": 39,
     "id": 210
   },
@@ -2776,7 +2776,7 @@
       "Comedy"
     ],
     "release_date": "January 28, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 60,
     "id": 211
   },
@@ -2792,7 +2792,7 @@
       "Thriller"
     ],
     "release_date": "January 28, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 56,
     "id": 212
   },
@@ -2806,7 +2806,7 @@
       "Documentary"
     ],
     "release_date": "January 28, 2025",
-    "initial_avg": "5.9",
+    "initial_avg": 5.9,
     "initial_raters": 162,
     "id": 213
   },
@@ -2818,7 +2818,7 @@
       "Comedy"
     ],
     "release_date": "January 28, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 30,
     "id": 214
   },
@@ -2832,7 +2832,7 @@
       "Horror"
     ],
     "release_date": "January 29, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 127,
     "id": 215
   },
@@ -2845,7 +2845,7 @@
       "Thriller"
     ],
     "release_date": "January 29, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 153,
     "id": 216
   },
@@ -2858,7 +2858,7 @@
       "Music"
     ],
     "release_date": "January 29, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 472,
     "id": 217
   },
@@ -2872,7 +2872,7 @@
       "Crime"
     ],
     "release_date": "January 29, 2025",
-    "initial_avg": "5.3",
+    "initial_avg": 5.3,
     "initial_raters": 80,
     "id": 218
   },
@@ -2882,7 +2882,7 @@
     "overview": "Facing the risk of losing everything, two sisters Thuy Van (Thien An) and Thuy Kieu (Thu Trang) devise a plan to conquer the \"Money Kisses\" from two young billionaires Quang (Le Xuan Tien) and Tu (Ma Ran Do).",
     "genres": [],
     "release_date": "January 29, 2025",
-    "initial_avg": "6.2",
+    "initial_avg": 6.2,
     "initial_raters": 36,
     "id": 219
   },
@@ -2894,7 +2894,7 @@
       "Drama"
     ],
     "release_date": "May 1, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 36,
     "id": 220
   },
@@ -2906,7 +2906,7 @@
       "Documentary"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 113,
     "id": 221
   },
@@ -2920,7 +2920,7 @@
       "Sci-Fi"
     ],
     "release_date": "January 29, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 51,
     "id": 222
   },
@@ -2934,7 +2934,7 @@
       "Romance"
     ],
     "release_date": "January 29, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 167,
     "id": 223
   },
@@ -2946,7 +2946,7 @@
       "Drama"
     ],
     "release_date": "January 29, 2025",
-    "initial_avg": "8.3",
+    "initial_avg": 8.3,
     "initial_raters": 226,
     "id": 224
   },
@@ -2959,7 +2959,7 @@
       "Drama"
     ],
     "release_date": "January 29, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 96,
     "id": 225
   },
@@ -2972,7 +2972,7 @@
       "Family"
     ],
     "release_date": "January 29, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 52,
     "id": 226
   },
@@ -2984,7 +2984,7 @@
       "Documentary"
     ],
     "release_date": "January 29, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 46,
     "id": 227
   },
@@ -2997,7 +2997,7 @@
       "Drama"
     ],
     "release_date": "January 29, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 31,
     "id": 228
   },
@@ -3010,7 +3010,7 @@
       "Drama"
     ],
     "release_date": "January 30, 2025",
-    "initial_avg": "7.4",
+    "initial_avg": 7.4,
     "initial_raters": 59,
     "id": 229
   },
@@ -3022,7 +3022,7 @@
       "Crime"
     ],
     "release_date": "January 30, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 338,
     "id": 230
   },
@@ -3034,7 +3034,7 @@
       "Drama"
     ],
     "release_date": "January 30, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 204,
     "id": 231
   },
@@ -3050,7 +3050,7 @@
       "Fantasy"
     ],
     "release_date": "April 10, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 227,
     "id": 232
   },
@@ -3062,7 +3062,7 @@
       "Action"
     ],
     "release_date": "January 30, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 76,
     "id": 233
   },
@@ -3074,7 +3074,7 @@
       "Drama"
     ],
     "release_date": "January 30, 2025",
-    "initial_avg": "7.4",
+    "initial_avg": 7.4,
     "initial_raters": 308,
     "id": 234
   },
@@ -3086,7 +3086,7 @@
       "Comedy"
     ],
     "release_date": "January 30, 2025",
-    "initial_avg": "5.2",
+    "initial_avg": 5.2,
     "initial_raters": 83,
     "id": 235
   },
@@ -3099,7 +3099,7 @@
       "Drama"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "6.2",
+    "initial_avg": 6.2,
     "initial_raters": 48,
     "id": 236
   },
@@ -3114,7 +3114,7 @@
       "History"
     ],
     "release_date": "January 30, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 244,
     "id": 237
   },
@@ -3126,7 +3126,7 @@
       "Comedy"
     ],
     "release_date": "January 30, 2025",
-    "initial_avg": "5.2",
+    "initial_avg": 5.2,
     "initial_raters": 109,
     "id": 238
   },
@@ -3138,7 +3138,7 @@
       "Documentary"
     ],
     "release_date": "January 30, 2025",
-    "initial_avg": "9.3",
+    "initial_avg": 9.3,
     "initial_raters": 35,
     "id": 239
   },
@@ -3150,7 +3150,7 @@
       "Documentary"
     ],
     "release_date": "January 30, 2025",
-    "initial_avg": "9.8",
+    "initial_avg": 9.8,
     "initial_raters": 90,
     "id": 240
   },
@@ -3167,7 +3167,7 @@
       "Romance"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 487,
     "id": 241
   },
@@ -3180,7 +3180,7 @@
       "Thriller"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "5.2",
+    "initial_avg": 5.2,
     "initial_raters": 764,
     "id": 242
   },
@@ -3193,7 +3193,7 @@
       "Horror"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "8.5",
+    "initial_avg": 8.5,
     "initial_raters": 495,
     "id": 243
   },
@@ -3205,7 +3205,7 @@
       "Thriller"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "4.8",
+    "initial_avg": 4.8,
     "initial_raters": 51,
     "id": 244
   },
@@ -3217,7 +3217,7 @@
       "Drama"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "9.0",
+    "initial_avg": 9.0,
     "initial_raters": 563,
     "id": 245
   },
@@ -3229,7 +3229,7 @@
       "Crime"
     ],
     "release_date": "January 2025",
-    "initial_avg": "8.7",
+    "initial_avg": 8.7,
     "initial_raters": 391,
     "id": 246
   },
@@ -3242,7 +3242,7 @@
       "Musical"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "5.3",
+    "initial_avg": 5.3,
     "initial_raters": 217,
     "id": 247
   },
@@ -3254,7 +3254,7 @@
       "Drama"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 48,
     "id": 248
   },
@@ -3268,7 +3268,7 @@
       "Thriller"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 222,
     "id": 249
   },
@@ -3280,7 +3280,7 @@
       "Horror"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 43,
     "id": 250
   },
@@ -3292,7 +3292,7 @@
       "Thriller"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "9.0",
+    "initial_avg": 9.0,
     "initial_raters": 537,
     "id": 251
   },
@@ -3305,7 +3305,7 @@
       "Thriller"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 669,
     "id": 252
   },
@@ -3318,7 +3318,7 @@
       "Thriller"
     ],
     "release_date": "April 17, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 85,
     "id": 253
   },
@@ -3330,7 +3330,7 @@
       "Thriller"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 58,
     "id": 254
   },
@@ -3345,7 +3345,7 @@
       "Thriller"
     ],
     "release_date": "March 12, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 34,
     "id": 255
   },
@@ -3357,7 +3357,7 @@
       "Comedy"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "2.4",
+    "initial_avg": 2.4,
     "initial_raters": 45,
     "id": 256
   },
@@ -3369,7 +3369,7 @@
       "Drama"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 188,
     "id": 257
   },
@@ -3381,7 +3381,7 @@
       "Drama"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 238,
     "id": 258
   },
@@ -3393,7 +3393,7 @@
       "Action"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "6.0",
+    "initial_avg": 6.0,
     "initial_raters": 34,
     "id": 259
   },
@@ -3407,7 +3407,7 @@
       "Romance"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "8.3",
+    "initial_avg": 8.3,
     "initial_raters": 222,
     "id": 260
   },
@@ -3419,7 +3419,7 @@
       "Action"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 42,
     "id": 261
   },
@@ -3433,7 +3433,7 @@
       "History"
     ],
     "release_date": "February 26, 2025",
-    "initial_avg": "5.9",
+    "initial_avg": 5.9,
     "initial_raters": 217,
     "id": 262
   },
@@ -3446,7 +3446,7 @@
       "Thriller"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "5.9",
+    "initial_avg": 5.9,
     "initial_raters": 538,
     "id": 263
   },
@@ -3458,7 +3458,7 @@
       "Action"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 55,
     "id": 264
   },
@@ -3470,7 +3470,7 @@
       "Drama"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 101,
     "id": 265
   },
@@ -3485,7 +3485,7 @@
       "Thriller"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 31,
     "id": 266
   },
@@ -3497,7 +3497,7 @@
       "Drama"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 48,
     "id": 267
   },
@@ -3509,7 +3509,7 @@
       "Drama"
     ],
     "release_date": "May 7, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 51,
     "id": 268
   },
@@ -3522,7 +3522,7 @@
       "Crime"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 308,
     "id": 269
   },
@@ -3535,7 +3535,7 @@
       "Romance"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "9.7",
+    "initial_avg": 9.7,
     "initial_raters": 33,
     "id": 270
   },
@@ -3548,7 +3548,7 @@
       "Thriller"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "5.9",
+    "initial_avg": 5.9,
     "initial_raters": 51,
     "id": 271
   },
@@ -3560,7 +3560,7 @@
       "Drama"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 45,
     "id": 272
   },
@@ -3572,7 +3572,7 @@
       "Documentary"
     ],
     "release_date": "February 26, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 54,
     "id": 273
   },
@@ -3586,7 +3586,7 @@
       "Romance"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "7.4",
+    "initial_avg": 7.4,
     "initial_raters": 54,
     "id": 274
   },
@@ -3596,7 +3596,7 @@
     "overview": null,
     "genres": [],
     "release_date": "January 31, 2025",
-    "initial_avg": "9.4",
+    "initial_avg": 9.4,
     "initial_raters": 538,
     "id": 275
   },
@@ -3606,7 +3606,7 @@
     "overview": "It has covered an important part of the life of Martyr Sayyad Shirazi. An important figure in the contemporary history of our country.",
     "genres": [],
     "release_date": "January 31, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 31,
     "id": 276
   },
@@ -3616,7 +3616,7 @@
     "overview": "Martyr Saeed Qahari, in a complex and risky operation, tries to fight the terrorist party of Komala.",
     "genres": [],
     "release_date": "January 31, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 36,
     "id": 277
   },
@@ -3628,7 +3628,7 @@
       "Drama"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 34,
     "id": 278
   },
@@ -3640,7 +3640,7 @@
       "Action"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "9.5",
+    "initial_avg": 9.5,
     "initial_raters": 46,
     "id": 279
   },
@@ -3652,7 +3652,7 @@
       "Drama"
     ],
     "release_date": "January 31, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 50,
     "id": 280
   },
@@ -3665,7 +3665,7 @@
       "History"
     ],
     "release_date": "April 23, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 100,
     "id": 281
   },
@@ -3679,7 +3679,7 @@
       "Documentary"
     ],
     "release_date": "February 1, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 215,
     "id": 282
   },
@@ -3692,7 +3692,7 @@
       "Romance"
     ],
     "release_date": "February 1, 2025",
-    "initial_avg": "4.7",
+    "initial_avg": 4.7,
     "initial_raters": 91,
     "id": 283
   },
@@ -3708,7 +3708,7 @@
       "Music"
     ],
     "release_date": "February 1, 2025",
-    "initial_avg": "4.4",
+    "initial_avg": 4.4,
     "initial_raters": 162,
     "id": 284
   },
@@ -3721,7 +3721,7 @@
       "Horror"
     ],
     "release_date": "February 1, 2025",
-    "initial_avg": "3.7",
+    "initial_avg": 3.7,
     "initial_raters": 31,
     "id": 285
   },
@@ -3734,7 +3734,7 @@
       "Romance"
     ],
     "release_date": "February 1, 2025",
-    "initial_avg": "8.4",
+    "initial_avg": 8.4,
     "initial_raters": 48,
     "id": 286
   },
@@ -3749,7 +3749,7 @@
       "History"
     ],
     "release_date": "February 1, 2025",
-    "initial_avg": "9.2",
+    "initial_avg": 9.2,
     "initial_raters": 30,
     "id": 287
   },
@@ -3761,7 +3761,7 @@
       "Thriller"
     ],
     "release_date": "February 1, 2025",
-    "initial_avg": "2.2",
+    "initial_avg": 2.2,
     "initial_raters": 82,
     "id": 288
   },
@@ -3773,7 +3773,7 @@
       "Drama"
     ],
     "release_date": "February 1, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 45,
     "id": 289
   },
@@ -3785,7 +3785,7 @@
       "Drama"
     ],
     "release_date": "March 26, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 57,
     "id": 290
   },
@@ -3797,7 +3797,7 @@
       "Romance"
     ],
     "release_date": "February 1, 2025",
-    "initial_avg": "5.9",
+    "initial_avg": 5.9,
     "initial_raters": 43,
     "id": 291
   },
@@ -3810,7 +3810,7 @@
       "Drama"
     ],
     "release_date": "March 13, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 116,
     "id": 292
   },
@@ -3824,7 +3824,7 @@
       "Thriller"
     ],
     "release_date": "March 6, 2025",
-    "initial_avg": "7.4",
+    "initial_avg": 7.4,
     "initial_raters": 88,
     "id": 293
   },
@@ -3836,7 +3836,7 @@
       "Documentary"
     ],
     "release_date": "February 1, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 46,
     "id": 294
   },
@@ -3848,7 +3848,7 @@
       "Fantasy"
     ],
     "release_date": "February 1, 2025",
-    "initial_avg": "6.2",
+    "initial_avg": 6.2,
     "initial_raters": 33,
     "id": 295
   },
@@ -3860,7 +3860,7 @@
       "Documentary"
     ],
     "release_date": "February 2, 2025",
-    "initial_avg": "4.7",
+    "initial_avg": 4.7,
     "initial_raters": 58,
     "id": 296
   },
@@ -3872,7 +3872,7 @@
       "Documentary"
     ],
     "release_date": "February 2, 2025",
-    "initial_avg": "8.3",
+    "initial_avg": 8.3,
     "initial_raters": 200,
     "id": 297
   },
@@ -3884,7 +3884,7 @@
       "Comedy"
     ],
     "release_date": "February 5, 2025",
-    "initial_avg": "4.6",
+    "initial_avg": 4.6,
     "initial_raters": 241,
     "id": 298
   },
@@ -3896,7 +3896,7 @@
       "Drama"
     ],
     "release_date": "April 3, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 53,
     "id": 299
   },
@@ -3908,7 +3908,7 @@
       "Drama"
     ],
     "release_date": "February 2, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 31,
     "id": 300
   },
@@ -3920,7 +3920,7 @@
       "Documentary"
     ],
     "release_date": "February 2, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 219,
     "id": 301
   },
@@ -3932,7 +3932,7 @@
       "Documentary"
     ],
     "release_date": "February 3, 2025",
-    "initial_avg": "8.7",
+    "initial_avg": 8.7,
     "initial_raters": 40,
     "id": 302
   },
@@ -3944,7 +3944,7 @@
       "Drama"
     ],
     "release_date": "February 3, 2025",
-    "initial_avg": "7.7",
+    "initial_avg": 7.7,
     "initial_raters": 78,
     "id": 303
   },
@@ -3956,7 +3956,7 @@
       "Thriller"
     ],
     "release_date": "February 13, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 78,
     "id": 304
   },
@@ -3969,7 +3969,7 @@
       "Drama"
     ],
     "release_date": "February 3, 2025",
-    "initial_avg": "6.3",
+    "initial_avg": 6.3,
     "initial_raters": 103,
     "id": 305
   },
@@ -3981,7 +3981,7 @@
       "Drama"
     ],
     "release_date": "February 3, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 72,
     "id": 306
   },
@@ -3993,7 +3993,7 @@
       "Action"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "7.4",
+    "initial_avg": 7.4,
     "initial_raters": 36,
     "id": 307
   },
@@ -4003,7 +4003,7 @@
     "overview": "After hitting a dog with his car, Stefan, guilt-ridden, decides to bring it with him to the hometown lake, where he is headed in order to complete the film about his mother who has recently passed away.",
     "genres": [],
     "release_date": "February 4, 2025",
-    "initial_avg": "8.6",
+    "initial_avg": 8.6,
     "initial_raters": 32,
     "id": 308
   },
@@ -4015,7 +4015,7 @@
       "Drama"
     ],
     "release_date": "February 4, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 38,
     "id": 309
   },
@@ -4030,7 +4030,7 @@
       "Music"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 38,
     "id": 310
   },
@@ -4046,7 +4046,7 @@
       "Mystery"
     ],
     "release_date": "February 17, 2025",
-    "initial_avg": "3.2",
+    "initial_avg": 3.2,
     "initial_raters": 237,
     "id": 311
   },
@@ -4060,7 +4060,7 @@
       "Drama"
     ],
     "release_date": "February 5, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 366,
     "id": 312
   },
@@ -4072,7 +4072,7 @@
       "Drama"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "7.4",
+    "initial_avg": 7.4,
     "initial_raters": 96,
     "id": 313
   },
@@ -4086,7 +4086,7 @@
       "Thriller"
     ],
     "release_date": "February 5, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 98,
     "id": 314
   },
@@ -4098,7 +4098,7 @@
       "Documentary"
     ],
     "release_date": "February 5, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 49,
     "id": 315
   },
@@ -4110,7 +4110,7 @@
       "Drama"
     ],
     "release_date": "February 5, 2025",
-    "initial_avg": "6.3",
+    "initial_avg": 6.3,
     "initial_raters": 85,
     "id": 316
   },
@@ -4122,7 +4122,7 @@
       "Family"
     ],
     "release_date": "February 5, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 35,
     "id": 317
   },
@@ -4134,7 +4134,7 @@
       "Drama"
     ],
     "release_date": "February 5, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 31,
     "id": 318
   },
@@ -4147,7 +4147,7 @@
       "Music"
     ],
     "release_date": "February 19, 2025",
-    "initial_avg": "8.8",
+    "initial_avg": 8.8,
     "initial_raters": 32,
     "id": 319
   },
@@ -4163,7 +4163,7 @@
       "Romance"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "5.3",
+    "initial_avg": 5.3,
     "initial_raters": 96,
     "id": 320
   },
@@ -4177,7 +4177,7 @@
       "Thriller"
     ],
     "release_date": "February 6, 2025",
-    "initial_avg": "4.6",
+    "initial_avg": 4.6,
     "initial_raters": 58,
     "id": 321
   },
@@ -4193,7 +4193,7 @@
       "Thriller"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 43,
     "id": 322
   },
@@ -4208,7 +4208,7 @@
       "Horror"
     ],
     "release_date": "February 6, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 472,
     "id": 323
   },
@@ -4222,7 +4222,7 @@
       "Drama"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 245,
     "id": 324
   },
@@ -4234,7 +4234,7 @@
       "Family"
     ],
     "release_date": "February 6, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 71,
     "id": 325
   },
@@ -4248,7 +4248,7 @@
       "Drama"
     ],
     "release_date": "February 6, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 108,
     "id": 326
   },
@@ -4263,7 +4263,7 @@
       "War"
     ],
     "release_date": "February 6, 2025",
-    "initial_avg": "4.5",
+    "initial_avg": 4.5,
     "initial_raters": 76,
     "id": 327
   },
@@ -4276,7 +4276,7 @@
       "Comedy"
     ],
     "release_date": "February 6, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 56,
     "id": 328
   },
@@ -4288,7 +4288,7 @@
       "Documentary"
     ],
     "release_date": "February 6, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 130,
     "id": 329
   },
@@ -4300,7 +4300,7 @@
       "Comedy"
     ],
     "release_date": "February 6, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 46,
     "id": 330
   },
@@ -4312,7 +4312,7 @@
       "Comedy"
     ],
     "release_date": "February 6, 2025",
-    "initial_avg": "8.4",
+    "initial_avg": 8.4,
     "initial_raters": 32,
     "id": 331
   },
@@ -4327,7 +4327,7 @@
       "Romance"
     ],
     "release_date": "February 6, 2025",
-    "initial_avg": "5.9",
+    "initial_avg": 5.9,
     "initial_raters": 95,
     "id": 332
   },
@@ -4340,7 +4340,7 @@
       "Fantasy"
     ],
     "release_date": "February 6, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 33,
     "id": 333
   },
@@ -4352,7 +4352,7 @@
       "Comedy"
     ],
     "release_date": "February 6, 2025",
-    "initial_avg": "3.8",
+    "initial_avg": 3.8,
     "initial_raters": 40,
     "id": 334
   },
@@ -4365,7 +4365,7 @@
       "Documentary"
     ],
     "release_date": "February 6, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 103,
     "id": 335
   },
@@ -4379,7 +4379,7 @@
       "Horror"
     ],
     "release_date": "February 11, 2025",
-    "initial_avg": "4.4",
+    "initial_avg": 4.4,
     "initial_raters": 556,
     "id": 336
   },
@@ -4392,7 +4392,7 @@
       "Thriller"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "4.6",
+    "initial_avg": 4.6,
     "initial_raters": 405,
     "id": 337
   },
@@ -4404,7 +4404,7 @@
       "Romance"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "5.4",
+    "initial_avg": 5.4,
     "initial_raters": 188,
     "id": 338
   },
@@ -4417,7 +4417,7 @@
       "Thriller"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "4.6",
+    "initial_avg": 4.6,
     "initial_raters": 112,
     "id": 339
   },
@@ -4431,7 +4431,7 @@
       "Romance"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "6.2",
+    "initial_avg": 6.2,
     "initial_raters": 500,
     "id": 340
   },
@@ -4444,7 +4444,7 @@
       "Romance"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "5.0",
+    "initial_avg": 5.0,
     "initial_raters": 80,
     "id": 341
   },
@@ -4460,7 +4460,7 @@
       "Musical"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 91,
     "id": 342
   },
@@ -4475,7 +4475,7 @@
       "Fantasy"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "8.1",
+    "initial_avg": 8.1,
     "initial_raters": 51,
     "id": 343
   },
@@ -4488,7 +4488,7 @@
       "Romance"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 141,
     "id": 344
   },
@@ -4500,7 +4500,7 @@
       "Drama"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 55,
     "id": 345
   },
@@ -4515,7 +4515,7 @@
       "Fantasy"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 66,
     "id": 346
   },
@@ -4527,7 +4527,7 @@
       "Thriller"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 61,
     "id": 347
   },
@@ -4539,7 +4539,7 @@
       "Romance"
     ],
     "release_date": "July 1, 2025",
-    "initial_avg": "3.6",
+    "initial_avg": 3.6,
     "initial_raters": 68,
     "id": 348
   },
@@ -4551,7 +4551,7 @@
       "Drama"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "6.2",
+    "initial_avg": 6.2,
     "initial_raters": 149,
     "id": 349
   },
@@ -4563,7 +4563,7 @@
       "Romance"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 55,
     "id": 350
   },
@@ -4576,7 +4576,7 @@
       "Romance"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 51,
     "id": 351
   },
@@ -4586,7 +4586,7 @@
     "overview": "In TALWAR , hero plays the role of most wanted criminal in the city. He is a contract killer. But one final deal changed his life. This deal made him to realize the value of a person's life.",
     "genres": [],
     "release_date": "February 7, 2025",
-    "initial_avg": "9.5",
+    "initial_avg": 9.5,
     "initial_raters": 69,
     "id": 352
   },
@@ -4598,7 +4598,7 @@
       "Action"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 32,
     "id": 353
   },
@@ -4611,7 +4611,7 @@
       "Thriller"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "8.7",
+    "initial_avg": 8.7,
     "initial_raters": 345,
     "id": 354
   },
@@ -4623,7 +4623,7 @@
       "Comedy"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 32,
     "id": 355
   },
@@ -4633,7 +4633,7 @@
     "overview": "Even after 76 years of independence, superstition and ignorance persist in parts of India. Two friends, bound by a devotion like Shree Ram and Hanuman, set out to eradicate these evils, proving that true strength lies in knowledge.",
     "genres": [],
     "release_date": "February 7, 2025",
-    "initial_avg": "9.5",
+    "initial_avg": 9.5,
     "initial_raters": 541,
     "id": 356
   },
@@ -4645,7 +4645,7 @@
       "Mystery"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "5.6",
+    "initial_avg": 5.6,
     "initial_raters": 42,
     "id": 357
   },
@@ -4655,7 +4655,7 @@
     "overview": null,
     "genres": [],
     "release_date": "February 7, 2025",
-    "initial_avg": "7.7",
+    "initial_avg": 7.7,
     "initial_raters": 271,
     "id": 358
   },
@@ -4667,7 +4667,7 @@
       "Thriller"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "9.8",
+    "initial_avg": 9.8,
     "initial_raters": 41,
     "id": 359
   },
@@ -4679,7 +4679,7 @@
       "Documentary"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 80,
     "id": 360
   },
@@ -4691,7 +4691,7 @@
       "Drama"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 264,
     "id": 361
   },
@@ -4703,7 +4703,7 @@
       "Documentary"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 57,
     "id": 362
   },
@@ -4715,7 +4715,7 @@
       "Documentary"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 42,
     "id": 363
   },
@@ -4727,7 +4727,7 @@
       "Documentary"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "8.1",
+    "initial_avg": 8.1,
     "initial_raters": 49,
     "id": 364
   },
@@ -4739,7 +4739,7 @@
       "Documentary"
     ],
     "release_date": "February 7, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 49,
     "id": 365
   },
@@ -4754,7 +4754,7 @@
       "Thriller"
     ],
     "release_date": "February 8, 2025",
-    "initial_avg": "9.2",
+    "initial_avg": 9.2,
     "initial_raters": 62,
     "id": 366
   },
@@ -4772,7 +4772,7 @@
       "War"
     ],
     "release_date": "April 17, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 114,
     "id": 367
   },
@@ -4784,7 +4784,7 @@
       "Horror"
     ],
     "release_date": "February 8, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 77,
     "id": 368
   },
@@ -4796,7 +4796,7 @@
       "Drama"
     ],
     "release_date": "February 8, 2025",
-    "initial_avg": "8.5",
+    "initial_avg": 8.5,
     "initial_raters": 32,
     "id": 369
   },
@@ -4808,7 +4808,7 @@
       "Comedy"
     ],
     "release_date": "February 8, 2025",
-    "initial_avg": "3.2",
+    "initial_avg": 3.2,
     "initial_raters": 30,
     "id": 370
   },
@@ -4820,7 +4820,7 @@
       "Documentary"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 270,
     "id": 371
   },
@@ -4832,7 +4832,7 @@
       "Horror"
     ],
     "release_date": "April 4, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 258,
     "id": 372
   },
@@ -4847,7 +4847,7 @@
       "Thriller"
     ],
     "release_date": "February 10, 2025",
-    "initial_avg": "4.6",
+    "initial_avg": 4.6,
     "initial_raters": 43,
     "id": 373
   },
@@ -4865,7 +4865,7 @@
       "Sci-Fi"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 108,
     "id": 374
   },
@@ -4885,7 +4885,7 @@
       "Mystery"
     ],
     "release_date": "February 11, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 85,
     "id": 375
   },
@@ -4898,7 +4898,7 @@
       "Thriller"
     ],
     "release_date": "February 11, 2025",
-    "initial_avg": "8.8",
+    "initial_avg": 8.8,
     "initial_raters": 68,
     "id": 376
   },
@@ -4910,7 +4910,7 @@
       "Romance"
     ],
     "release_date": "February 11, 2025",
-    "initial_avg": "3.7",
+    "initial_avg": 3.7,
     "initial_raters": 63,
     "id": 377
   },
@@ -4924,7 +4924,7 @@
       "Documentary"
     ],
     "release_date": "February 11, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 121,
     "id": 378
   },
@@ -4938,7 +4938,7 @@
       "Horror"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "6.0",
+    "initial_avg": 6.0,
     "initial_raters": 45,
     "id": 379
   },
@@ -4951,7 +4951,7 @@
       "Horror"
     ],
     "release_date": "February 12, 2025",
-    "initial_avg": "2.2",
+    "initial_avg": 2.2,
     "initial_raters": 33,
     "id": 380
   },
@@ -4963,7 +4963,7 @@
       "Comedy"
     ],
     "release_date": "February 12, 2025",
-    "initial_avg": "4.7",
+    "initial_avg": 4.7,
     "initial_raters": 540,
     "id": 381
   },
@@ -4981,7 +4981,7 @@
       "Sci-Fi"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 119,
     "id": 382
   },
@@ -4994,7 +4994,7 @@
       "Thriller"
     ],
     "release_date": "April 23, 2025",
-    "initial_avg": "5.2",
+    "initial_avg": 5.2,
     "initial_raters": 239,
     "id": 383
   },
@@ -5006,7 +5006,7 @@
       "Drama"
     ],
     "release_date": "February 13, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 112,
     "id": 384
   },
@@ -5019,7 +5019,7 @@
       "Drama"
     ],
     "release_date": "February 13, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 483,
     "id": 385
   },
@@ -5031,7 +5031,7 @@
       "Thriller"
     ],
     "release_date": "February 13, 2025",
-    "initial_avg": "7.9",
+    "initial_avg": 7.9,
     "initial_raters": 64,
     "id": 386
   },
@@ -5045,7 +5045,7 @@
       "Drama"
     ],
     "release_date": "March 20, 2025",
-    "initial_avg": "6.0",
+    "initial_avg": 6.0,
     "initial_raters": 324,
     "id": 387
   },
@@ -5058,7 +5058,7 @@
       "Thriller"
     ],
     "release_date": "February 13, 2025",
-    "initial_avg": "6.2",
+    "initial_avg": 6.2,
     "initial_raters": 95,
     "id": 388
   },
@@ -5070,7 +5070,7 @@
       "Comedy"
     ],
     "release_date": "February 13, 2025",
-    "initial_avg": "5.6",
+    "initial_avg": 5.6,
     "initial_raters": 136,
     "id": 389
   },
@@ -5082,7 +5082,7 @@
       "Action"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "5.2",
+    "initial_avg": 5.2,
     "initial_raters": 61,
     "id": 390
   },
@@ -5095,7 +5095,7 @@
       "Romance"
     ],
     "release_date": "February 13, 2025",
-    "initial_avg": "4.5",
+    "initial_avg": 4.5,
     "initial_raters": 72,
     "id": 391
   },
@@ -5107,7 +5107,7 @@
       "Documentary"
     ],
     "release_date": "February 13, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 31,
     "id": 392
   },
@@ -5126,7 +5126,7 @@
       "Sci-Fi"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 119,
     "id": 393
   },
@@ -5147,7 +5147,7 @@
       "History"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 32,
     "id": 394
   },
@@ -5162,7 +5162,7 @@
       "Romance"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 63,
     "id": 395
   },
@@ -5176,7 +5176,7 @@
       "Drama"
     ],
     "release_date": "July 3, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 198,
     "id": 396
   },
@@ -5188,7 +5188,7 @@
       "Romance"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 108,
     "id": 397
   },
@@ -5200,7 +5200,7 @@
       "Drama"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 82,
     "id": 398
   },
@@ -5215,7 +5215,7 @@
       "Thriller"
     ],
     "release_date": "March 26, 2025",
-    "initial_avg": "6.3",
+    "initial_avg": 6.3,
     "initial_raters": 75,
     "id": 399
   },
@@ -5227,7 +5227,7 @@
       "Romance"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "4.2",
+    "initial_avg": 4.2,
     "initial_raters": 49,
     "id": 400
   },
@@ -5240,7 +5240,7 @@
       "Thriller"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "5.3",
+    "initial_avg": 5.3,
     "initial_raters": 78,
     "id": 401
   },
@@ -5252,7 +5252,7 @@
       "Adventure"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "5.9",
+    "initial_avg": 5.9,
     "initial_raters": 608,
     "id": 402
   },
@@ -5268,7 +5268,7 @@
       "Romance"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 787,
     "id": 403
   },
@@ -5285,7 +5285,7 @@
       "Romance"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "2.5",
+    "initial_avg": 2.5,
     "initial_raters": 507,
     "id": 404
   },
@@ -5297,7 +5297,7 @@
       "Drama"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "8.5",
+    "initial_avg": 8.5,
     "initial_raters": 43,
     "id": 405
   },
@@ -5311,7 +5311,7 @@
       "Horror"
     ],
     "release_date": "2025",
-    "initial_avg": "3.5",
+    "initial_avg": 3.5,
     "initial_raters": 103,
     "id": 406
   },
@@ -5323,7 +5323,7 @@
       "Drama"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "8.3",
+    "initial_avg": 8.3,
     "initial_raters": 45,
     "id": 407
   },
@@ -5335,7 +5335,7 @@
       "Drama"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 964,
     "id": 408
   },
@@ -5352,7 +5352,7 @@
       "Romance"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "6.3",
+    "initial_avg": 6.3,
     "initial_raters": 778,
     "id": 409
   },
@@ -5364,7 +5364,7 @@
       "Drama"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 77,
     "id": 410
   },
@@ -5376,7 +5376,7 @@
       "Drama"
     ],
     "release_date": "June 19, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 36,
     "id": 411
   },
@@ -5390,7 +5390,7 @@
       "Thriller"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 69,
     "id": 412
   },
@@ -5402,7 +5402,7 @@
       "Romance"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 55,
     "id": 413
   },
@@ -5416,7 +5416,7 @@
       "Romance"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "4.8",
+    "initial_avg": 4.8,
     "initial_raters": 136,
     "id": 414
   },
@@ -5428,7 +5428,7 @@
       "Thriller"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 36,
     "id": 415
   },
@@ -5441,7 +5441,7 @@
       "Drama"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 60,
     "id": 416
   },
@@ -5453,7 +5453,7 @@
       "Mystery"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "6.0",
+    "initial_avg": 6.0,
     "initial_raters": 51,
     "id": 417
   },
@@ -5465,7 +5465,7 @@
       "Drama"
     ],
     "release_date": "March 20, 2025",
-    "initial_avg": "7.4",
+    "initial_avg": 7.4,
     "initial_raters": 94,
     "id": 418
   },
@@ -5477,7 +5477,7 @@
       "Comedy"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 604,
     "id": 419
   },
@@ -5489,7 +5489,7 @@
       "Drama"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 99,
     "id": 420
   },
@@ -5501,7 +5501,7 @@
       "Drama"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "5.0",
+    "initial_avg": 5.0,
     "initial_raters": 363,
     "id": 421
   },
@@ -5514,7 +5514,7 @@
       "Thriller"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "9.9",
+    "initial_avg": 9.9,
     "initial_raters": 399,
     "id": 422
   },
@@ -5526,7 +5526,7 @@
       "Drama"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "4.1",
+    "initial_avg": 4.1,
     "initial_raters": 46,
     "id": 423
   },
@@ -5538,7 +5538,7 @@
       "Action"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "6.3",
+    "initial_avg": 6.3,
     "initial_raters": 43,
     "id": 424
   },
@@ -5550,7 +5550,7 @@
       "Documentary"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "6.2",
+    "initial_avg": 6.2,
     "initial_raters": 60,
     "id": 425
   },
@@ -5562,7 +5562,7 @@
       "Drama"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 59,
     "id": 426
   },
@@ -5574,7 +5574,7 @@
       "Romance"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 985,
     "id": 427
   },
@@ -5586,7 +5586,7 @@
       "Action"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 372,
     "id": 428
   },
@@ -5598,7 +5598,7 @@
       "Family"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "4.4",
+    "initial_avg": 4.4,
     "initial_raters": 56,
     "id": 429
   },
@@ -5610,7 +5610,7 @@
       "Comedy"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "5.3",
+    "initial_avg": 5.3,
     "initial_raters": 55,
     "id": 430
   },
@@ -5623,7 +5623,7 @@
       "Sport"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "8.1",
+    "initial_avg": 8.1,
     "initial_raters": 31,
     "id": 431
   },
@@ -5633,7 +5633,7 @@
     "overview": "2025 Oscar Nominated Short Films (Live Action): \"The Man Who Could Not Remain Silent\" - 20 min, Croatia (Croatian) \"Anuja\" - 18 min, India (Hindi) \"I'm Not a Robot\" - 15 min, Belgium/Netherlands (Dutch) \"A Lien\" - 22 min, USA (English) \"The Last Ranger\" - 23 min, South Africa (Afrikaans)",
     "genres": [],
     "release_date": "February 14, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 57,
     "id": 432
   },
@@ -5645,7 +5645,7 @@
       "Documentary"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 30,
     "id": 433
   },
@@ -5659,7 +5659,7 @@
       "Romance"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "9.4",
+    "initial_avg": 9.4,
     "initial_raters": 202,
     "id": 434
   },
@@ -5669,7 +5669,7 @@
     "overview": null,
     "genres": [],
     "release_date": "February 14, 2025",
-    "initial_avg": "5.6",
+    "initial_avg": 5.6,
     "initial_raters": 34,
     "id": 435
   },
@@ -5681,7 +5681,7 @@
       "Drama"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 315,
     "id": 436
   },
@@ -5691,7 +5691,7 @@
     "overview": "The story is extremely difficult to follow, which gives the film a more artistic and mysterious quality. As the movie unfolds, the viewer struggles to understand its plot and how it connects to the title. It begins by introducing Loren, an alcoholic and substance abuser who is unable to cope with the death of her best friend, Ana. As a result, she develops a split personality named Cassie. Loren desperately needs help but refuses to connect with her mother due to past trauma. However, her mother manipulates her into opening up about her feelings. Meanwhile, Ana (Abidone) returns to possess her nieces. It is then revealed that Loren's mother is also Ana's mother. Seeking a solution, she turns to a priest named Fernando for help. The rest is left to the viewer's interpretation, as the story cannot be understood by anyone.",
     "genres": [],
     "release_date": "February 14, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 61,
     "id": 437
   },
@@ -5706,7 +5706,7 @@
       "Romance"
     ],
     "release_date": "February 14, 2025",
-    "initial_avg": "8.6",
+    "initial_avg": 8.6,
     "initial_raters": 57,
     "id": 438
   },
@@ -5719,7 +5719,7 @@
       "Romance"
     ],
     "release_date": "November 6, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 188,
     "id": 439
   },
@@ -5732,7 +5732,7 @@
       "Thriller"
     ],
     "release_date": "May 2, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 93,
     "id": 440
   },
@@ -5744,7 +5744,7 @@
       "Drama"
     ],
     "release_date": "August 1, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 49,
     "id": 441
   },
@@ -5756,7 +5756,7 @@
       "Drama"
     ],
     "release_date": "April 4, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 245,
     "id": 442
   },
@@ -5768,7 +5768,7 @@
       "Documentary"
     ],
     "release_date": "February 15, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 48,
     "id": 443
   },
@@ -5780,7 +5780,7 @@
       "Drama"
     ],
     "release_date": "June 19, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 31,
     "id": 444
   },
@@ -5792,7 +5792,7 @@
       "Drama"
     ],
     "release_date": "February 15, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 100,
     "id": 445
   },
@@ -5804,7 +5804,7 @@
       "Drama"
     ],
     "release_date": "February 15, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 46,
     "id": 446
   },
@@ -5816,7 +5816,7 @@
       "Drama"
     ],
     "release_date": "June 11, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 37,
     "id": 447
   },
@@ -5828,7 +5828,7 @@
       "Drama"
     ],
     "release_date": "February 15, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 62,
     "id": 448
   },
@@ -5840,7 +5840,7 @@
       "Drama"
     ],
     "release_date": "February 15, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 44,
     "id": 449
   },
@@ -5853,7 +5853,7 @@
       "Drama"
     ],
     "release_date": "February 15, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 47,
     "id": 450
   },
@@ -5866,7 +5866,7 @@
       "Drama"
     ],
     "release_date": "February 15, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 30,
     "id": 451
   },
@@ -5880,7 +5880,7 @@
       "Thriller"
     ],
     "release_date": "May 8, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 158,
     "id": 452
   },
@@ -5894,7 +5894,7 @@
       "Thriller"
     ],
     "release_date": "April 30, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 107,
     "id": 453
   },
@@ -5907,7 +5907,7 @@
       "Music"
     ],
     "release_date": "March 13, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 320,
     "id": 454
   },
@@ -5921,7 +5921,7 @@
       "Thriller"
     ],
     "release_date": "June 25, 2025",
-    "initial_avg": "6.3",
+    "initial_avg": 6.3,
     "initial_raters": 151,
     "id": 455
   },
@@ -5937,7 +5937,7 @@
       "Sci-Fi"
     ],
     "release_date": "February 16, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 187,
     "id": 456
   },
@@ -5950,7 +5950,7 @@
       "Fantasy"
     ],
     "release_date": "September 17, 2025",
-    "initial_avg": "5.9",
+    "initial_avg": 5.9,
     "initial_raters": 94,
     "id": 457
   },
@@ -5963,7 +5963,7 @@
       "Drama"
     ],
     "release_date": "February 16, 2025",
-    "initial_avg": "7.7",
+    "initial_avg": 7.7,
     "initial_raters": 32,
     "id": 458
   },
@@ -5976,7 +5976,7 @@
       "Drama"
     ],
     "release_date": "February 16, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 41,
     "id": 459
   },
@@ -5988,7 +5988,7 @@
       "Drama"
     ],
     "release_date": "March 13, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 137,
     "id": 460
   },
@@ -6000,7 +6000,7 @@
       "Drama"
     ],
     "release_date": "April 3, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 109,
     "id": 461
   },
@@ -6013,7 +6013,7 @@
       "Documentary"
     ],
     "release_date": "April 3, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 74,
     "id": 462
   },
@@ -6025,7 +6025,7 @@
       "Documentary"
     ],
     "release_date": "February 16, 2025",
-    "initial_avg": "6.0",
+    "initial_avg": 6.0,
     "initial_raters": 40,
     "id": 463
   },
@@ -6037,7 +6037,7 @@
       "Drama"
     ],
     "release_date": "February 16, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 47,
     "id": 464
   },
@@ -6051,7 +6051,7 @@
       "Thriller"
     ],
     "release_date": "February 27, 2025",
-    "initial_avg": "8.3",
+    "initial_avg": 8.3,
     "initial_raters": 755,
     "id": 465
   },
@@ -6063,7 +6063,7 @@
       "Drama"
     ],
     "release_date": "April 17, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 172,
     "id": 466
   },
@@ -6076,7 +6076,7 @@
       "Sport"
     ],
     "release_date": "February 17, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 512,
     "id": 467
   },
@@ -6088,7 +6088,7 @@
       "Drama"
     ],
     "release_date": "March 8, 2025",
-    "initial_avg": "5.2",
+    "initial_avg": 5.2,
     "initial_raters": 109,
     "id": 468
   },
@@ -6100,7 +6100,7 @@
       "Drama"
     ],
     "release_date": "February 17, 2025",
-    "initial_avg": "8.1",
+    "initial_avg": 8.1,
     "initial_raters": 36,
     "id": 469
   },
@@ -6112,7 +6112,7 @@
       "Drama"
     ],
     "release_date": "July 30, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 59,
     "id": 470
   },
@@ -6126,7 +6126,7 @@
       "Thriller"
     ],
     "release_date": "February 17, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 30,
     "id": 471
   },
@@ -6142,7 +6142,7 @@
       "Romance"
     ],
     "release_date": "February 18, 2025",
-    "initial_avg": "7.4",
+    "initial_avg": 7.4,
     "initial_raters": 185,
     "id": 472
   },
@@ -6155,7 +6155,7 @@
       "Thriller"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "4.4",
+    "initial_avg": 4.4,
     "initial_raters": 52,
     "id": 473
   },
@@ -6167,7 +6167,7 @@
       "Thriller"
     ],
     "release_date": "February 18, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 70,
     "id": 474
   },
@@ -6179,7 +6179,7 @@
       "Drama"
     ],
     "release_date": "February 18, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 53,
     "id": 475
   },
@@ -6191,7 +6191,7 @@
       "Thriller"
     ],
     "release_date": "February 18, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 85,
     "id": 476
   },
@@ -6204,7 +6204,7 @@
       "Western"
     ],
     "release_date": "February 18, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 67,
     "id": 477
   },
@@ -6216,7 +6216,7 @@
       "Fantasy"
     ],
     "release_date": "February 18, 2025",
-    "initial_avg": "6.0",
+    "initial_avg": 6.0,
     "initial_raters": 95,
     "id": 478
   },
@@ -6230,7 +6230,7 @@
       "Documentary"
     ],
     "release_date": "February 18, 2025",
-    "initial_avg": "5.3",
+    "initial_avg": 5.3,
     "initial_raters": 138,
     "id": 479
   },
@@ -6244,7 +6244,7 @@
       "Documentary"
     ],
     "release_date": "February 18, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 192,
     "id": 480
   },
@@ -6256,7 +6256,7 @@
       "Drama"
     ],
     "release_date": "February 18, 2025",
-    "initial_avg": "9.5",
+    "initial_avg": 9.5,
     "initial_raters": 30,
     "id": 481
   },
@@ -6269,7 +6269,7 @@
       "Horror"
     ],
     "release_date": "February 19, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 133,
     "id": 482
   },
@@ -6281,7 +6281,7 @@
       "Drama"
     ],
     "release_date": "February 19, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 68,
     "id": 483
   },
@@ -6298,7 +6298,7 @@
       "Drama"
     ],
     "release_date": "February 19, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 694,
     "id": 484
   },
@@ -6311,7 +6311,7 @@
       "Drama"
     ],
     "release_date": "January 8, 2026",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 167,
     "id": 485
   },
@@ -6323,7 +6323,7 @@
       "Drama"
     ],
     "release_date": "February 19, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 82,
     "id": 486
   },
@@ -6335,7 +6335,7 @@
       "Drama"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 39,
     "id": 487
   },
@@ -6347,7 +6347,7 @@
       "Documentary"
     ],
     "release_date": "February 19, 2025",
-    "initial_avg": "3.2",
+    "initial_avg": 3.2,
     "initial_raters": 47,
     "id": 488
   },
@@ -6359,7 +6359,7 @@
       "Drama"
     ],
     "release_date": "February 19, 2025",
-    "initial_avg": "5.6",
+    "initial_avg": 5.6,
     "initial_raters": 235,
     "id": 489
   },
@@ -6371,7 +6371,7 @@
       "Drama"
     ],
     "release_date": "February 20, 2025",
-    "initial_avg": "8.3",
+    "initial_avg": 8.3,
     "initial_raters": 161,
     "id": 490
   },
@@ -6386,7 +6386,7 @@
       "Thriller"
     ],
     "release_date": "February 20, 2025",
-    "initial_avg": "5.0",
+    "initial_avg": 5.0,
     "initial_raters": 39,
     "id": 491
   },
@@ -6401,7 +6401,7 @@
       "Mystery"
     ],
     "release_date": "February 20, 2025",
-    "initial_avg": "6.2",
+    "initial_avg": 6.2,
     "initial_raters": 270,
     "id": 492
   },
@@ -6414,7 +6414,7 @@
       "Drama"
     ],
     "release_date": "March 19, 2025",
-    "initial_avg": "6.3",
+    "initial_avg": 6.3,
     "initial_raters": 160,
     "id": 493
   },
@@ -6428,7 +6428,7 @@
       "Romance"
     ],
     "release_date": "May 14, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 67,
     "id": 494
   },
@@ -6441,7 +6441,7 @@
       "Drama"
     ],
     "release_date": "February 20, 2025",
-    "initial_avg": "8.7",
+    "initial_avg": 8.7,
     "initial_raters": 94,
     "id": 495
   },
@@ -6453,7 +6453,7 @@
       "Documentary"
     ],
     "release_date": "February 20, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 35,
     "id": 496
   },
@@ -6467,7 +6467,7 @@
       "Romance"
     ],
     "release_date": "February 20, 2025",
-    "initial_avg": "5.1",
+    "initial_avg": 5.1,
     "initial_raters": 35,
     "id": 497
   },
@@ -6479,7 +6479,7 @@
       "Music"
     ],
     "release_date": "February 20, 2025",
-    "initial_avg": "8.7",
+    "initial_avg": 8.7,
     "initial_raters": 67,
     "id": 498
   },
@@ -6495,7 +6495,7 @@
       "Sport"
     ],
     "release_date": "February 20, 2025",
-    "initial_avg": "4.9",
+    "initial_avg": 4.9,
     "initial_raters": 60,
     "id": 499
   },
@@ -6509,7 +6509,7 @@
       "Thriller"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 516,
     "id": 500
   },
@@ -6523,7 +6523,7 @@
       "Romance"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "4.4",
+    "initial_avg": 4.4,
     "initial_raters": 84,
     "id": 501
   },
@@ -6536,7 +6536,7 @@
       "Horror"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "4.8",
+    "initial_avg": 4.8,
     "initial_raters": 34,
     "id": 502
   },
@@ -6549,7 +6549,7 @@
       "Drama"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "8.6",
+    "initial_avg": 8.6,
     "initial_raters": 62,
     "id": 503
   },
@@ -6561,7 +6561,7 @@
       "Comedy"
     ],
     "release_date": "April 21, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 221,
     "id": 504
   },
@@ -6573,7 +6573,7 @@
       "Drama"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 78,
     "id": 505
   },
@@ -6586,7 +6586,7 @@
       "Drama"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 38,
     "id": 506
   },
@@ -6598,7 +6598,7 @@
       "Drama"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "5.6",
+    "initial_avg": 5.6,
     "initial_raters": 224,
     "id": 507
   },
@@ -6611,7 +6611,7 @@
       "Horror"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "4.5",
+    "initial_avg": 4.5,
     "initial_raters": 77,
     "id": 508
   },
@@ -6624,7 +6624,7 @@
       "Thriller"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "5.3",
+    "initial_avg": 5.3,
     "initial_raters": 177,
     "id": 509
   },
@@ -6638,7 +6638,7 @@
       "Documentary"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 178,
     "id": 510
   },
@@ -6650,7 +6650,7 @@
       "Drama"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "6.0",
+    "initial_avg": 6.0,
     "initial_raters": 152,
     "id": 511
   },
@@ -6664,7 +6664,7 @@
       "Thriller"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 33,
     "id": 512
   },
@@ -6677,7 +6677,7 @@
       "Thriller"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 513,
     "id": 513
   },
@@ -6687,7 +6687,7 @@
     "overview": "Through seasons of love and sacrifice, Chandu yearns and searches. Do our desires seek us back? When truth emerges, will it stay or fade? A pure love story.",
     "genres": [],
     "release_date": "February 21, 2025",
-    "initial_avg": "9.3",
+    "initial_avg": 9.3,
     "initial_raters": 470,
     "id": 514
   },
@@ -6699,7 +6699,7 @@
       "Documentary"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "7.4",
+    "initial_avg": 7.4,
     "initial_raters": 54,
     "id": 515
   },
@@ -6712,7 +6712,7 @@
       "Romance"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "9.6",
+    "initial_avg": 9.6,
     "initial_raters": 512,
     "id": 516
   },
@@ -6724,7 +6724,7 @@
       "Thriller"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "6.3",
+    "initial_avg": 6.3,
     "initial_raters": 119,
     "id": 517
   },
@@ -6734,7 +6734,7 @@
     "overview": "Anpu lives an alcoholic life, and one day his friends and family members take him alive to a graveyard and try to burn him to death with posthumous rituals. The film moves forward with a social commitment in a village setting, as he witnesses his own funeral.",
     "genres": [],
     "release_date": "February 21, 2025",
-    "initial_avg": "9.6",
+    "initial_avg": 9.6,
     "initial_raters": 129,
     "id": 518
   },
@@ -6746,7 +6746,7 @@
       "Drama"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "9.6",
+    "initial_avg": 9.6,
     "initial_raters": 43,
     "id": 519
   },
@@ -6758,7 +6758,7 @@
       "Drama"
     ],
     "release_date": "February 21, 2025",
-    "initial_avg": "9.4",
+    "initial_avg": 9.4,
     "initial_raters": 176,
     "id": 520
   },
@@ -6779,7 +6779,7 @@
       "Adventure"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "5.9",
+    "initial_avg": 5.9,
     "initial_raters": 65,
     "id": 521
   },
@@ -6791,7 +6791,7 @@
       "Comedy"
     ],
     "release_date": "February 26, 2025",
-    "initial_avg": "5.0",
+    "initial_avg": 5.0,
     "initial_raters": 390,
     "id": 522
   },
@@ -6803,7 +6803,7 @@
       "Documentary"
     ],
     "release_date": "February 25, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 364,
     "id": 523
   },
@@ -6818,7 +6818,7 @@
       "Sport"
     ],
     "release_date": "March 4, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 379,
     "id": 524
   },
@@ -6832,7 +6832,7 @@
       "Fantasy"
     ],
     "release_date": "March 6, 2025",
-    "initial_avg": "5.3",
+    "initial_avg": 5.3,
     "initial_raters": 74,
     "id": 525
   },
@@ -6844,7 +6844,7 @@
       "Drama"
     ],
     "release_date": "February 25, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 142,
     "id": 526
   },
@@ -6860,7 +6860,7 @@
       "Thriller"
     ],
     "release_date": "May 23, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 43,
     "id": 527
   },
@@ -6872,7 +6872,7 @@
       "Family"
     ],
     "release_date": "February 26, 2025",
-    "initial_avg": "9.4",
+    "initial_avg": 9.4,
     "initial_raters": 42,
     "id": 528
   },
@@ -6884,7 +6884,7 @@
       "Documentary"
     ],
     "release_date": "February 26, 2025",
-    "initial_avg": "5.3",
+    "initial_avg": 5.3,
     "initial_raters": 170,
     "id": 529
   },
@@ -6901,7 +6901,7 @@
       "Fantasy"
     ],
     "release_date": "March 6, 2025",
-    "initial_avg": "4.7",
+    "initial_avg": 4.7,
     "initial_raters": 69,
     "id": 530
   },
@@ -6918,7 +6918,7 @@
       "Thriller"
     ],
     "release_date": "February 27, 2025",
-    "initial_avg": "5.4",
+    "initial_avg": 5.4,
     "initial_raters": 46,
     "id": 531
   },
@@ -6932,7 +6932,7 @@
       "Drama"
     ],
     "release_date": "February 27, 2025",
-    "initial_avg": "8.9",
+    "initial_avg": 8.9,
     "initial_raters": 51,
     "id": 532
   },
@@ -6944,7 +6944,7 @@
       "Documentary"
     ],
     "release_date": "February 27, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 81,
     "id": 533
   },
@@ -6956,7 +6956,7 @@
       "Comedy"
     ],
     "release_date": "February 27, 2025",
-    "initial_avg": "6.0",
+    "initial_avg": 6.0,
     "initial_raters": 897,
     "id": 534
   },
@@ -6970,7 +6970,7 @@
       "Thriller"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 575,
     "id": 535
   },
@@ -6984,7 +6984,7 @@
       "Drama"
     ],
     "release_date": "February 27, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 106,
     "id": 536
   },
@@ -6997,7 +6997,7 @@
       "Romance"
     ],
     "release_date": "February 27, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 107,
     "id": 537
   },
@@ -7009,7 +7009,7 @@
       "Comedy"
     ],
     "release_date": "February 27, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 148,
     "id": 538
   },
@@ -7021,7 +7021,7 @@
       "Family"
     ],
     "release_date": "February 27, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 77,
     "id": 539
   },
@@ -7033,7 +7033,7 @@
       "Thriller"
     ],
     "release_date": "February 27, 2025",
-    "initial_avg": "8.5",
+    "initial_avg": 8.5,
     "initial_raters": 34,
     "id": 540
   },
@@ -7047,7 +7047,7 @@
       "Romance"
     ],
     "release_date": "February 27, 2025",
-    "initial_avg": "5.0",
+    "initial_avg": 5.0,
     "initial_raters": 280,
     "id": 541
   },
@@ -7059,7 +7059,7 @@
       "Comedy"
     ],
     "release_date": "February 27, 2025",
-    "initial_avg": "3.9",
+    "initial_avg": 3.9,
     "initial_raters": 981,
     "id": 542
   },
@@ -7071,7 +7071,7 @@
       "Music"
     ],
     "release_date": "February 27, 2025",
-    "initial_avg": "8.6",
+    "initial_avg": 8.6,
     "initial_raters": 34,
     "id": 543
   },
@@ -7086,7 +7086,7 @@
       "Drama"
     ],
     "release_date": "February 27, 2025",
-    "initial_avg": "5.3",
+    "initial_avg": 5.3,
     "initial_raters": 104,
     "id": 544
   },
@@ -7098,7 +7098,7 @@
       "Documentary"
     ],
     "release_date": "February 27, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 95,
     "id": 545
   },
@@ -7111,7 +7111,7 @@
       "Thriller"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "6.0",
+    "initial_avg": 6.0,
     "initial_raters": 45,
     "id": 546
   },
@@ -7126,7 +7126,7 @@
       "Horror"
     ],
     "release_date": "June 2, 2025",
-    "initial_avg": "4.2",
+    "initial_avg": 4.2,
     "initial_raters": 907,
     "id": 547
   },
@@ -7138,7 +7138,7 @@
       "Drama"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "6.2",
+    "initial_avg": 6.2,
     "initial_raters": 171,
     "id": 548
   },
@@ -7150,7 +7150,7 @@
       "Thriller"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "4.5",
+    "initial_avg": 4.5,
     "initial_raters": 193,
     "id": 549
   },
@@ -7167,7 +7167,7 @@
       "Mystery"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "4.6",
+    "initial_avg": 4.6,
     "initial_raters": 541,
     "id": 550
   },
@@ -7179,7 +7179,7 @@
       "Horror"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "4.3",
+    "initial_avg": 4.3,
     "initial_raters": 94,
     "id": 551
   },
@@ -7191,7 +7191,7 @@
       "Drama"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "8.1",
+    "initial_avg": 8.1,
     "initial_raters": 72,
     "id": 552
   },
@@ -7204,7 +7204,7 @@
       "Romance"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 131,
     "id": 553
   },
@@ -7218,7 +7218,7 @@
       "Thriller"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "7.9",
+    "initial_avg": 7.9,
     "initial_raters": 83,
     "id": 554
   },
@@ -7231,7 +7231,7 @@
       "Thriller"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "9.4",
+    "initial_avg": 9.4,
     "initial_raters": 244,
     "id": 555
   },
@@ -7243,7 +7243,7 @@
       "Documentary"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "5.6",
+    "initial_avg": 5.6,
     "initial_raters": 60,
     "id": 556
   },
@@ -7255,7 +7255,7 @@
       "Horror"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "5.1",
+    "initial_avg": 5.1,
     "initial_raters": 178,
     "id": 557
   },
@@ -7267,7 +7267,7 @@
       "Comedy"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 731,
     "id": 558
   },
@@ -7279,7 +7279,7 @@
       "Comedy"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "9.0",
+    "initial_avg": 9.0,
     "initial_raters": 33,
     "id": 559
   },
@@ -7292,7 +7292,7 @@
       "Horror"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 203,
     "id": 560
   },
@@ -7304,7 +7304,7 @@
       "Comedy"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 57,
     "id": 561
   },
@@ -7317,7 +7317,7 @@
       "Thriller"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "9.1",
+    "initial_avg": 9.1,
     "initial_raters": 44,
     "id": 562
   },
@@ -7330,7 +7330,7 @@
       "Comedy"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "5.3",
+    "initial_avg": 5.3,
     "initial_raters": 148,
     "id": 563
   },
@@ -7342,7 +7342,7 @@
       "Comedy"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "3.9",
+    "initial_avg": 3.9,
     "initial_raters": 111,
     "id": 564
   },
@@ -7355,7 +7355,7 @@
       "Music"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "8.7",
+    "initial_avg": 8.7,
     "initial_raters": 136,
     "id": 565
   },
@@ -7369,7 +7369,7 @@
       "Comedy"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 297,
     "id": 566
   },
@@ -7382,7 +7382,7 @@
       "Romance"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 43,
     "id": 567
   },
@@ -7394,7 +7394,7 @@
       "Comedy"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 232,
     "id": 568
   },
@@ -7407,7 +7407,7 @@
       "Thriller"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "9.6",
+    "initial_avg": 9.6,
     "initial_raters": 357,
     "id": 569
   },
@@ -7417,7 +7417,7 @@
     "overview": "Despite being seen as incompetent by fellow officers, a cop proves his worth by cracking a significant case.",
     "genres": [],
     "release_date": "February 28, 2025",
-    "initial_avg": "7.4",
+    "initial_avg": 7.4,
     "initial_raters": 512,
     "id": 570
   },
@@ -7429,7 +7429,7 @@
       "Comedy"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "9.4",
+    "initial_avg": 9.4,
     "initial_raters": 551,
     "id": 571
   },
@@ -7441,7 +7441,7 @@
       "Romance"
     ],
     "release_date": "February 28, 2025",
-    "initial_avg": "9.4",
+    "initial_avg": 9.4,
     "initial_raters": 546,
     "id": 572
   },
@@ -7451,7 +7451,7 @@
     "overview": null,
     "genres": [],
     "release_date": "February 28, 2025",
-    "initial_avg": "9.5",
+    "initial_avg": 9.5,
     "initial_raters": 532,
     "id": 573
   },
@@ -7463,7 +7463,7 @@
       "Documentary"
     ],
     "release_date": "March 1, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 54,
     "id": 574
   },
@@ -7476,7 +7476,7 @@
       "Horror"
     ],
     "release_date": "March 1, 2025",
-    "initial_avg": "2.7",
+    "initial_avg": 2.7,
     "initial_raters": 213,
     "id": 575
   },
@@ -7488,7 +7488,7 @@
       "Thriller"
     ],
     "release_date": "March 1, 2025",
-    "initial_avg": "3.2",
+    "initial_avg": 3.2,
     "initial_raters": 37,
     "id": 576
   },
@@ -7500,7 +7500,7 @@
       "Documentary"
     ],
     "release_date": "March 1, 2025",
-    "initial_avg": "1.8",
+    "initial_avg": 1.8,
     "initial_raters": 301,
     "id": 577
   },
@@ -7512,7 +7512,7 @@
       "Comedy"
     ],
     "release_date": "March 1, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 37,
     "id": 578
   },
@@ -7525,7 +7525,7 @@
       "Drama"
     ],
     "release_date": "March 3, 2025",
-    "initial_avg": "3.2",
+    "initial_avg": 3.2,
     "initial_raters": 156,
     "id": 579
   },
@@ -7537,7 +7537,7 @@
       "Horror"
     ],
     "release_date": "March 3, 2025",
-    "initial_avg": "4.3",
+    "initial_avg": 4.3,
     "initial_raters": 96,
     "id": 580
   },
@@ -7549,7 +7549,7 @@
       "Family"
     ],
     "release_date": "March 3, 2025",
-    "initial_avg": "4.3",
+    "initial_avg": 4.3,
     "initial_raters": 33,
     "id": 581
   },
@@ -7562,7 +7562,7 @@
       "Drama"
     ],
     "release_date": "March 3, 2025",
-    "initial_avg": "4.5",
+    "initial_avg": 4.5,
     "initial_raters": 67,
     "id": 582
   },
@@ -7574,7 +7574,7 @@
       "Thriller"
     ],
     "release_date": "March 3, 2025",
-    "initial_avg": "2.0",
+    "initial_avg": 2.0,
     "initial_raters": 48,
     "id": 583
   },
@@ -7587,7 +7587,7 @@
       "Thriller"
     ],
     "release_date": "March 3, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 39,
     "id": 584
   },
@@ -7602,7 +7602,7 @@
       "Thriller"
     ],
     "release_date": "March 4, 2025",
-    "initial_avg": "3.5",
+    "initial_avg": 3.5,
     "initial_raters": 200,
     "id": 585
   },
@@ -7616,7 +7616,7 @@
       "Thriller"
     ],
     "release_date": "March 4, 2025",
-    "initial_avg": "3.7",
+    "initial_avg": 3.7,
     "initial_raters": 482,
     "id": 586
   },
@@ -7629,7 +7629,7 @@
       "Horror"
     ],
     "release_date": "March 4, 2025",
-    "initial_avg": "4.8",
+    "initial_avg": 4.8,
     "initial_raters": 192,
     "id": 587
   },
@@ -7641,7 +7641,7 @@
       "Documentary"
     ],
     "release_date": "March 4, 2025",
-    "initial_avg": "5.1",
+    "initial_avg": 5.1,
     "initial_raters": 112,
     "id": 588
   },
@@ -7655,7 +7655,7 @@
       "Horror"
     ],
     "release_date": "March 4, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 40,
     "id": 589
   },
@@ -7667,7 +7667,7 @@
       "Adventure"
     ],
     "release_date": "March 5, 2025",
-    "initial_avg": "6.0",
+    "initial_avg": 6.0,
     "initial_raters": 120,
     "id": 590
   },
@@ -7679,7 +7679,7 @@
       "Drama"
     ],
     "release_date": "March 5, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 510,
     "id": 591
   },
@@ -7692,7 +7692,7 @@
       "Romance"
     ],
     "release_date": "March 6, 2025",
-    "initial_avg": "5.3",
+    "initial_avg": 5.3,
     "initial_raters": 47,
     "id": 592
   },
@@ -7708,7 +7708,7 @@
       "Drama"
     ],
     "release_date": "March 6, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 132,
     "id": 593
   },
@@ -7722,7 +7722,7 @@
       "War"
     ],
     "release_date": "March 6, 2025",
-    "initial_avg": "8.8",
+    "initial_avg": 8.8,
     "initial_raters": 93,
     "id": 594
   },
@@ -7737,7 +7737,7 @@
       "Thriller"
     ],
     "release_date": "March 11, 2025",
-    "initial_avg": "3.2",
+    "initial_avg": 3.2,
     "initial_raters": 210,
     "id": 595
   },
@@ -7750,7 +7750,7 @@
       "Romance"
     ],
     "release_date": "March 6, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 94,
     "id": 596
   },
@@ -7765,7 +7765,7 @@
       "Music"
     ],
     "release_date": "March 6, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 653,
     "id": 597
   },
@@ -7778,7 +7778,7 @@
       "Drama"
     ],
     "release_date": "March 6, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 165,
     "id": 598
   },
@@ -7790,7 +7790,7 @@
       "Animation"
     ],
     "release_date": "March 6, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 79,
     "id": 599
   },
@@ -7806,7 +7806,7 @@
       "Sport"
     ],
     "release_date": "March 6, 2025",
-    "initial_avg": "4.8",
+    "initial_avg": 4.8,
     "initial_raters": 82,
     "id": 600
   },
@@ -7822,7 +7822,7 @@
       "Fantasy"
     ],
     "release_date": "March 6, 2025",
-    "initial_avg": "4.2",
+    "initial_avg": 4.2,
     "initial_raters": 112,
     "id": 601
   },
@@ -7835,7 +7835,7 @@
       "Sci-Fi"
     ],
     "release_date": "March 6, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 46,
     "id": 602
   },
@@ -7847,7 +7847,7 @@
       "Comedy"
     ],
     "release_date": "March 6, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 32,
     "id": 603
   },
@@ -7861,7 +7861,7 @@
       "Thriller"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 38,
     "id": 604
   },
@@ -7876,7 +7876,7 @@
       "Thriller"
     ],
     "release_date": "May 16, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 91,
     "id": 605
   },
@@ -7892,7 +7892,7 @@
       "Thriller"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "5.9",
+    "initial_avg": 5.9,
     "initial_raters": 54,
     "id": 606
   },
@@ -7906,7 +7906,7 @@
       "Romance"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 48,
     "id": 607
   },
@@ -7922,7 +7922,7 @@
       "Thriller"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "8.4",
+    "initial_avg": 8.4,
     "initial_raters": 55,
     "id": 608
   },
@@ -7935,7 +7935,7 @@
       "Horror"
     ],
     "release_date": "April 9, 2025",
-    "initial_avg": "3.8",
+    "initial_avg": 3.8,
     "initial_raters": 549,
     "id": 609
   },
@@ -7949,7 +7949,7 @@
       "Thriller"
     ],
     "release_date": "September 18, 2025",
-    "initial_avg": "6.0",
+    "initial_avg": 6.0,
     "initial_raters": 42,
     "id": 610
   },
@@ -7961,7 +7961,7 @@
       "Comedy"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 33,
     "id": 611
   },
@@ -7974,7 +7974,7 @@
       "Drama"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 772,
     "id": 612
   },
@@ -7992,7 +7992,7 @@
       "Musical"
     ],
     "release_date": "March 8, 2025",
-    "initial_avg": "5.3",
+    "initial_avg": 5.3,
     "initial_raters": 31,
     "id": 613
   },
@@ -8011,7 +8011,7 @@
       "Thriller"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 254,
     "id": 614
   },
@@ -8025,7 +8025,7 @@
       "Thriller"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 245,
     "id": 615
   },
@@ -8037,7 +8037,7 @@
       "Drama"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 242,
     "id": 616
   },
@@ -8049,7 +8049,7 @@
       "Thriller"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 72,
     "id": 617
   },
@@ -8062,7 +8062,7 @@
       "Romance"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "9.1",
+    "initial_avg": 9.1,
     "initial_raters": 51,
     "id": 618
   },
@@ -8074,7 +8074,7 @@
       "Western"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 43,
     "id": 619
   },
@@ -8088,7 +8088,7 @@
       "Crime"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "7.7",
+    "initial_avg": 7.7,
     "initial_raters": 73,
     "id": 620
   },
@@ -8101,7 +8101,7 @@
       "Thriller"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "4.7",
+    "initial_avg": 4.7,
     "initial_raters": 37,
     "id": 621
   },
@@ -8119,7 +8119,7 @@
       "Thriller"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 345,
     "id": 622
   },
@@ -8131,7 +8131,7 @@
       "Documentary"
     ],
     "release_date": "May 3, 2025",
-    "initial_avg": "7.4",
+    "initial_avg": 7.4,
     "initial_raters": 129,
     "id": 623
   },
@@ -8143,7 +8143,7 @@
       "Drama"
     ],
     "release_date": "April 13, 2025",
-    "initial_avg": "4.3",
+    "initial_avg": 4.3,
     "initial_raters": 334,
     "id": 624
   },
@@ -8153,7 +8153,7 @@
     "overview": null,
     "genres": [],
     "release_date": "March 7, 2025",
-    "initial_avg": "9.5",
+    "initial_avg": 9.5,
     "initial_raters": 250,
     "id": 625
   },
@@ -8165,7 +8165,7 @@
       "Documentary"
     ],
     "release_date": "April 30, 2025",
-    "initial_avg": "8.1",
+    "initial_avg": 8.1,
     "initial_raters": 52,
     "id": 626
   },
@@ -8177,7 +8177,7 @@
       "Drama"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 53,
     "id": 627
   },
@@ -8189,7 +8189,7 @@
       "Action"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 63,
     "id": 628
   },
@@ -8203,7 +8203,7 @@
       "Thriller"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "5.1",
+    "initial_avg": 5.1,
     "initial_raters": 32,
     "id": 629
   },
@@ -8215,7 +8215,7 @@
       "Comedy"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "9.3",
+    "initial_avg": 9.3,
     "initial_raters": 32,
     "id": 630
   },
@@ -8227,7 +8227,7 @@
       "Drama"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 42,
     "id": 631
   },
@@ -8239,7 +8239,7 @@
       "Mystery"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 48,
     "id": 632
   },
@@ -8251,7 +8251,7 @@
       "Thriller"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "3.0",
+    "initial_avg": 3.0,
     "initial_raters": 45,
     "id": 633
   },
@@ -8263,7 +8263,7 @@
       "Thriller"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "3.0",
+    "initial_avg": 3.0,
     "initial_raters": 80,
     "id": 634
   },
@@ -8275,7 +8275,7 @@
       "Horror"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "5.6",
+    "initial_avg": 5.6,
     "initial_raters": 37,
     "id": 635
   },
@@ -8288,7 +8288,7 @@
       "Drama"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 57,
     "id": 636
   },
@@ -8301,7 +8301,7 @@
       "Drama"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "8.4",
+    "initial_avg": 8.4,
     "initial_raters": 237,
     "id": 637
   },
@@ -8313,7 +8313,7 @@
       "Romance"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "9.4",
+    "initial_avg": 9.4,
     "initial_raters": 134,
     "id": 638
   },
@@ -8327,7 +8327,7 @@
       "Romance"
     ],
     "release_date": "March 7, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 583,
     "id": 639
   },
@@ -8337,7 +8337,7 @@
     "overview": "Priya a costume designer traumatized from her brothers accident stays at her home depressed things change when eerie events starts taking place at her home",
     "genres": [],
     "release_date": "March 7, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 242,
     "id": 640
   },
@@ -8347,7 +8347,7 @@
     "overview": null,
     "genres": [],
     "release_date": "March 7, 2025",
-    "initial_avg": "3.2",
+    "initial_avg": 3.2,
     "initial_raters": 534,
     "id": 641
   },
@@ -8364,7 +8364,7 @@
       "Thriller"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 39,
     "id": 642
   },
@@ -8377,7 +8377,7 @@
       "Thriller"
     ],
     "release_date": "March 8, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 97,
     "id": 643
   },
@@ -8389,7 +8389,7 @@
       "Documentary"
     ],
     "release_date": "April 21, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 762,
     "id": 644
   },
@@ -8405,7 +8405,7 @@
       "Musical"
     ],
     "release_date": "March 20, 2025",
-    "initial_avg": "5.0",
+    "initial_avg": 5.0,
     "initial_raters": 31,
     "id": 645
   },
@@ -8419,7 +8419,7 @@
       "Sci-Fi"
     ],
     "release_date": "March 8, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 43,
     "id": 646
   },
@@ -8431,7 +8431,7 @@
       "Thriller"
     ],
     "release_date": "March 8, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 157,
     "id": 647
   },
@@ -8450,7 +8450,7 @@
       "Thriller"
     ],
     "release_date": "March 8, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 76,
     "id": 648
   },
@@ -8465,7 +8465,7 @@
       "Sport"
     ],
     "release_date": "March 8, 2025",
-    "initial_avg": "9.1",
+    "initial_avg": 9.1,
     "initial_raters": 48,
     "id": 649
   },
@@ -8477,7 +8477,7 @@
       "Action"
     ],
     "release_date": "March 13, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 756,
     "id": 650
   },
@@ -8491,7 +8491,7 @@
       "Thriller"
     ],
     "release_date": "March 8, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 40,
     "id": 651
   },
@@ -8506,7 +8506,7 @@
       "Thriller"
     ],
     "release_date": "March 8, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 41,
     "id": 652
   },
@@ -8518,7 +8518,7 @@
       "Horror"
     ],
     "release_date": "April 8, 2025",
-    "initial_avg": "6.0",
+    "initial_avg": 6.0,
     "initial_raters": 35,
     "id": 653
   },
@@ -8531,7 +8531,7 @@
       "Thriller"
     ],
     "release_date": "March 8, 2025",
-    "initial_avg": "3.4",
+    "initial_avg": 3.4,
     "initial_raters": 135,
     "id": 654
   },
@@ -8543,7 +8543,7 @@
       "Documentary"
     ],
     "release_date": "March 8, 2025",
-    "initial_avg": "7.7",
+    "initial_avg": 7.7,
     "initial_raters": 43,
     "id": 655
   },
@@ -8555,7 +8555,7 @@
       "Drama"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 75,
     "id": 656
   },
@@ -8567,7 +8567,7 @@
       "Drama"
     ],
     "release_date": "March 8, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 42,
     "id": 657
   },
@@ -8579,7 +8579,7 @@
       "Fantasy"
     ],
     "release_date": "March 8, 2025",
-    "initial_avg": "7.9",
+    "initial_avg": 7.9,
     "initial_raters": 45,
     "id": 658
   },
@@ -8595,7 +8595,7 @@
       "Thriller"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 42,
     "id": 659
   },
@@ -8607,7 +8607,7 @@
       "Documentary"
     ],
     "release_date": "March 9, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 125,
     "id": 660
   },
@@ -8621,7 +8621,7 @@
       "Thriller"
     ],
     "release_date": "May 23, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 36,
     "id": 661
   },
@@ -8633,7 +8633,7 @@
       "Comedy"
     ],
     "release_date": "March 9, 2025",
-    "initial_avg": "8.7",
+    "initial_avg": 8.7,
     "initial_raters": 32,
     "id": 662
   },
@@ -8646,7 +8646,7 @@
       "Family"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 192,
     "id": 663
   },
@@ -8658,7 +8658,7 @@
       "Documentary"
     ],
     "release_date": "April 14, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 36,
     "id": 664
   },
@@ -8672,7 +8672,7 @@
       "Thriller"
     ],
     "release_date": "March 9, 2025",
-    "initial_avg": "9.2",
+    "initial_avg": 9.2,
     "initial_raters": 53,
     "id": 665
   },
@@ -8684,7 +8684,7 @@
       "Documentary"
     ],
     "release_date": "March 9, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 49,
     "id": 666
   },
@@ -8697,7 +8697,7 @@
       "Thriller"
     ],
     "release_date": "March 10, 2025",
-    "initial_avg": "8.4",
+    "initial_avg": 8.4,
     "initial_raters": 133,
     "id": 667
   },
@@ -8710,7 +8710,7 @@
       "Romance"
     ],
     "release_date": "March 10, 2025",
-    "initial_avg": "7.4",
+    "initial_avg": 7.4,
     "initial_raters": 37,
     "id": 668
   },
@@ -8722,7 +8722,7 @@
       "Horror"
     ],
     "release_date": "October 24, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 41,
     "id": 669
   },
@@ -8735,7 +8735,7 @@
       "Horror"
     ],
     "release_date": "March 10, 2025",
-    "initial_avg": "2.0",
+    "initial_avg": 2.0,
     "initial_raters": 160,
     "id": 670
   },
@@ -8748,7 +8748,7 @@
       "Drama"
     ],
     "release_date": "April 4, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 48,
     "id": 671
   },
@@ -8768,7 +8768,7 @@
       "Thriller"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "4.6",
+    "initial_avg": 4.6,
     "initial_raters": 88,
     "id": 672
   },
@@ -8782,7 +8782,7 @@
       "Comedy"
     ],
     "release_date": "March 11, 2025",
-    "initial_avg": "4.6",
+    "initial_avg": 4.6,
     "initial_raters": 92,
     "id": 673
   },
@@ -8794,7 +8794,7 @@
       "Drama"
     ],
     "release_date": "March 11, 2025",
-    "initial_avg": "6.2",
+    "initial_avg": 6.2,
     "initial_raters": 56,
     "id": 674
   },
@@ -8806,7 +8806,7 @@
       "Documentary"
     ],
     "release_date": "March 11, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 272,
     "id": 675
   },
@@ -8820,7 +8820,7 @@
       "Thriller"
     ],
     "release_date": "March 11, 2025",
-    "initial_avg": "4.7",
+    "initial_avg": 4.7,
     "initial_raters": 146,
     "id": 676
   },
@@ -8838,7 +8838,7 @@
       "Romance"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "1.6",
+    "initial_avg": 1.6,
     "initial_raters": 351,
     "id": 677
   },
@@ -8851,7 +8851,7 @@
       "Family"
     ],
     "release_date": "March 12, 2025",
-    "initial_avg": "9.2",
+    "initial_avg": 9.2,
     "initial_raters": 74,
     "id": 678
   },
@@ -8863,7 +8863,7 @@
       "Thriller"
     ],
     "release_date": "March 12, 2025",
-    "initial_avg": "3.9",
+    "initial_avg": 3.9,
     "initial_raters": 40,
     "id": 679
   },
@@ -8875,7 +8875,7 @@
       "Comedy"
     ],
     "release_date": "March 12, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 49,
     "id": 680
   },
@@ -8887,7 +8887,7 @@
       "Thriller"
     ],
     "release_date": "March 12, 2025",
-    "initial_avg": "5.4",
+    "initial_avg": 5.4,
     "initial_raters": 30,
     "id": 681
   },
@@ -8900,7 +8900,7 @@
       "Drama"
     ],
     "release_date": "May 9, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 552,
     "id": 682
   },
@@ -8913,7 +8913,7 @@
       "Drama"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "7.9",
+    "initial_avg": 7.9,
     "initial_raters": 67,
     "id": 683
   },
@@ -8927,7 +8927,7 @@
       "Horror"
     ],
     "release_date": "March 13, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 66,
     "id": 684
   },
@@ -8939,7 +8939,7 @@
       "Drama"
     ],
     "release_date": "March 19, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 519,
     "id": 685
   },
@@ -8951,7 +8951,7 @@
       "Romance"
     ],
     "release_date": "March 13, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 47,
     "id": 686
   },
@@ -8963,7 +8963,7 @@
       "Drama"
     ],
     "release_date": "March 13, 2025",
-    "initial_avg": "9.5",
+    "initial_avg": 9.5,
     "initial_raters": 631,
     "id": 687
   },
@@ -8976,7 +8976,7 @@
       "Sport"
     ],
     "release_date": "March 13, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 36,
     "id": 688
   },
@@ -8989,7 +8989,7 @@
       "Romance"
     ],
     "release_date": "March 13, 2025",
-    "initial_avg": "5.2",
+    "initial_avg": 5.2,
     "initial_raters": 30,
     "id": 689
   },
@@ -9006,7 +9006,7 @@
       "Thriller"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "5.4",
+    "initial_avg": 5.4,
     "initial_raters": 36,
     "id": 690
   },
@@ -9019,7 +9019,7 @@
       "Action"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "3.8",
+    "initial_avg": 3.8,
     "initial_raters": 891,
     "id": 691
   },
@@ -9031,7 +9031,7 @@
       "Drama"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "6.3",
+    "initial_avg": 6.3,
     "initial_raters": 91,
     "id": 692
   },
@@ -9048,7 +9048,7 @@
       "Thriller"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 604,
     "id": 693
   },
@@ -9060,7 +9060,7 @@
       "Drama"
     ],
     "release_date": "April 30, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 73,
     "id": 694
   },
@@ -9073,7 +9073,7 @@
       "Drama"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "4.9",
+    "initial_avg": 4.9,
     "initial_raters": 209,
     "id": 695
   },
@@ -9087,7 +9087,7 @@
       "Thriller"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "3.4",
+    "initial_avg": 3.4,
     "initial_raters": 132,
     "id": 696
   },
@@ -9099,7 +9099,7 @@
       "Romance"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "5.3",
+    "initial_avg": 5.3,
     "initial_raters": 318,
     "id": 697
   },
@@ -9111,7 +9111,7 @@
       "Drama"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 441,
     "id": 698
   },
@@ -9125,7 +9125,7 @@
       "Mystery"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "5.0",
+    "initial_avg": 5.0,
     "initial_raters": 403,
     "id": 699
   },
@@ -9138,7 +9138,7 @@
       "Drama"
     ],
     "release_date": "April 9, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 123,
     "id": 700
   },
@@ -9150,7 +9150,7 @@
       "Comedy"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "7.7",
+    "initial_avg": 7.7,
     "initial_raters": 36,
     "id": 701
   },
@@ -9162,7 +9162,7 @@
       "Drama"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 203,
     "id": 702
   },
@@ -9174,7 +9174,7 @@
       "Thriller"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "9.2",
+    "initial_avg": 9.2,
     "initial_raters": 413,
     "id": 703
   },
@@ -9186,7 +9186,7 @@
       "Action"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 332,
     "id": 704
   },
@@ -9199,7 +9199,7 @@
       "Drama"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 357,
     "id": 705
   },
@@ -9211,7 +9211,7 @@
       "Drama"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "9.1",
+    "initial_avg": 9.1,
     "initial_raters": 604,
     "id": 706
   },
@@ -9223,7 +9223,7 @@
       "Documentary"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 79,
     "id": 707
   },
@@ -9237,7 +9237,7 @@
       "War"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 35,
     "id": 708
   },
@@ -9247,7 +9247,7 @@
     "overview": null,
     "genres": [],
     "release_date": "March 14, 2025",
-    "initial_avg": "8.4",
+    "initial_avg": 8.4,
     "initial_raters": 147,
     "id": 709
   },
@@ -9257,7 +9257,7 @@
     "overview": "There is a police officer called Gowtham, unfortunately met with an accident and loss his two eyes. Luckly he will get an eye donator so Gowtham will get back his eye sight.All of his friends and family members will be so happy for Gowtham",
     "genres": [],
     "release_date": "March 14, 2025",
-    "initial_avg": "9.6",
+    "initial_avg": 9.6,
     "initial_raters": 169,
     "id": 710
   },
@@ -9271,7 +9271,7 @@
       "Romance"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "4.1",
+    "initial_avg": 4.1,
     "initial_raters": 106,
     "id": 711
   },
@@ -9283,7 +9283,7 @@
       "Comedy"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 96,
     "id": 712
   },
@@ -9296,7 +9296,7 @@
       "Thriller"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "9.5",
+    "initial_avg": 9.5,
     "initial_raters": 533,
     "id": 713
   },
@@ -9306,7 +9306,7 @@
     "overview": null,
     "genres": [],
     "release_date": "March 14, 2025",
-    "initial_avg": "9.5",
+    "initial_avg": 9.5,
     "initial_raters": 291,
     "id": 714
   },
@@ -9318,7 +9318,7 @@
       "Comedy"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 110,
     "id": 715
   },
@@ -9330,7 +9330,7 @@
       "Action"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "9.5",
+    "initial_avg": 9.5,
     "initial_raters": 244,
     "id": 716
   },
@@ -9342,7 +9342,7 @@
       "Horror"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 31,
     "id": 717
   },
@@ -9355,7 +9355,7 @@
       "Music"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 50,
     "id": 718
   },
@@ -9367,7 +9367,7 @@
       "Action"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "9.7",
+    "initial_avg": 9.7,
     "initial_raters": 65,
     "id": 719
   },
@@ -9381,7 +9381,7 @@
       "Thriller"
     ],
     "release_date": "March 14, 2025",
-    "initial_avg": "4.4",
+    "initial_avg": 4.4,
     "initial_raters": 193,
     "id": 720
   },
@@ -9393,7 +9393,7 @@
       "Drama"
     ],
     "release_date": "May 9, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 48,
     "id": 721
   },
@@ -9407,7 +9407,7 @@
       "Romance"
     ],
     "release_date": "April 10, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 174,
     "id": 722
   },
@@ -9419,7 +9419,7 @@
       "Thriller"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 163,
     "id": 723
   },
@@ -9431,7 +9431,7 @@
       "Drama"
     ],
     "release_date": "April 11, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 206,
     "id": 724
   },
@@ -9446,7 +9446,7 @@
       "Sci-Fi"
     ],
     "release_date": "May 1, 2025",
-    "initial_avg": "7.4",
+    "initial_avg": 7.4,
     "initial_raters": 33,
     "id": 725
   },
@@ -9459,7 +9459,7 @@
       "Horror"
     ],
     "release_date": "March 16, 2025",
-    "initial_avg": "4.8",
+    "initial_avg": 4.8,
     "initial_raters": 58,
     "id": 726
   },
@@ -9471,7 +9471,7 @@
       "Drama"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 78,
     "id": 727
   },
@@ -9484,7 +9484,7 @@
       "Thriller"
     ],
     "release_date": "April 4, 2025",
-    "initial_avg": "6.3",
+    "initial_avg": 6.3,
     "initial_raters": 81,
     "id": 728
   },
@@ -9496,7 +9496,7 @@
       "Drama"
     ],
     "release_date": "March 16, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 58,
     "id": 729
   },
@@ -9509,7 +9509,7 @@
       "Thriller"
     ],
     "release_date": "March 16, 2025",
-    "initial_avg": "9.0",
+    "initial_avg": 9.0,
     "initial_raters": 43,
     "id": 730
   },
@@ -9521,7 +9521,7 @@
       "Drama"
     ],
     "release_date": "May 9, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 44,
     "id": 731
   },
@@ -9535,7 +9535,7 @@
       "Thriller"
     ],
     "release_date": "March 20, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 34,
     "id": 732
   },
@@ -9547,7 +9547,7 @@
       "Drama"
     ],
     "release_date": "April 11, 2025",
-    "initial_avg": "5.6",
+    "initial_avg": 5.6,
     "initial_raters": 43,
     "id": 733
   },
@@ -9559,7 +9559,7 @@
       "Action"
     ],
     "release_date": "March 17, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 49,
     "id": 734
   },
@@ -9571,7 +9571,7 @@
       "Thriller"
     ],
     "release_date": "March 18, 2025",
-    "initial_avg": "4.2",
+    "initial_avg": 4.2,
     "initial_raters": 361,
     "id": 735
   },
@@ -9585,7 +9585,7 @@
       "Documentary"
     ],
     "release_date": "March 18, 2025",
-    "initial_avg": "4.4",
+    "initial_avg": 4.4,
     "initial_raters": 383,
     "id": 736
   },
@@ -9599,7 +9599,7 @@
       "Documentary"
     ],
     "release_date": "March 18, 2025",
-    "initial_avg": "6.3",
+    "initial_avg": 6.3,
     "initial_raters": 697,
     "id": 737
   },
@@ -9613,7 +9613,7 @@
       "Thriller"
     ],
     "release_date": "March 18, 2025",
-    "initial_avg": "9.3",
+    "initial_avg": 9.3,
     "initial_raters": 39,
     "id": 738
   },
@@ -9626,7 +9626,7 @@
       "Drama"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "6.4",
+    "initial_avg": 6.4,
     "initial_raters": 75,
     "id": 739
   },
@@ -9639,7 +9639,7 @@
       "Romance"
     ],
     "release_date": "March 18, 2025",
-    "initial_avg": "9.9",
+    "initial_avg": 9.9,
     "initial_raters": 35,
     "id": 740
   },
@@ -9658,7 +9658,7 @@
       "History"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 81,
     "id": 741
   },
@@ -9670,7 +9670,7 @@
       "Documentary"
     ],
     "release_date": "March 19, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 37,
     "id": 742
   },
@@ -9685,7 +9685,7 @@
       "War"
     ],
     "release_date": "April 4, 2025",
-    "initial_avg": "8.5",
+    "initial_avg": 8.5,
     "initial_raters": 140,
     "id": 743
   },
@@ -9697,7 +9697,7 @@
       "Music"
     ],
     "release_date": "March 19, 2025",
-    "initial_avg": "8.7",
+    "initial_avg": 8.7,
     "initial_raters": 767,
     "id": 744
   },
@@ -9710,7 +9710,7 @@
       "Horror"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "4.7",
+    "initial_avg": 4.7,
     "initial_raters": 105,
     "id": 745
   },
@@ -9724,7 +9724,7 @@
       "Romance"
     ],
     "release_date": "March 19, 2025",
-    "initial_avg": "8.6",
+    "initial_avg": 8.6,
     "initial_raters": 41,
     "id": 746
   },
@@ -9736,7 +9736,7 @@
       "Comedy"
     ],
     "release_date": "March 19, 2025",
-    "initial_avg": "6.0",
+    "initial_avg": 6.0,
     "initial_raters": 44,
     "id": 747
   },
@@ -9749,7 +9749,7 @@
       "Thriller"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 83,
     "id": 748
   },
@@ -9769,7 +9769,7 @@
       "Mystery"
     ],
     "release_date": "March 20, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 203,
     "id": 749
   },
@@ -9781,7 +9781,7 @@
       "Documentary"
     ],
     "release_date": "March 20, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 36,
     "id": 750
   },
@@ -9798,7 +9798,7 @@
       "Music"
     ],
     "release_date": "March 20, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 369,
     "id": 751
   },
@@ -9813,7 +9813,7 @@
       "Thriller"
     ],
     "release_date": "March 20, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 40,
     "id": 752
   },
@@ -9827,7 +9827,7 @@
       "Sci-Fi"
     ],
     "release_date": "March 20, 2025",
-    "initial_avg": "4.5",
+    "initial_avg": 4.5,
     "initial_raters": 45,
     "id": 753
   },
@@ -9839,7 +9839,7 @@
       "Drama"
     ],
     "release_date": "March 20, 2025",
-    "initial_avg": "8.3",
+    "initial_avg": 8.3,
     "initial_raters": 125,
     "id": 754
   },
@@ -9851,7 +9851,7 @@
       "Biography"
     ],
     "release_date": "March 20, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 45,
     "id": 755
   },
@@ -9865,7 +9865,7 @@
       "Family"
     ],
     "release_date": "March 20, 2025",
-    "initial_avg": "6.0",
+    "initial_avg": 6.0,
     "initial_raters": 39,
     "id": 756
   },
@@ -9875,7 +9875,7 @@
     "overview": "Mamoru Sasaki, a welfare caseworker, discovers that his colleague is taking advantage of his position to have physical relationship with a female welfare recipient. To verify the truth, he visits the woman's home and unexpectedly falls in love with her, which leads him to be involved in a conspiracy by the Yakuza.",
     "genres": [],
     "release_date": "March 20, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 35,
     "id": 757
   },
@@ -9890,7 +9890,7 @@
       "Thriller"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "6.0",
+    "initial_avg": 6.0,
     "initial_raters": 36,
     "id": 758
   },
@@ -9902,7 +9902,7 @@
       "Thriller"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "4.8",
+    "initial_avg": 4.8,
     "initial_raters": 148,
     "id": 759
   },
@@ -9915,7 +9915,7 @@
       "Thriller"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 67,
     "id": 760
   },
@@ -9928,7 +9928,7 @@
       "Thriller"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 55,
     "id": 761
   },
@@ -9942,7 +9942,7 @@
       "Musical"
     ],
     "release_date": "April 4, 2025",
-    "initial_avg": "8.3",
+    "initial_avg": 8.3,
     "initial_raters": 94,
     "id": 762
   },
@@ -9954,7 +9954,7 @@
       "Drama"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 34,
     "id": 763
   },
@@ -9966,7 +9966,7 @@
       "Adventure"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "5.2",
+    "initial_avg": 5.2,
     "initial_raters": 183,
     "id": 764
   },
@@ -9978,7 +9978,7 @@
       "Crime"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "7.7",
+    "initial_avg": 7.7,
     "initial_raters": 43,
     "id": 765
   },
@@ -9990,7 +9990,7 @@
       "Comedy"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "8.7",
+    "initial_avg": 8.7,
     "initial_raters": 565,
     "id": 766
   },
@@ -10002,7 +10002,7 @@
       "Romance"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "8.1",
+    "initial_avg": 8.1,
     "initial_raters": 804,
     "id": 767
   },
@@ -10014,7 +10014,7 @@
       "Drama"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 271,
     "id": 768
   },
@@ -10027,7 +10027,7 @@
       "Drama"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 860,
     "id": 769
   },
@@ -10042,7 +10042,7 @@
       "Romance"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "2.8",
+    "initial_avg": 2.8,
     "initial_raters": 197,
     "id": 770
   },
@@ -10055,7 +10055,7 @@
       "Thriller"
     ],
     "release_date": "April 11, 2025",
-    "initial_avg": "3.3",
+    "initial_avg": 3.3,
     "initial_raters": 361,
     "id": 771
   },
@@ -10068,7 +10068,7 @@
       "Horror"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 398,
     "id": 772
   },
@@ -10084,7 +10084,7 @@
       "Romance"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "7.3",
+    "initial_avg": 7.3,
     "initial_raters": 660,
     "id": 773
   },
@@ -10096,7 +10096,7 @@
       "Comedy"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 41,
     "id": 774
   },
@@ -10109,7 +10109,7 @@
       "Thriller"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "9.8",
+    "initial_avg": 9.8,
     "initial_raters": 78,
     "id": 775
   },
@@ -10121,7 +10121,7 @@
       "Crime"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 121,
     "id": 776
   },
@@ -10133,7 +10133,7 @@
       "Crime"
     ],
     "release_date": "March 21, 2025",
-    "initial_avg": "4.5",
+    "initial_avg": 4.5,
     "initial_raters": 331,
     "id": 777
   },
@@ -10145,7 +10145,7 @@
       "Documentary"
     ],
     "release_date": "March 25, 2025",
-    "initial_avg": "8.4",
+    "initial_avg": 8.4,
     "initial_raters": 565,
     "id": 778
   },
@@ -10157,7 +10157,7 @@
       "Horror"
     ],
     "release_date": "March 22, 2025",
-    "initial_avg": "3.6",
+    "initial_avg": 3.6,
     "initial_raters": 103,
     "id": 779
   },
@@ -10170,7 +10170,7 @@
       "Drama"
     ],
     "release_date": "March 22, 2025",
-    "initial_avg": "9.0",
+    "initial_avg": 9.0,
     "initial_raters": 58,
     "id": 780
   },
@@ -10182,7 +10182,7 @@
       "Fantasy"
     ],
     "release_date": "March 22, 2025",
-    "initial_avg": "9.2",
+    "initial_avg": 9.2,
     "initial_raters": 51,
     "id": 781
   },
@@ -10194,7 +10194,7 @@
       "Drama"
     ],
     "release_date": "March 22, 2025",
-    "initial_avg": "9.8",
+    "initial_avg": 9.8,
     "initial_raters": 32,
     "id": 782
   },
@@ -10208,7 +10208,7 @@
       "Thriller"
     ],
     "release_date": "March 22, 2025",
-    "initial_avg": "5.3",
+    "initial_avg": 5.3,
     "initial_raters": 44,
     "id": 783
   },
@@ -10220,7 +10220,7 @@
       "Documentary"
     ],
     "release_date": "March 22, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 30,
     "id": 784
   },
@@ -10233,7 +10233,7 @@
       "Adventure"
     ],
     "release_date": "March 23, 2025",
-    "initial_avg": "7.9",
+    "initial_avg": 7.9,
     "initial_raters": 537,
     "id": 785
   },
@@ -10246,7 +10246,7 @@
       "Sci-Fi"
     ],
     "release_date": "March 24, 2025",
-    "initial_avg": "4.6",
+    "initial_avg": 4.6,
     "initial_raters": 114,
     "id": 786
   },
@@ -10258,7 +10258,7 @@
       "Drama"
     ],
     "release_date": "April 24, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 39,
     "id": 787
   },
@@ -10270,7 +10270,7 @@
       "Documentary"
     ],
     "release_date": "March 24, 2025",
-    "initial_avg": "2.7",
+    "initial_avg": 2.7,
     "initial_raters": 41,
     "id": 788
   },
@@ -10282,7 +10282,7 @@
       "Documentary"
     ],
     "release_date": "March 24, 2025",
-    "initial_avg": "8.0",
+    "initial_avg": 8.0,
     "initial_raters": 52,
     "id": 789
   },
@@ -10294,7 +10294,7 @@
       "Documentary"
     ],
     "release_date": "May 30, 2025",
-    "initial_avg": "8.4",
+    "initial_avg": 8.4,
     "initial_raters": 447,
     "id": 790
   },
@@ -10306,7 +10306,7 @@
       "Drama"
     ],
     "release_date": "March 25, 2025",
-    "initial_avg": "5.9",
+    "initial_avg": 5.9,
     "initial_raters": 43,
     "id": 791
   },
@@ -10319,7 +10319,7 @@
       "Romance"
     ],
     "release_date": "March 25, 2025",
-    "initial_avg": "4.5",
+    "initial_avg": 4.5,
     "initial_raters": 36,
     "id": 792
   },
@@ -10333,7 +10333,7 @@
       "Thriller"
     ],
     "release_date": "March 25, 2025",
-    "initial_avg": "3.1",
+    "initial_avg": 3.1,
     "initial_raters": 178,
     "id": 793
   },
@@ -10347,7 +10347,7 @@
       "Documentary"
     ],
     "release_date": "March 25, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 508,
     "id": 794
   },
@@ -10359,7 +10359,7 @@
       "Documentary"
     ],
     "release_date": "March 26, 2025",
-    "initial_avg": "9.7",
+    "initial_avg": 9.7,
     "initial_raters": 50,
     "id": 795
   },
@@ -10371,7 +10371,7 @@
       "Drama"
     ],
     "release_date": "March 25, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 37,
     "id": 796
   },
@@ -10383,7 +10383,7 @@
       "Crime"
     ],
     "release_date": "March 25, 2025",
-    "initial_avg": "4.6",
+    "initial_avg": 4.6,
     "initial_raters": 31,
     "id": 797
   },
@@ -10398,7 +10398,7 @@
       "Thriller"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 30,
     "id": 798
   },
@@ -10412,7 +10412,7 @@
       "Sport"
     ],
     "release_date": "March 26, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 691,
     "id": 799
   },
@@ -10425,7 +10425,7 @@
       "Horror"
     ],
     "release_date": "March 26, 2025",
-    "initial_avg": "4.0",
+    "initial_avg": 4.0,
     "initial_raters": 502,
     "id": 800
   },
@@ -10440,7 +10440,7 @@
       "Romance"
     ],
     "release_date": "March 26, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 527,
     "id": 801
   },
@@ -10456,7 +10456,7 @@
       "Thriller"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "5.1",
+    "initial_avg": 5.1,
     "initial_raters": 76,
     "id": 802
   },
@@ -10471,7 +10471,7 @@
       "Thriller"
     ],
     "release_date": "March 27, 2025",
-    "initial_avg": "3.4",
+    "initial_avg": 3.4,
     "initial_raters": 214,
     "id": 803
   },
@@ -10485,7 +10485,7 @@
       "Crime"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "4.6",
+    "initial_avg": 4.6,
     "initial_raters": 558,
     "id": 804
   },
@@ -10497,7 +10497,7 @@
       "Drama"
     ],
     "release_date": "March 27, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 366,
     "id": 805
   },
@@ -10509,7 +10509,7 @@
       "Drama"
     ],
     "release_date": "March 27, 2025",
-    "initial_avg": "5.5",
+    "initial_avg": 5.5,
     "initial_raters": 81,
     "id": 806
   },
@@ -10522,7 +10522,7 @@
       "Drama"
     ],
     "release_date": "March 27, 2025",
-    "initial_avg": "6.3",
+    "initial_avg": 6.3,
     "initial_raters": 164,
     "id": 807
   },
@@ -10534,7 +10534,7 @@
       "Comedy"
     ],
     "release_date": "March 27, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 136,
     "id": 808
   },
@@ -10548,7 +10548,7 @@
       "Thriller"
     ],
     "release_date": "March 27, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 52,
     "id": 809
   },
@@ -10561,7 +10561,7 @@
       "Adventure"
     ],
     "release_date": "March 27, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 79,
     "id": 810
   },
@@ -10574,7 +10574,7 @@
       "Crime"
     ],
     "release_date": "March 27, 2025",
-    "initial_avg": "9.7",
+    "initial_avg": 9.7,
     "initial_raters": 59,
     "id": 811
   },
@@ -10587,7 +10587,7 @@
       "Comedy"
     ],
     "release_date": "March 27, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 38,
     "id": 812
   },
@@ -10599,7 +10599,7 @@
       "Comedy"
     ],
     "release_date": "March 27, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 33,
     "id": 813
   },
@@ -10615,7 +10615,7 @@
       "Western"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "4.4",
+    "initial_avg": 4.4,
     "initial_raters": 345,
     "id": 814
   },
@@ -10631,7 +10631,7 @@
       "Family"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "3.7",
+    "initial_avg": 3.7,
     "initial_raters": 385,
     "id": 815
   },
@@ -10648,7 +10648,7 @@
       "Thriller"
     ],
     "release_date": "March 30, 2025",
-    "initial_avg": "4.2",
+    "initial_avg": 4.2,
     "initial_raters": 49,
     "id": 816
   },
@@ -10660,7 +10660,7 @@
       "Comedy"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 994,
     "id": 817
   },
@@ -10673,7 +10673,7 @@
       "Romance"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 107,
     "id": 818
   },
@@ -10687,7 +10687,7 @@
       "Horror"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "5.0",
+    "initial_avg": 5.0,
     "initial_raters": 50,
     "id": 819
   },
@@ -10701,7 +10701,7 @@
       "Sci-Fi"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "7.0",
+    "initial_avg": 7.0,
     "initial_raters": 246,
     "id": 820
   },
@@ -10714,7 +10714,7 @@
       "Romance"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "6.8",
+    "initial_avg": 6.8,
     "initial_raters": 48,
     "id": 821
   },
@@ -10726,7 +10726,7 @@
       "Horror"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "5.8",
+    "initial_avg": 5.8,
     "initial_raters": 89,
     "id": 822
   },
@@ -10738,7 +10738,7 @@
       "Action"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "9.1",
+    "initial_avg": 9.1,
     "initial_raters": 670,
     "id": 823
   },
@@ -10750,7 +10750,7 @@
       "Romance"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "9.2",
+    "initial_avg": 9.2,
     "initial_raters": 364,
     "id": 824
   },
@@ -10763,7 +10763,7 @@
       "Thriller"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "4.2",
+    "initial_avg": 4.2,
     "initial_raters": 31,
     "id": 825
   },
@@ -10775,7 +10775,7 @@
       "Comedy"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "5.0",
+    "initial_avg": 5.0,
     "initial_raters": 46,
     "id": 826
   },
@@ -10787,7 +10787,7 @@
       "Thriller"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "4.8",
+    "initial_avg": 4.8,
     "initial_raters": 38,
     "id": 827
   },
@@ -10799,7 +10799,7 @@
       "Animation"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 199,
     "id": 828
   },
@@ -10812,7 +10812,7 @@
       "Family"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "4.9",
+    "initial_avg": 4.9,
     "initial_raters": 62,
     "id": 829
   },
@@ -10826,7 +10826,7 @@
       "Sci-Fi"
     ],
     "release_date": "March 28, 2025",
-    "initial_avg": "9.5",
+    "initial_avg": 9.5,
     "initial_raters": 42,
     "id": 830
   },
@@ -10836,7 +10836,7 @@
     "overview": "A ruthless MLM scam operator's stolen fortune triggers a deadly pursuit. When a mysterious man saves him from an assassination attempt, dark secrets from the past emerge, leading to betrayal and violence.",
     "genres": [],
     "release_date": "March 28, 2025",
-    "initial_avg": "8.6",
+    "initial_avg": 8.6,
     "initial_raters": 777,
     "id": 831
   },
@@ -10848,7 +10848,7 @@
       "Romance"
     ],
     "release_date": "March 29, 2025",
-    "initial_avg": "9.1",
+    "initial_avg": 9.1,
     "initial_raters": 52,
     "id": 832
   },
@@ -10860,7 +10860,7 @@
       "Comedy"
     ],
     "release_date": "March 30, 2025",
-    "initial_avg": "7.6",
+    "initial_avg": 7.6,
     "initial_raters": 417,
     "id": 833
   },
@@ -10873,7 +10873,7 @@
       "Drama"
     ],
     "release_date": "April 4, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 54,
     "id": 834
   },
@@ -10888,7 +10888,7 @@
       "Romance"
     ],
     "release_date": "March 31, 2025",
-    "initial_avg": "5.1",
+    "initial_avg": 5.1,
     "initial_raters": 93,
     "id": 835
   },
@@ -10901,7 +10901,7 @@
       "Romance"
     ],
     "release_date": "March 31, 2025",
-    "initial_avg": "5.6",
+    "initial_avg": 5.6,
     "initial_raters": 176,
     "id": 836
   },
@@ -10921,7 +10921,7 @@
       "Thriller"
     ],
     "release_date": "March 31, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 755,
     "id": 837
   },
@@ -10936,7 +10936,7 @@
       "Romance"
     ],
     "release_date": "March 31, 2025",
-    "initial_avg": "7.9",
+    "initial_avg": 7.9,
     "initial_raters": 340,
     "id": 838
   },
@@ -10948,7 +10948,7 @@
       "Drama"
     ],
     "release_date": "March 31, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 900,
     "id": 839
   },
@@ -10963,7 +10963,7 @@
       "Thriller"
     ],
     "release_date": "March 31, 2025",
-    "initial_avg": "7.9",
+    "initial_avg": 7.9,
     "initial_raters": 913,
     "id": 840
   },
@@ -10976,7 +10976,7 @@
       "Romance"
     ],
     "release_date": "March 31, 2025",
-    "initial_avg": "4.9",
+    "initial_avg": 4.9,
     "initial_raters": 259,
     "id": 841
   },
@@ -10988,7 +10988,7 @@
       "Horror"
     ],
     "release_date": "March 31, 2025",
-    "initial_avg": "3.4",
+    "initial_avg": 3.4,
     "initial_raters": 120,
     "id": 842
   },
@@ -11002,7 +11002,7 @@
       "Sci-Fi"
     ],
     "release_date": "April 1, 2025",
-    "initial_avg": "8.2",
+    "initial_avg": 8.2,
     "initial_raters": 57,
     "id": 843
   },
@@ -11023,7 +11023,7 @@
       "Comedy"
     ],
     "release_date": "April 4, 2025",
-    "initial_avg": "5.9",
+    "initial_avg": 5.9,
     "initial_raters": 81,
     "id": 844
   },
@@ -11035,7 +11035,7 @@
       "Comedy"
     ],
     "release_date": "April 2, 2025",
-    "initial_avg": "3.4",
+    "initial_avg": 3.4,
     "initial_raters": 57,
     "id": 845
   },
@@ -11047,7 +11047,7 @@
       "Comedy"
     ],
     "release_date": "April 2, 2025",
-    "initial_avg": "5.4",
+    "initial_avg": 5.4,
     "initial_raters": 70,
     "id": 846
   },
@@ -11060,7 +11060,7 @@
       "Romance"
     ],
     "release_date": "April 19, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 30,
     "id": 847
   },
@@ -11072,7 +11072,7 @@
       "Comedy"
     ],
     "release_date": "April 2, 2025",
-    "initial_avg": "4.8",
+    "initial_avg": 4.8,
     "initial_raters": 56,
     "id": 848
   },
@@ -11084,7 +11084,7 @@
       "Comedy"
     ],
     "release_date": "April 2, 2025",
-    "initial_avg": "5.9",
+    "initial_avg": 5.9,
     "initial_raters": 33,
     "id": 849
   },
@@ -11101,7 +11101,7 @@
       "War"
     ],
     "release_date": "September 19, 2025",
-    "initial_avg": "9.4",
+    "initial_avg": 9.4,
     "initial_raters": 89,
     "id": 850
   },
@@ -11115,7 +11115,7 @@
       "Thriller"
     ],
     "release_date": "April 3, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 129,
     "id": 851
   },
@@ -11127,7 +11127,7 @@
       "Thriller"
     ],
     "release_date": "April 3, 2025",
-    "initial_avg": "7.1",
+    "initial_avg": 7.1,
     "initial_raters": 148,
     "id": 852
   },
@@ -11139,7 +11139,7 @@
       "Drama"
     ],
     "release_date": "April 3, 2025",
-    "initial_avg": "7.2",
+    "initial_avg": 7.2,
     "initial_raters": 100,
     "id": 853
   },
@@ -11152,7 +11152,7 @@
       "Drama"
     ],
     "release_date": "April 3, 2025",
-    "initial_avg": "7.8",
+    "initial_avg": 7.8,
     "initial_raters": 87,
     "id": 854
   },
@@ -11164,7 +11164,7 @@
       "Horror"
     ],
     "release_date": "April 3, 2025",
-    "initial_avg": "6.1",
+    "initial_avg": 6.1,
     "initial_raters": 57,
     "id": 855
   },
@@ -11177,7 +11177,7 @@
       "Romance"
     ],
     "release_date": "April 3, 2025",
-    "initial_avg": "5.7",
+    "initial_avg": 5.7,
     "initial_raters": 67,
     "id": 856
   },
@@ -11190,7 +11190,7 @@
       "History"
     ],
     "release_date": "April 3, 2025",
-    "initial_avg": "6.5",
+    "initial_avg": 6.5,
     "initial_raters": 63,
     "id": 857
   },
@@ -11202,7 +11202,7 @@
       "Documentary"
     ],
     "release_date": "April 3, 2025",
-    "initial_avg": "6.6",
+    "initial_avg": 6.6,
     "initial_raters": 39,
     "id": 858
   },
@@ -11214,7 +11214,7 @@
       "Documentary"
     ],
     "release_date": "April 3, 2025",
-    "initial_avg": "9.6",
+    "initial_avg": 9.6,
     "initial_raters": 31,
     "id": 859
   },
@@ -11230,7 +11230,7 @@
       "Thriller"
     ],
     "release_date": "April 8, 2025",
-    "initial_avg": "5.1",
+    "initial_avg": 5.1,
     "initial_raters": 278,
     "id": 860
   },
@@ -11242,7 +11242,7 @@
       "Thriller"
     ],
     "release_date": "April 4, 2025",
-    "initial_avg": "4.2",
+    "initial_avg": 4.2,
     "initial_raters": 472,
     "id": 861
   },
@@ -11255,7 +11255,7 @@
       "Drama"
     ],
     "release_date": "April 4, 2025",
-    "initial_avg": "7.5",
+    "initial_avg": 7.5,
     "initial_raters": 266,
     "id": 862
   },
@@ -11267,7 +11267,7 @@
       "Drama"
     ],
     "release_date": "April 4, 2025",
-    "initial_avg": "5.9",
+    "initial_avg": 5.9,
     "initial_raters": 48,
     "id": 863
   },
@@ -11279,7 +11279,7 @@
       "Action"
     ],
     "release_date": "April 4, 2025",
-    "initial_avg": "4.8",
+    "initial_avg": 4.8,
     "initial_raters": 33,
     "id": 864
   },
@@ -11295,7 +11295,7 @@
       "War"
     ],
     "release_date": "April 4, 2025",
-    "initial_avg": "7.7",
+    "initial_avg": 7.7,
     "initial_raters": 370,
     "id": 865
   },
@@ -11309,7 +11309,7 @@
       "Thriller"
     ],
     "release_date": "April 4, 2025",
-    "initial_avg": "7.7",
+    "initial_avg": 7.7,
     "initial_raters": 213,
     "id": 866
   },
@@ -11321,7 +11321,7 @@
       "Thriller"
     ],
     "release_date": "April 4, 2025",
-    "initial_avg": "7.4",
+    "initial_avg": 7.4,
     "initial_raters": 63,
     "id": 867
   },
@@ -11333,7 +11333,7 @@
       "Romance"
     ],
     "release_date": "April 4, 2025",
-    "initial_avg": "6.7",
+    "initial_avg": 6.7,
     "initial_raters": 75,
     "id": 868
   },
@@ -11345,7 +11345,7 @@
       "Drama"
     ],
     "release_date": "April 4, 2025",
-    "initial_avg": "6.9",
+    "initial_avg": 6.9,
     "initial_raters": 98,
     "id": 869
   }

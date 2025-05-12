@@ -5,14 +5,38 @@ import json
 # 1. 加载并处理数据
 ds = load_dataset("yxsllgz-uts/imdb-2025-more")
 
-ds = ds.filter(lambda example: example['votes'] >= 30 and example['rating'] is not None)
-ds = ds.map(
-    lambda example: {
-        'initial_avg': example['rating'],
-        'initial_raters': example['votes']
-    },
-    remove_columns=['rating', 'votes']
-)
+# ds = ds.filter(lambda example: example['votes'] >= 30 and example['rating'] is not None)
+# ds = ds.map(
+#     lambda example: {
+#         'initial_avg': example['rating'],
+#         'initial_raters': example['votes']
+#     },
+#     remove_columns=['rating', 'votes']
+# )
+
+# 尝试转换 rating 为 float（如果是字符串也行）
+def try_convert_rating(example):
+    try:
+        rating = float(example['rating'])
+        return {
+            'initial_avg': rating,
+            'initial_raters': example['votes']
+        }
+    except:
+        return {
+            'initial_avg': None,
+            'initial_raters': example['votes']
+        }
+
+# 先过滤 votes >= 30，保留 rating 不为空
+ds = ds.filter(lambda ex: ex['votes'] >= 30 and ex['rating'] is not None)
+
+# 转换 rating 为 float，非法 rating 设置为 None
+ds = ds.map(try_convert_rating, remove_columns=['rating', 'votes'])
+
+# 过滤非法 rating（转换失败的）
+ds = ds.filter(lambda ex: ex['initial_avg'] is not None)
+
 
 movies = []
 
