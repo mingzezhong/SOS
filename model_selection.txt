@@ -12,7 +12,7 @@ Qwen/Qwen2.5-32B-Instruct (yuxuan)
 Gemma:
 
 
-google/gemma-2-9b-it (zijing)
+google/gemma-2-9b-it (runing)
 google/gemma-2-27b-it (zijing)
 
 DeepSeek:

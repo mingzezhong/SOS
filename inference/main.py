@@ -370,7 +370,7 @@ def save_parquet(results, filename):
 if __name__ == "__main__":
 
     model_name = args.hf_model_name.split("/")[1]
-    save_path = f"{os.path.dirname(os.path.dirname(os.path.abspath(__file__)))}/results/{model_name}"
+    save_path = f"{os.path.dirname(os.path.dirname(os.path.abspath(__file__)))}/results/{args.sample_type}/{model_name}"
     print(save_path)
     os.makedirs(save_path, exist_ok=True)
 
