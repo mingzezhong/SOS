@@ -121,12 +121,17 @@ def call_vllm(prompt: str, fallback_rating: int = None) -> dict:
 
 
 def aggregate_responses(responses):
-    
-    scores = [resp["rating"] for resp in responses]
-    avg_score = round(statistics.mean(scores))
-    result = {"rating": avg_score}
+    valid_ratings = [
+        resp["rating"]
+        for resp in responses
+        if isinstance(resp.get("rating"), (int, float))
+    ]
 
-    return result
+    if not valid_ratings:
+        return {"rating": 0}
+
+    avg_score = round(statistics.mean(valid_ratings))
+    return {"rating": avg_score}
 
 
 def prompt_a(persona, movie):
