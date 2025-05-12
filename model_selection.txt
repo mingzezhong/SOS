@@ -1,25 +1,27 @@
 Llama:
 
-meta-llama/Meta-Llama-3-8B-Instruct (zijing)
+meta-llama/Meta-Llama-3.2-1B-Instruct
+meta-llama/Meta-Llama-3.2-3B-Instruct
+meta-llama/Meta-Llama-3-8B-Instruct (runing)
 meta-llama/Meta-Llama-3-70B-Instruct (yuxuan)
 
 Qwen:
 
 Qwen/Qwen2.5-1.5B-Instruct (runing)
-Qwen/Qwen2.5-14B-Instruct (yuxuan)
+Qwen/Qwen2.5-3B-Instruct
+Qwen/Qwen2.5-7B-Instruct 
 Qwen/Qwen2.5-32B-Instruct (yuxuan)
-
-Gemma:
-
-
-google/gemma-2-9b-it (runing)
-google/gemma-2-27b-it (zijing)
 
 DeepSeek:
 
-deepseek-ai/DeepSeek-V2-Lite-Chat (runing)
+deepseek-ai/DeepSeek-V2-Lite-Chat (runing) (16B)
 
 mistralai:
 
 mistralai/Ministral-8B-Instruct-2410 (runing)
 
+###############################
+
+export CUDA_VISIBLE_DEVICES=0,1
+
+python main.py --hf_model_name model --sample_type base
