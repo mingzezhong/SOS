@@ -26,7 +26,6 @@ from sample import (
     sampling,
 )
 
-import os
 os.environ["HF_HOME"] = f'{os.path.dirname(os.path.abspath(__file__)).split("SOS")[0]}.cache/huggingface/'
 
 # 创建 ArgumentParser 对象
