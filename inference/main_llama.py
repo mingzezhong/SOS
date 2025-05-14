@@ -50,9 +50,13 @@ movies_input_path = f"{os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 engine = LLM(
     model=args.hf_model_name,
     tokenizer=args.hf_model_name,
+    dtype = 'float16',
+    compilation_config = {
+        "use_triton" : True,
+        "use_flash_attention" : True
+    },
     trust_remote_code=True,
     device="cuda",
-    dtype="auto",
     max_num_seqs=8,
     max_num_batched_tokens=4096,
     # 并行配置：
@@ -60,6 +64,7 @@ engine = LLM(
     pipeline_parallel_size=1,      # 流水线并行 1-way（可调大）
     data_parallel_size=1,          # 数据并行 1-way（可调大）
 )
+
 
 sampling_params = SamplingParams(
     max_tokens=256,
@@ -97,8 +102,8 @@ def call_vllm(prompt: str, fallback_rating: int = None) -> dict:
         if m:
             score = int(m.group(1))
             return {"rating": score}
-        else:
-            print("No integer rating found, raw output:\n", text)
+        # else:
+        #     print("No integer rating found, raw output:\n", text)
             
     except Exception as e:
         print("Exception during vLLM call:", e)
